@@ -1,0 +1,2439 @@
+﻿code_insee,nom_standard,reg_code,reg_nom,dep_code,dep_nom,latitude_centre,longitude_centre
+22001,Allineuc,53,Bretagne,22,Côtes-d'Armor,48.311,-2.867
+22002,Andel,53,Bretagne,22,Côtes-d'Armor,48.494,-2.551
+22003,Aucaleuc,53,Bretagne,22,Côtes-d'Armor,48.451,-2.127
+22004,Bégard,53,Bretagne,22,Côtes-d'Armor,48.635,-3.292
+22005,Belle-Isle-en-Terre,53,Bretagne,22,Côtes-d'Armor,48.531,-3.382
+22006,Berhet,53,Bretagne,22,Côtes-d'Armor,48.698,-3.309
+22008,Bobital,53,Bretagne,22,Côtes-d'Armor,48.414,-2.097
+22009,Le Bodéo,53,Bretagne,22,Côtes-d'Armor,48.326,-2.922
+22011,Boqueho,53,Bretagne,22,Côtes-d'Armor,48.468,-2.985
+22012,La Bouillie,53,Bretagne,22,Côtes-d'Armor,48.584,-2.442
+22013,Bourbriac,53,Bretagne,22,Côtes-d'Armor,48.466,-3.2
+22014,Bourseul,53,Bretagne,22,Côtes-d'Armor,48.467,-2.265
+22015,Bréhand,53,Bretagne,22,Côtes-d'Armor,48.394,-2.589
+22016,Île-de-Bréhat,53,Bretagne,22,Côtes-d'Armor,48.851,-3.001
+22018,Brélidy,53,Bretagne,22,Côtes-d'Armor,48.649,-3.228
+22019,Bringolo,53,Bretagne,22,Côtes-d'Armor,48.577,-3.006
+22020,Broons,53,Bretagne,22,Côtes-d'Armor,48.311,-2.241
+22021,Brusvily,53,Bretagne,22,Côtes-d'Armor,48.394,-2.117
+22023,Bulat-Pestivien,53,Bretagne,22,Côtes-d'Armor,48.435,-3.333
+22024,Calanhel,53,Bretagne,22,Côtes-d'Armor,48.441,-3.476
+22025,Callac,53,Bretagne,22,Côtes-d'Armor,48.422,-3.416
+22026,Calorguen,53,Bretagne,22,Côtes-d'Armor,48.405,-2.026
+22027,Le Cambout,53,Bretagne,22,Côtes-d'Armor,48.059,-2.621
+22028,Camlez,53,Bretagne,22,Côtes-d'Armor,48.783,-3.316
+22029,Canihuel,53,Bretagne,22,Côtes-d'Armor,48.337,-3.096
+22030,Caouënnec-Lanvézéac,53,Bretagne,22,Côtes-d'Armor,48.706,-3.368
+22031,Carnoët,53,Bretagne,22,Côtes-d'Armor,48.36,-3.532
+22032,Caulnes,53,Bretagne,22,Côtes-d'Armor,48.302,-2.161
+22033,Caurel,53,Bretagne,22,Côtes-d'Armor,48.218,-3.039
+22034,Cavan,53,Bretagne,22,Côtes-d'Armor,48.683,-3.353
+22035,Les Champs-Géraux,53,Bretagne,22,Côtes-d'Armor,48.426,-1.978
+22036,La Chapelle-Blanche,53,Bretagne,22,Côtes-d'Armor,48.268,-2.129
+22037,La Chapelle-Neuve,53,Bretagne,22,Côtes-d'Armor,48.466,-3.441
+22039,La Chèze,53,Bretagne,22,Côtes-d'Armor,48.135,-2.663
+22040,Coadout,53,Bretagne,22,Côtes-d'Armor,48.515,-3.179
+22041,Coatascorn,53,Bretagne,22,Côtes-d'Armor,48.67,-3.256
+22042,Coatréven,53,Bretagne,22,Côtes-d'Armor,48.763,-3.326
+22043,Coëtlogon,53,Bretagne,22,Côtes-d'Armor,48.133,-2.544
+22044,Coëtmieux,53,Bretagne,22,Côtes-d'Armor,48.487,-2.592
+22045,Cohiniac,53,Bretagne,22,Côtes-d'Armor,48.452,-2.947
+22046,Le Mené,53,Bretagne,22,Côtes-d'Armor,48.294,-2.522
+22047,Corlay,53,Bretagne,22,Côtes-d'Armor,48.31,-3.038
+22048,Corseul,53,Bretagne,22,Côtes-d'Armor,48.483,-2.166
+22049,Créhen,53,Bretagne,22,Côtes-d'Armor,48.54,-2.191
+22050,Dinan,53,Bretagne,22,Côtes-d'Armor,48.456,-2.048
+22052,Duault,53,Bretagne,22,Côtes-d'Armor,48.365,-3.436
+22053,Éréac,53,Bretagne,22,Côtes-d'Armor,48.274,-2.344
+22054,Erquy,53,Bretagne,22,Côtes-d'Armor,48.619,-2.459
+22055,Binic-Étables-sur-Mer,53,Bretagne,22,Côtes-d'Armor,48.626,-2.841
+22056,Évran,53,Bretagne,22,Côtes-d'Armor,48.385,-1.98
+22057,Le Faouët,53,Bretagne,22,Côtes-d'Armor,48.679,-3.073
+22059,Le Fœil,53,Bretagne,22,Côtes-d'Armor,48.418,-2.914
+22060,Gausson,53,Bretagne,22,Côtes-d'Armor,48.293,-2.761
+22061,Glomel,53,Bretagne,22,Côtes-d'Armor,48.206,-3.388
+22062,Gomené,53,Bretagne,22,Côtes-d'Armor,48.18,-2.492
+22063,Gommenec'h,53,Bretagne,22,Côtes-d'Armor,48.638,-3.048
+22064,Gouarec,53,Bretagne,22,Côtes-d'Armor,48.236,-3.195
+22065,Goudelin,53,Bretagne,22,Côtes-d'Armor,48.603,-3.023
+22067,Grâces,53,Bretagne,22,Côtes-d'Armor,48.545,-3.182
+22068,Grâce-Uzel,53,Bretagne,22,Côtes-d'Armor,48.25,-2.794
+22069,Guenroc,53,Bretagne,22,Côtes-d'Armor,48.314,-2.081
+22070,Guingamp,53,Bretagne,22,Côtes-d'Armor,48.561,-3.153
+22071,Guitté,53,Bretagne,22,Côtes-d'Armor,48.291,-2.103
+22072,Gurunhuel,53,Bretagne,22,Côtes-d'Armor,48.508,-3.289
+22073,La Harmoye,53,Bretagne,22,Côtes-d'Armor,48.346,-2.969
+22074,Le Haut-Corlay,53,Bretagne,22,Côtes-d'Armor,48.341,-3.032
+22075,Hémonstoir,53,Bretagne,22,Côtes-d'Armor,48.157,-2.85
+22076,Hénanbihen,53,Bretagne,22,Côtes-d'Armor,48.558,-2.382
+22077,Hénansal,53,Bretagne,22,Côtes-d'Armor,48.538,-2.448
+22079,Hénon,53,Bretagne,22,Côtes-d'Armor,48.387,-2.683
+22081,Hillion,53,Bretagne,22,Côtes-d'Armor,48.503,-2.646
+22082,Le Hinglé,53,Bretagne,22,Côtes-d'Armor,48.398,-2.083
+22083,Illifaut,53,Bretagne,22,Côtes-d'Armor,48.144,-2.336
+22084,Jugon-les-Lacs,53,Bretagne,22,Côtes-d'Armor,48.417,-2.325
+22085,Kerbors,53,Bretagne,22,Côtes-d'Armor,48.824,-3.182
+22086,Kerfot,53,Bretagne,22,Côtes-d'Armor,48.737,-3.031
+22087,Kergrist-Moëlou,53,Bretagne,22,Côtes-d'Armor,48.295,-3.325
+22088,Kerien,53,Bretagne,22,Côtes-d'Armor,48.409,-3.23
+22090,Kermaria-Sulard,53,Bretagne,22,Côtes-d'Armor,48.774,-3.372
+22091,Kermoroc'h,53,Bretagne,22,Côtes-d'Armor,48.614,-3.203
+22092,Kerpert,53,Bretagne,22,Côtes-d'Armor,48.39,-3.137
+22093,Lamballe-Armor,53,Bretagne,22,Côtes-d'Armor,48.468,-2.495
+22094,Lancieux,53,Bretagne,22,Côtes-d'Armor,48.601,-2.147
+22095,Landebaëron,53,Bretagne,22,Côtes-d'Armor,48.638,-3.205
+22096,Landébia,53,Bretagne,22,Côtes-d'Armor,48.515,-2.337
+22097,La Landec,53,Bretagne,22,Côtes-d'Armor,48.426,-2.183
+22098,Landéhen,53,Bretagne,22,Côtes-d'Armor,48.422,-2.542
+22099,Lanfains,53,Bretagne,22,Côtes-d'Armor,48.365,-2.912
+22101,Langoat,53,Bretagne,22,Côtes-d'Armor,48.735,-3.298
+22103,Langrolay-sur-Rance,53,Bretagne,22,Côtes-d'Armor,48.553,-2.014
+22104,Languédias,53,Bretagne,22,Côtes-d'Armor,48.393,-2.206
+22105,Languenan,53,Bretagne,22,Côtes-d'Armor,48.512,-2.133
+22106,Langueux,53,Bretagne,22,Côtes-d'Armor,48.5,-2.71
+22107,Bon Repos sur Blavet,53,Bretagne,22,Côtes-d'Armor,48.24,-3.137
+22108,Lanleff,53,Bretagne,22,Côtes-d'Armor,48.693,-3.045
+22109,Lanloup,53,Bretagne,22,Côtes-d'Armor,48.71,-2.969
+22110,Lanmérin,53,Bretagne,22,Côtes-d'Armor,48.74,-3.356
+22111,Lanmodez,53,Bretagne,22,Côtes-d'Armor,48.845,-3.099
+22112,Lannebert,53,Bretagne,22,Côtes-d'Armor,48.651,-3.009
+22113,Lannion,53,Bretagne,22,Côtes-d'Armor,48.743,-3.462
+22114,Lanrelas,53,Bretagne,22,Côtes-d'Armor,48.246,-2.296
+22115,Lanrivain,53,Bretagne,22,Côtes-d'Armor,48.359,-3.215
+22116,Lanrodec,53,Bretagne,22,Côtes-d'Armor,48.5,-3.043
+22117,Lantic,53,Bretagne,22,Côtes-d'Armor,48.604,-2.899
+22118,Lanvallay,53,Bretagne,22,Côtes-d'Armor,48.452,-2.01
+22119,Lanvellec,53,Bretagne,22,Côtes-d'Armor,48.607,-3.528
+22121,Lanvollon,53,Bretagne,22,Côtes-d'Armor,48.633,-2.99
+22122,Laurenan,53,Bretagne,22,Côtes-d'Armor,48.215,-2.518
+22124,Lescouët-Gouarec,53,Bretagne,22,Côtes-d'Armor,48.169,-3.207
+22126,Le Leslay,53,Bretagne,22,Côtes-d'Armor,48.424,-2.965
+22127,Lézardrieux,53,Bretagne,22,Côtes-d'Armor,48.804,-3.109
+22128,Locarn,53,Bretagne,22,Côtes-d'Armor,48.333,-3.411
+22129,Loc-Envel,53,Bretagne,22,Côtes-d'Armor,48.51,-3.41
+22131,Loguivy-Plougras,53,Bretagne,22,Côtes-d'Armor,48.511,-3.491
+22132,Lohuec,53,Bretagne,22,Côtes-d'Armor,48.462,-3.527
+22133,Loscouët-sur-Meu,53,Bretagne,22,Côtes-d'Armor,48.176,-2.251
+22134,Louannec,53,Bretagne,22,Côtes-d'Armor,48.784,-3.412
+22135,Louargat,53,Bretagne,22,Côtes-d'Armor,48.561,-3.341
+22136,Loudéac,53,Bretagne,22,Côtes-d'Armor,48.174,-2.751
+22137,Maël-Carhaix,53,Bretagne,22,Côtes-d'Armor,48.288,-3.411
+22138,Maël-Pestivien,53,Bretagne,22,Côtes-d'Armor,48.404,-3.29
+22139,Magoar,53,Bretagne,22,Côtes-d'Armor,48.402,-3.177
+22140,La Malhoure,53,Bretagne,22,Côtes-d'Armor,48.396,-2.494
+22141,Mantallot,53,Bretagne,22,Côtes-d'Armor,48.71,-3.292
+22143,Matignon,53,Bretagne,22,Côtes-d'Armor,48.602,-2.29
+22144,La Méaugon,53,Bretagne,22,Côtes-d'Armor,48.504,-2.847
+22145,Mégrit,53,Bretagne,22,Côtes-d'Armor,48.39,-2.267
+22146,Mellionnec,53,Bretagne,22,Côtes-d'Armor,48.169,-3.29
+22147,Merdrignac,53,Bretagne,22,Côtes-d'Armor,48.194,-2.396
+22148,Mérillac,53,Bretagne,22,Côtes-d'Armor,48.249,-2.391
+22149,Merléac,53,Bretagne,22,Côtes-d'Armor,48.273,-2.911
+22150,Le Merzer,53,Bretagne,22,Côtes-d'Armor,48.582,-3.075
+22152,Minihy-Tréguier,53,Bretagne,22,Côtes-d'Armor,48.768,-3.258
+22153,Moncontour,53,Bretagne,22,Côtes-d'Armor,48.358,-2.632
+22155,La Motte,53,Bretagne,22,Côtes-d'Armor,48.231,-2.705
+22156,Moustéru,53,Bretagne,22,Côtes-d'Armor,48.528,-3.235
+22157,Le Moustoir,53,Bretagne,22,Côtes-d'Armor,48.274,-3.492
+22158,Guerlédan,53,Bretagne,22,Côtes-d'Armor,48.196,-2.984
+22160,Noyal,53,Bretagne,22,Côtes-d'Armor,48.451,-2.463
+22161,Pabu,53,Bretagne,22,Côtes-d'Armor,48.583,-3.143
+22162,Paimpol,53,Bretagne,22,Côtes-d'Armor,48.773,-3.055
+22163,Paule,53,Bretagne,22,Côtes-d'Armor,48.227,-3.461
+22164,Pédernec,53,Bretagne,22,Côtes-d'Armor,48.588,-3.277
+22165,Penguily,53,Bretagne,22,Côtes-d'Armor,48.372,-2.494
+22166,Penvénan,53,Bretagne,22,Côtes-d'Armor,48.816,-3.302
+22168,Perros-Guirec,53,Bretagne,22,Côtes-d'Armor,48.809,-3.468
+22169,Peumerit-Quintin,53,Bretagne,22,Côtes-d'Armor,48.364,-3.283
+22170,Plaine-Haute,53,Bretagne,22,Côtes-d'Armor,48.444,-2.859
+22171,Plaintel,53,Bretagne,22,Côtes-d'Armor,48.411,-2.81
+22172,Plancoët,53,Bretagne,22,Côtes-d'Armor,48.515,-2.219
+22174,Pléboulle,53,Bretagne,22,Côtes-d'Armor,48.595,-2.334
+22175,Plédéliac,53,Bretagne,22,Côtes-d'Armor,48.469,-2.372
+22176,Plédran,53,Bretagne,22,Côtes-d'Armor,48.443,-2.745
+22177,Pléguien,53,Bretagne,22,Côtes-d'Armor,48.635,-2.948
+22178,Pléhédel,53,Bretagne,22,Côtes-d'Armor,48.695,-3.006
+22179,Fréhel,53,Bretagne,22,Côtes-d'Armor,48.635,-2.362
+22180,Plélan-le-Petit,53,Bretagne,22,Côtes-d'Armor,48.427,-2.224
+22181,Plélauff,53,Bretagne,22,Côtes-d'Armor,48.198,-3.203
+22182,Plélo,53,Bretagne,22,Côtes-d'Armor,48.554,-2.927
+22183,Plémet,53,Bretagne,22,Côtes-d'Armor,48.186,-2.586
+22184,Plémy,53,Bretagne,22,Côtes-d'Armor,48.338,-2.676
+22185,Plénée-Jugon,53,Bretagne,22,Côtes-d'Armor,48.356,-2.416
+22186,Pléneuf-Val-André,53,Bretagne,22,Côtes-d'Armor,48.584,-2.53
+22187,Plérin,53,Bretagne,22,Côtes-d'Armor,48.544,-2.77
+22188,Plerneuf,53,Bretagne,22,Côtes-d'Armor,48.506,-2.88
+22189,Plésidy,53,Bretagne,22,Côtes-d'Armor,48.442,-3.126
+22190,Pleslin-Trigavou,53,Bretagne,22,Côtes-d'Armor,48.528,-2.071
+22193,Plestan,53,Bretagne,22,Côtes-d'Armor,48.415,-2.441
+22194,Plestin-les-Grèves,53,Bretagne,22,Côtes-d'Armor,48.648,-3.62
+22195,Pleubian,53,Bretagne,22,Côtes-d'Armor,48.844,-3.133
+22196,Pleudaniel,53,Bretagne,22,Côtes-d'Armor,48.761,-3.154
+22197,Pleudihen-sur-Rance,53,Bretagne,22,Côtes-d'Armor,48.509,-1.942
+22198,Pleumeur-Bodou,53,Bretagne,22,Côtes-d'Armor,48.785,-3.517
+22199,Pleumeur-Gautier,53,Bretagne,22,Côtes-d'Armor,48.8,-3.152
+22200,Pléven,53,Bretagne,22,Côtes-d'Armor,48.491,-2.321
+22201,Plévenon,53,Bretagne,22,Côtes-d'Armor,48.658,-2.32
+22202,Plévin,53,Bretagne,22,Côtes-d'Armor,48.224,-3.516
+22203,Plœuc-L'Hermitage,53,Bretagne,22,Côtes-d'Armor,48.344,-2.766
+22204,Ploëzal,53,Bretagne,22,Côtes-d'Armor,48.717,-3.18
+22205,Plorec-sur-Arguenon,53,Bretagne,22,Côtes-d'Armor,48.463,-2.301
+22206,Châtelaudren-Plouagat,53,Bretagne,22,Côtes-d'Armor,48.53,-2.99
+22207,Plouaret,53,Bretagne,22,Côtes-d'Armor,48.619,-3.483
+22208,Plouasne,53,Bretagne,22,Côtes-d'Armor,48.312,-2.009
+22209,Beaussais-sur-Mer,53,Bretagne,22,Côtes-d'Armor,48.56,-2.128
+22210,Ploubazlanec,53,Bretagne,22,Côtes-d'Armor,48.805,-3.045
+22211,Ploubezre,53,Bretagne,22,Côtes-d'Armor,48.686,-3.448
+22212,Plouëc-du-Trieux,53,Bretagne,22,Côtes-d'Armor,48.672,-3.188
+22213,Plouër-sur-Rance,53,Bretagne,22,Côtes-d'Armor,48.525,-2.007
+22214,Plouézec,53,Bretagne,22,Côtes-d'Armor,48.739,-2.979
+22215,Ploufragan,53,Bretagne,22,Côtes-d'Armor,48.488,-2.808
+22216,Plougonver,53,Bretagne,22,Côtes-d'Armor,48.485,-3.375
+22217,Plougras,53,Bretagne,22,Côtes-d'Armor,48.496,-3.565
+22218,Plougrescant,53,Bretagne,22,Côtes-d'Armor,48.839,-3.242
+22219,Plouguenast-Langast,53,Bretagne,22,Côtes-d'Armor,48.277,-2.71
+22220,Plouguernével,53,Bretagne,22,Côtes-d'Armor,48.234,-3.247
+22221,Plouguiel,53,Bretagne,22,Côtes-d'Armor,48.805,-3.246
+22222,Plouha,53,Bretagne,22,Côtes-d'Armor,48.682,-2.932
+22223,Plouisy,53,Bretagne,22,Côtes-d'Armor,48.584,-3.192
+22224,Ploulec'h,53,Bretagne,22,Côtes-d'Armor,48.719,-3.502
+22225,Ploumagoar,53,Bretagne,22,Côtes-d'Armor,48.53,-3.11
+22226,Ploumilliau,53,Bretagne,22,Côtes-d'Armor,48.684,-3.514
+22227,Plounérin,53,Bretagne,22,Côtes-d'Armor,48.567,-3.548
+22228,Plounévez-Moëdec,53,Bretagne,22,Côtes-d'Armor,48.552,-3.444
+22229,Plounévez-Quintin,53,Bretagne,22,Côtes-d'Armor,48.285,-3.241
+22231,Plourac'h,53,Bretagne,22,Côtes-d'Armor,48.418,-3.552
+22232,Plourhan,53,Bretagne,22,Côtes-d'Armor,48.631,-2.882
+22233,Plourivo,53,Bretagne,22,Côtes-d'Armor,48.742,-3.093
+22234,Plouvara,53,Bretagne,22,Côtes-d'Armor,48.497,-2.926
+22235,Plouzélambre,53,Bretagne,22,Côtes-d'Armor,48.648,-3.537
+22236,Pludual,53,Bretagne,22,Côtes-d'Armor,48.667,-2.987
+22237,Pluduno,53,Bretagne,22,Côtes-d'Armor,48.523,-2.281
+22238,Plufur,53,Bretagne,22,Côtes-d'Armor,48.611,-3.573
+22239,Plumaudan,53,Bretagne,22,Côtes-d'Armor,48.356,-2.115
+22240,Plumaugat,53,Bretagne,22,Côtes-d'Armor,48.245,-2.231
+22241,Plumieux,53,Bretagne,22,Côtes-d'Armor,48.106,-2.592
+22242,Plurien,53,Bretagne,22,Côtes-d'Armor,48.61,-2.4
+22243,Plusquellec,53,Bretagne,22,Côtes-d'Armor,48.399,-3.484
+22244,Plussulien,53,Bretagne,22,Côtes-d'Armor,48.278,-3.066
+22245,Pluzunet,53,Bretagne,22,Côtes-d'Armor,48.636,-3.371
+22246,Pommeret,53,Bretagne,22,Côtes-d'Armor,48.459,-2.622
+22248,Pommerit-le-Vicomte,53,Bretagne,22,Côtes-d'Armor,48.618,-3.103
+22249,Pont-Melvez,53,Bretagne,22,Côtes-d'Armor,48.474,-3.285
+22250,Pontrieux,53,Bretagne,22,Côtes-d'Armor,48.7,-3.159
+22251,Pordic,53,Bretagne,22,Côtes-d'Armor,48.57,-2.825
+22254,Prat,53,Bretagne,22,Côtes-d'Armor,48.682,-3.298
+22255,La Prénessaye,53,Bretagne,22,Côtes-d'Armor,48.186,-2.648
+22256,Quemper-Guézennec,53,Bretagne,22,Côtes-d'Armor,48.701,-3.108
+22257,Quemperven,53,Bretagne,22,Côtes-d'Armor,48.725,-3.337
+22258,Quessoy,53,Bretagne,22,Côtes-d'Armor,48.427,-2.657
+22259,Quévert,53,Bretagne,22,Côtes-d'Armor,48.463,-2.086
+22260,Le Quillio,53,Bretagne,22,Côtes-d'Armor,48.24,-2.898
+22261,Quintenic,53,Bretagne,22,Côtes-d'Armor,48.51,-2.422
+22262,Quintin,53,Bretagne,22,Côtes-d'Armor,48.403,-2.912
+22263,Le Quiou,53,Bretagne,22,Côtes-d'Armor,48.346,-1.998
+22264,La Roche-Jaudy,53,Bretagne,22,Côtes-d'Armor,48.746,-3.258
+22265,Rospez,53,Bretagne,22,Côtes-d'Armor,48.736,-3.386
+22266,Rostrenen,53,Bretagne,22,Côtes-d'Armor,48.222,-3.312
+22267,Rouillac,53,Bretagne,22,Côtes-d'Armor,48.307,-2.369
+22268,Ruca,53,Bretagne,22,Côtes-d'Armor,48.561,-2.335
+22269,Runan,53,Bretagne,22,Côtes-d'Armor,48.687,-3.227
+22271,Saint-Adrien,53,Bretagne,22,Côtes-d'Armor,48.49,-3.133
+22272,Saint-Agathon,53,Bretagne,22,Côtes-d'Armor,48.563,-3.101
+22273,Saint-Alban,53,Bretagne,22,Côtes-d'Armor,48.555,-2.509
+22274,Saint-André-des-Eaux,53,Bretagne,22,Côtes-d'Armor,48.373,-2.014
+22275,Saint-Barnabé,53,Bretagne,22,Côtes-d'Armor,48.138,-2.702
+22276,Saint-Bihy,53,Bretagne,22,Côtes-d'Armor,48.376,-2.967
+22277,Saint-Brandan,53,Bretagne,22,Côtes-d'Armor,48.39,-2.864
+22278,Saint-Brieuc,53,Bretagne,22,Côtes-d'Armor,48.515,-2.762
+22279,Saint-Caradec,53,Bretagne,22,Côtes-d'Armor,48.192,-2.868
+22280,Saint-Carné,53,Bretagne,22,Côtes-d'Armor,48.42,-2.055
+22281,Saint-Carreuc,53,Bretagne,22,Côtes-d'Armor,48.404,-2.75
+22282,Saint-Cast-le-Guildo,53,Bretagne,22,Côtes-d'Armor,48.604,-2.249
+22283,Saint-Clet,53,Bretagne,22,Côtes-d'Armor,48.67,-3.137
+22284,Saint-Connan,53,Bretagne,22,Côtes-d'Armor,48.412,-3.076
+22285,Saint-Connec,53,Bretagne,22,Côtes-d'Armor,48.18,-2.926
+22286,Saint-Denoual,53,Bretagne,22,Côtes-d'Armor,48.519,-2.384
+22287,Saint-Donan,53,Bretagne,22,Côtes-d'Armor,48.466,-2.887
+22288,Saint-Étienne-du-Gué-de-l'Isle,53,Bretagne,22,Côtes-d'Armor,48.086,-2.644
+22289,Saint-Fiacre,53,Bretagne,22,Côtes-d'Armor,48.455,-3.052
+22291,Saint-Gildas,53,Bretagne,22,Côtes-d'Armor,48.422,-3.007
+22293,Saint-Gilles-les-Bois,53,Bretagne,22,Côtes-d'Armor,48.657,-3.091
+22294,Saint-Gilles-Pligeaux,53,Bretagne,22,Côtes-d'Armor,48.38,-3.087
+22295,Saint-Gilles-Vieux-Marché,53,Bretagne,22,Côtes-d'Armor,48.25,-2.97
+22296,Saint-Glen,53,Bretagne,22,Côtes-d'Armor,48.352,-2.522
+22299,Saint-Hélen,53,Bretagne,22,Côtes-d'Armor,48.466,-1.959
+22300,Saint-Hervé,53,Bretagne,22,Côtes-d'Armor,48.274,-2.812
+22302,Saint-Jacut-de-la-Mer,53,Bretagne,22,Côtes-d'Armor,48.588,-2.193
+22304,Saint-Jean-Kerdaniel,53,Bretagne,22,Côtes-d'Armor,48.553,-3.034
+22305,Saint-Jouan-de-l'Isle,53,Bretagne,22,Côtes-d'Armor,48.266,-2.178
+22306,Saint-Judoce,53,Bretagne,22,Côtes-d'Armor,48.362,-1.954
+22307,Saint-Julien,53,Bretagne,22,Côtes-d'Armor,48.448,-2.817
+22308,Saint-Juvat,53,Bretagne,22,Côtes-d'Armor,48.362,-2.055
+22309,Saint-Launeuc,53,Bretagne,22,Côtes-d'Armor,48.232,-2.354
+22310,Saint-Laurent,53,Bretagne,22,Côtes-d'Armor,48.615,-3.242
+22311,Saint-Lormel,53,Bretagne,22,Côtes-d'Armor,48.552,-2.235
+22312,Saint-Maden,53,Bretagne,22,Côtes-d'Armor,48.337,-2.069
+22313,Saint-Martin-des-Prés,53,Bretagne,22,Côtes-d'Armor,48.306,-2.965
+22314,Saint-Maudan,53,Bretagne,22,Côtes-d'Armor,48.111,-2.768
+22315,Saint-Maudez,53,Bretagne,22,Côtes-d'Armor,48.455,-2.183
+22316,Saint-Mayeux,53,Bretagne,22,Côtes-d'Armor,48.265,-3.016
+22317,Saint-Méloir-des-Bois,53,Bretagne,22,Côtes-d'Armor,48.442,-2.257
+22318,Saint-Michel-de-Plélan,53,Bretagne,22,Côtes-d'Armor,48.463,-2.222
+22319,Saint-Michel-en-Grève,53,Bretagne,22,Côtes-d'Armor,48.674,-3.557
+22320,Saint-Nicodème,53,Bretagne,22,Côtes-d'Armor,48.354,-3.339
+22321,Saint-Nicolas-du-Pélem,53,Bretagne,22,Côtes-d'Armor,48.323,-3.164
+22322,Saint-Péver,53,Bretagne,22,Côtes-d'Armor,48.482,-3.091
+22323,Saint-Pôtan,53,Bretagne,22,Côtes-d'Armor,48.557,-2.293
+22324,Saint-Quay-Perros,53,Bretagne,22,Côtes-d'Armor,48.782,-3.449
+22325,Saint-Quay-Portrieux,53,Bretagne,22,Côtes-d'Armor,48.654,-2.844
+22326,Saint-Rieul,53,Bretagne,22,Côtes-d'Armor,48.443,-2.422
+22327,Saint-Samson-sur-Rance,53,Bretagne,22,Côtes-d'Armor,48.492,-2.018
+22328,Saint-Servais,53,Bretagne,22,Côtes-d'Armor,48.387,-3.374
+22330,Saint-Thélo,53,Bretagne,22,Côtes-d'Armor,48.246,-2.841
+22331,Sainte-Tréphine,53,Bretagne,22,Côtes-d'Armor,48.267,-3.169
+22332,Saint-Trimoël,53,Bretagne,22,Côtes-d'Armor,48.393,-2.541
+22333,Saint-Vran,53,Bretagne,22,Côtes-d'Armor,48.243,-2.457
+22334,Saint-Igeaux,53,Bretagne,22,Côtes-d'Armor,48.278,-3.115
+22335,Senven-Léhart,53,Bretagne,22,Côtes-d'Armor,48.435,-3.064
+22337,Sévignac,53,Bretagne,22,Côtes-d'Armor,48.332,-2.32
+22338,Squiffiec,53,Bretagne,22,Côtes-d'Armor,48.638,-3.167
+22339,Taden,53,Bretagne,22,Côtes-d'Armor,48.488,-2.054
+22340,Tonquédec,53,Bretagne,22,Côtes-d'Armor,48.675,-3.4
+22341,Tramain,53,Bretagne,22,Côtes-d'Armor,48.4,-2.389
+22342,Trébédan,53,Bretagne,22,Côtes-d'Armor,48.406,-2.163
+22343,Trébeurden,53,Bretagne,22,Côtes-d'Armor,48.771,-3.558
+22344,Trébrivan,53,Bretagne,22,Côtes-d'Armor,48.31,-3.482
+22345,Trébry,53,Bretagne,22,Côtes-d'Armor,48.346,-2.558
+22346,Trédaniel,53,Bretagne,22,Côtes-d'Armor,48.347,-2.606
+22347,Trédarzec,53,Bretagne,22,Côtes-d'Armor,48.791,-3.202
+22348,Trédias,53,Bretagne,22,Côtes-d'Armor,48.365,-2.223
+22349,Trédrez-Locquémeau,53,Bretagne,22,Côtes-d'Armor,48.708,-3.564
+22350,Tréduder,53,Bretagne,22,Côtes-d'Armor,48.654,-3.566
+22351,Treffrin,53,Bretagne,22,Côtes-d'Armor,48.298,-3.527
+22352,Tréfumel,53,Bretagne,22,Côtes-d'Armor,48.337,-2.024
+22353,Trégastel,53,Bretagne,22,Côtes-d'Armor,48.817,-3.506
+22354,Tréglamus,53,Bretagne,22,Côtes-d'Armor,48.557,-3.255
+22356,Trégomeur,53,Bretagne,22,Côtes-d'Armor,48.568,-2.883
+22358,Trégonneau,53,Bretagne,22,Côtes-d'Armor,48.614,-3.163
+22359,Trégrom,53,Bretagne,22,Côtes-d'Armor,48.595,-3.403
+22360,Trégueux,53,Bretagne,22,Côtes-d'Armor,48.48,-2.745
+22361,Tréguidel,53,Bretagne,22,Côtes-d'Armor,48.6,-2.943
+22362,Tréguier,53,Bretagne,22,Côtes-d'Armor,48.785,-3.232
+22363,Trélévern,53,Bretagne,22,Côtes-d'Armor,48.802,-3.37
+22364,Trélivan,53,Bretagne,22,Côtes-d'Armor,48.43,-2.106
+22365,Trémargat,53,Bretagne,22,Côtes-d'Armor,48.33,-3.267
+22366,Trémel,53,Bretagne,22,Côtes-d'Armor,48.605,-3.618
+22368,Tréméreuc,53,Bretagne,22,Côtes-d'Armor,48.561,-2.064
+22369,Trémeur,53,Bretagne,22,Côtes-d'Armor,48.351,-2.268
+22370,Tréméven,53,Bretagne,22,Côtes-d'Armor,48.671,-3.032
+22371,Trémorel,53,Bretagne,22,Côtes-d'Armor,48.191,-2.302
+22372,Trémuson,53,Bretagne,22,Côtes-d'Armor,48.525,-2.848
+22373,Tréogan,53,Bretagne,22,Côtes-d'Armor,48.187,-3.53
+22375,Tressignaux,53,Bretagne,22,Côtes-d'Armor,48.61,-2.975
+22376,Trévé,53,Bretagne,22,Côtes-d'Armor,48.216,-2.807
+22377,Tréveneuc,53,Bretagne,22,Côtes-d'Armor,48.66,-2.874
+22378,Trévérec,53,Bretagne,22,Côtes-d'Armor,48.66,-3.055
+22379,Trévou-Tréguignec,53,Bretagne,22,Côtes-d'Armor,48.812,-3.345
+22380,Trévron,53,Bretagne,22,Côtes-d'Armor,48.389,-2.068
+22381,Trézény,53,Bretagne,22,Côtes-d'Armor,48.755,-3.36
+22383,Troguéry,53,Bretagne,22,Côtes-d'Armor,48.761,-3.225
+22384,Uzel,53,Bretagne,22,Côtes-d'Armor,48.281,-2.848
+22385,La Vicomté-sur-Rance,53,Bretagne,22,Côtes-d'Armor,48.488,-1.983
+22386,Le Vieux-Bourg,53,Bretagne,22,Côtes-d'Armor,48.391,-3.004
+22387,Le Vieux-Marché,53,Bretagne,22,Côtes-d'Armor,48.614,-3.438
+22388,Vildé-Guingalan,53,Bretagne,22,Côtes-d'Armor,48.436,-2.152
+22389,Yffiniac,53,Bretagne,22,Côtes-d'Armor,48.468,-2.681
+22390,Yvias,53,Bretagne,22,Côtes-d'Armor,48.715,-3.046
+22391,Yvignac-la-Tour,53,Bretagne,22,Côtes-d'Armor,48.349,-2.171
+29001,Argol,53,Bretagne,29,Finistère,48.25,-4.299
+29002,Arzano,53,Bretagne,29,Finistère,47.893,-3.443
+29003,Audierne,53,Bretagne,29,Finistère,48.024,-4.544
+29004,Bannalec,53,Bretagne,29,Finistère,47.935,-3.695
+29005,Baye,53,Bretagne,29,Finistère,47.856,-3.613
+29006,Bénodet,53,Bretagne,29,Finistère,47.878,-4.077
+29007,Berrien,53,Bretagne,29,Finistère,48.403,-3.765
+29008,Beuzec-Cap-Sizun,53,Bretagne,29,Finistère,48.072,-4.507
+29010,Bodilis,53,Bretagne,29,Finistère,48.515,-4.121
+29011,Bohars,53,Bretagne,29,Finistère,48.432,-4.522
+29012,Bolazec,53,Bretagne,29,Finistère,48.442,-3.595
+29013,Botmeur,53,Bretagne,29,Finistère,48.376,-3.923
+29014,Botsorhel,53,Bretagne,29,Finistère,48.506,-3.629
+29015,Bourg-Blanc,53,Bretagne,29,Finistère,48.496,-4.5
+29016,Brasparts,53,Bretagne,29,Finistère,48.319,-3.95
+29017,Brélès,53,Bretagne,29,Finistère,48.471,-4.686
+29018,Brennilis,53,Bretagne,29,Finistère,48.36,-3.85
+29019,Brest,53,Bretagne,29,Finistère,48.4,-4.503
+29020,Briec,53,Bretagne,29,Finistère,48.094,-4.021
+29021,Plounéour-Brignogan-plages,53,Bretagne,29,Finistère,48.667,-4.334
+29022,Camaret-sur-Mer,53,Bretagne,29,Finistère,48.268,-4.588
+29023,Carantec,53,Bretagne,29,Finistère,48.655,-3.913
+29024,Carhaix-Plouguer,53,Bretagne,29,Finistère,48.269,-3.566
+29025,Cast,53,Bretagne,29,Finistère,48.149,-4.119
+29026,Châteaulin,53,Bretagne,29,Finistère,48.203,-4.074
+29027,Châteauneuf-du-Faou,53,Bretagne,29,Finistère,48.189,-3.821
+29028,Cléden-Cap-Sizun,53,Bretagne,29,Finistère,48.054,-4.657
+29029,Cléden-Poher,53,Bretagne,29,Finistère,48.243,-3.664
+29030,Cléder,53,Bretagne,29,Finistère,48.66,-4.124
+29031,Clohars-Carnoët,53,Bretagne,29,Finistère,47.794,-3.567
+29032,Clohars-Fouesnant,53,Bretagne,29,Finistère,47.898,-4.083
+29033,Le Cloître-Pleyben,53,Bretagne,29,Finistère,48.258,-3.896
+29034,Le Cloître-Saint-Thégonnec,53,Bretagne,29,Finistère,48.46,-3.792
+29035,Coat-Méal,53,Bretagne,29,Finistère,48.506,-4.54
+29036,Collorec,53,Bretagne,29,Finistère,48.292,-3.772
+29037,Combrit,53,Bretagne,29,Finistère,47.887,-4.164
+29038,Commana,53,Bretagne,29,Finistère,48.41,-3.97
+29039,Concarneau,53,Bretagne,29,Finistère,47.897,-3.907
+29040,Le Conquet,53,Bretagne,29,Finistère,48.356,-4.762
+29041,Coray,53,Bretagne,29,Finistère,48.066,-3.855
+29042,Crozon,53,Bretagne,29,Finistère,48.245,-4.492
+29043,Daoulas,53,Bretagne,29,Finistère,48.356,-4.263
+29044,Dinéault,53,Bretagne,29,Finistère,48.217,-4.167
+29045,Dirinon,53,Bretagne,29,Finistère,48.401,-4.269
+29046,Douarnenez,53,Bretagne,29,Finistère,48.081,-4.328
+29047,Le Drennec,53,Bretagne,29,Finistère,48.533,-4.381
+29048,Edern,53,Bretagne,29,Finistère,48.12,-3.96
+29049,Elliant,53,Bretagne,29,Finistère,48.008,-3.903
+29051,Ergué-Gabéric,53,Bretagne,29,Finistère,48.012,-4.008
+29053,Le Faou,53,Bretagne,29,Finistère,48.306,-4.142
+29054,La Feuillée,53,Bretagne,29,Finistère,48.391,-3.852
+29055,Le Folgoët,53,Bretagne,29,Finistère,48.567,-4.352
+29056,La Forest-Landerneau,53,Bretagne,29,Finistère,48.434,-4.315
+29057,La Forêt-Fouesnant,53,Bretagne,29,Finistère,47.92,-3.969
+29058,Fouesnant,53,Bretagne,29,Finistère,47.878,-4.018
+29059,Garlan,53,Bretagne,29,Finistère,48.604,-3.767
+29060,Gouesnach,53,Bretagne,29,Finistère,47.917,-4.111
+29061,Gouesnou,53,Bretagne,29,Finistère,48.447,-4.463
+29062,Gouézec,53,Bretagne,29,Finistère,48.17,-3.972
+29063,Goulien,53,Bretagne,29,Finistère,48.058,-4.593
+29064,Goulven,53,Bretagne,29,Finistère,48.624,-4.296
+29065,Gourlizon,53,Bretagne,29,Finistère,48.026,-4.27
+29066,Guengat,53,Bretagne,29,Finistère,48.041,-4.196
+29067,Guerlesquin,53,Bretagne,29,Finistère,48.532,-3.588
+29068,Guiclan,53,Bretagne,29,Finistère,48.543,-3.98
+29069,Guilers,53,Bretagne,29,Finistère,48.419,-4.562
+29070,Guiler-sur-Goyen,53,Bretagne,29,Finistère,48.017,-4.361
+29071,Guilligomarc'h,53,Bretagne,29,Finistère,47.943,-3.426
+29072,Guilvinec,53,Bretagne,29,Finistère,47.801,-4.286
+29073,Guimaëc,53,Bretagne,29,Finistère,48.679,-3.706
+29074,Guimiliau,53,Bretagne,29,Finistère,48.481,-3.997
+29075,Guipavas,53,Bretagne,29,Finistère,48.431,-4.396
+29076,Milizac-Guipronvel,53,Bretagne,29,Finistère,48.491,-4.57
+29077,Guissény,53,Bretagne,29,Finistère,48.617,-4.411
+29078,Hanvec,53,Bretagne,29,Finistère,48.33,-4.139
+29079,Henvic,53,Bretagne,29,Finistère,48.633,-3.93
+29080,Hôpital-Camfrout,53,Bretagne,29,Finistère,48.324,-4.239
+29081,Huelgoat,53,Bretagne,29,Finistère,48.362,-3.758
+29082,Île-de-Batz,53,Bretagne,29,Finistère,48.745,-4.014
+29083,Île-de-Sein,53,Bretagne,29,Finistère,48.038,-4.858
+29084,Île-Molène,53,Bretagne,29,Finistère,48.395,-4.96
+29085,Île-Tudy,53,Bretagne,29,Finistère,47.853,-4.162
+29086,Irvillac,53,Bretagne,29,Finistère,48.367,-4.202
+29087,Le Juch,53,Bretagne,29,Finistère,48.056,-4.266
+29089,Kergloff,53,Bretagne,29,Finistère,48.28,-3.646
+29090,Kerlaz,53,Bretagne,29,Finistère,48.091,-4.263
+29091,Kerlouan,53,Bretagne,29,Finistère,48.648,-4.379
+29093,Kernilis,53,Bretagne,29,Finistère,48.575,-4.411
+29094,Kernouës,53,Bretagne,29,Finistère,48.594,-4.345
+29095,Kersaint-Plabennec,53,Bretagne,29,Finistère,48.479,-4.363
+29097,Lampaul-Guimiliau,53,Bretagne,29,Finistère,48.484,-4.041
+29098,Lampaul-Plouarzel,53,Bretagne,29,Finistère,48.45,-4.765
+29099,Lampaul-Ploudalmézeau,53,Bretagne,29,Finistère,48.553,-4.647
+29100,Lanarvily,53,Bretagne,29,Finistère,48.561,-4.383
+29101,Landéda,53,Bretagne,29,Finistère,48.589,-4.577
+29102,Landeleau,53,Bretagne,29,Finistère,48.253,-3.733
+29103,Landerneau,53,Bretagne,29,Finistère,48.451,-4.264
+29104,Landévennec,53,Bretagne,29,Finistère,48.281,-4.312
+29105,Landivisiau,53,Bretagne,29,Finistère,48.516,-4.061
+29106,Landrévarzec,53,Bretagne,29,Finistère,48.09,-4.076
+29107,Landudal,53,Bretagne,29,Finistère,48.056,-3.977
+29108,Landudec,53,Bretagne,29,Finistère,47.996,-4.328
+29109,Landunvez,53,Bretagne,29,Finistère,48.534,-4.729
+29110,Langolen,53,Bretagne,29,Finistère,48.075,-3.916
+29111,Lanhouarneau,53,Bretagne,29,Finistère,48.576,-4.204
+29112,Lanildut,53,Bretagne,29,Finistère,48.482,-4.734
+29113,Lanmeur,53,Bretagne,29,Finistère,48.642,-3.722
+29114,Lannéanou,53,Bretagne,29,Finistère,48.498,-3.665
+29115,Lannédern,53,Bretagne,29,Finistère,48.289,-3.902
+29116,Lanneuffret,53,Bretagne,29,Finistère,48.495,-4.202
+29117,Lannilis,53,Bretagne,29,Finistère,48.57,-4.524
+29119,Lanrivoaré,53,Bretagne,29,Finistère,48.466,-4.635
+29120,Lanvéoc,53,Bretagne,29,Finistère,48.276,-4.444
+29122,Laz,53,Bretagne,29,Finistère,48.135,-3.84
+29123,Lennon,53,Bretagne,29,Finistère,48.205,-3.903
+29124,Lesneven,53,Bretagne,29,Finistère,48.58,-4.313
+29125,Leuhan,53,Bretagne,29,Finistère,48.101,-3.778
+29126,Loc-Brévalaire,53,Bretagne,29,Finistère,48.554,-4.407
+29128,Loc-Eguiner,53,Bretagne,29,Finistère,48.476,-4.093
+29130,Locmaria-Plouzané,53,Bretagne,29,Finistère,48.371,-4.65
+29131,Locmélar,53,Bretagne,29,Finistère,48.45,-4.058
+29132,Locquénolé,53,Bretagne,29,Finistère,48.624,-3.864
+29133,Locquirec,53,Bretagne,29,Finistère,48.683,-3.668
+29134,Locronan,53,Bretagne,29,Finistère,48.098,-4.213
+29135,Loctudy,53,Bretagne,29,Finistère,47.824,-4.187
+29136,Locunolé,53,Bretagne,29,Finistère,47.924,-3.486
+29137,Logonna-Daoulas,53,Bretagne,29,Finistère,48.329,-4.289
+29139,Lopérec,53,Bretagne,29,Finistère,48.302,-4.034
+29140,Loperhet,53,Bretagne,29,Finistère,48.384,-4.314
+29141,Loqueffret,53,Bretagne,29,Finistère,48.33,-3.859
+29142,Lothey,53,Bretagne,29,Finistère,48.183,-4.026
+29143,Mahalon,53,Bretagne,29,Finistère,48.027,-4.419
+29144,La Martyre,53,Bretagne,29,Finistère,48.437,-4.17
+29145,Confort-Meilars,53,Bretagne,29,Finistère,48.056,-4.435
+29146,Melgven,53,Bretagne,29,Finistère,47.913,-3.842
+29147,Mellac,53,Bretagne,29,Finistère,47.898,-3.588
+29148,Mespaul,53,Bretagne,29,Finistère,48.615,-4.033
+29150,Moëlan-sur-Mer,53,Bretagne,29,Finistère,47.806,-3.646
+29151,Morlaix,53,Bretagne,29,Finistère,48.6,-3.82
+29152,Motreff,53,Bretagne,29,Finistère,48.22,-3.562
+29153,Névez,53,Bretagne,29,Finistère,47.815,-3.776
+29155,Ouessant,53,Bretagne,29,Finistère,48.46,-5.085
+29156,Pencran,53,Bretagne,29,Finistère,48.444,-4.221
+29158,Penmarch,53,Bretagne,29,Finistère,47.812,-4.34
+29159,Peumerit,53,Bretagne,29,Finistère,47.946,-4.296
+29160,Plabennec,53,Bretagne,29,Finistère,48.494,-4.419
+29161,Pleuven,53,Bretagne,29,Finistère,47.915,-4.046
+29162,Pleyben,53,Bretagne,29,Finistère,48.238,-3.975
+29163,Pleyber-Christ,53,Bretagne,29,Finistère,48.511,-3.872
+29165,Plobannalec-Lesconil,53,Bretagne,29,Finistère,47.822,-4.228
+29166,Ploéven,53,Bretagne,29,Finistère,48.158,-4.213
+29167,Plogastel-Saint-Germain,53,Bretagne,29,Finistère,47.977,-4.264
+29168,Plogoff,53,Bretagne,29,Finistère,48.035,-4.681
+29169,Plogonnec,53,Bretagne,29,Finistère,48.073,-4.159
+29170,Plomelin,53,Bretagne,29,Finistère,47.936,-4.15
+29171,Plomeur,53,Bretagne,29,Finistère,47.838,-4.294
+29172,Plomodiern,53,Bretagne,29,Finistère,48.181,-4.218
+29173,Plonéis,53,Bretagne,29,Finistère,48.011,-4.209
+29174,Plonéour-Lanvern,53,Bretagne,29,Finistère,47.908,-4.265
+29175,Plonévez-du-Faou,53,Bretagne,29,Finistère,48.256,-3.823
+29176,Plonévez-Porzay,53,Bretagne,29,Finistère,48.127,-4.239
+29177,Plouarzel,53,Bretagne,29,Finistère,48.439,-4.721
+29178,Ploudalmézeau,53,Bretagne,29,Finistère,48.538,-4.67
+29179,Ploudaniel,53,Bretagne,29,Finistère,48.523,-4.314
+29180,Ploudiry,53,Bretagne,29,Finistère,48.457,-4.129
+29181,Plouédern,53,Bretagne,29,Finistère,48.483,-4.252
+29182,Plouégat-Guérand,53,Bretagne,29,Finistère,48.622,-3.67
+29183,Plouégat-Moysan,53,Bretagne,29,Finistère,48.57,-3.617
+29184,Plouénan,53,Bretagne,29,Finistère,48.621,-3.982
+29185,Plouescat,53,Bretagne,29,Finistère,48.666,-4.18
+29186,Plouezoc'h,53,Bretagne,29,Finistère,48.637,-3.816
+29187,Plougar,53,Bretagne,29,Finistère,48.556,-4.129
+29188,Plougasnou,53,Bretagne,29,Finistère,48.678,-3.812
+29189,Plougastel-Daoulas,53,Bretagne,29,Finistère,48.36,-4.383
+29190,Plougonvelin,53,Bretagne,29,Finistère,48.351,-4.718
+29191,Plougonven,53,Bretagne,29,Finistère,48.505,-3.727
+29192,Plougoulm,53,Bretagne,29,Finistère,48.656,-4.042
+29193,Plougourvest,53,Bretagne,29,Finistère,48.554,-4.074
+29195,Plouguerneau,53,Bretagne,29,Finistère,48.603,-4.49
+29196,Plouguin,53,Bretagne,29,Finistère,48.529,-4.592
+29197,Plouhinec,53,Bretagne,29,Finistère,48.014,-4.485
+29198,Plouider,53,Bretagne,29,Finistère,48.602,-4.294
+29199,Plouigneau,53,Bretagne,29,Finistère,48.574,-3.704
+29201,Ploumoguer,53,Bretagne,29,Finistère,48.4,-4.715
+29202,Plounéour-Ménez,53,Bretagne,29,Finistère,48.445,-3.881
+29204,Plounéventer,53,Bretagne,29,Finistère,48.521,-4.209
+29205,Plounévézel,53,Bretagne,29,Finistère,48.312,-3.574
+29206,Plounévez-Lochrist,53,Bretagne,29,Finistère,48.62,-4.199
+29207,Plourin-lès-Morlaix,53,Bretagne,29,Finistère,48.522,-3.801
+29208,Plourin,53,Bretagne,29,Finistère,48.503,-4.684
+29209,Plouvien,53,Bretagne,29,Finistère,48.539,-4.465
+29210,Plouvorn,53,Bretagne,29,Finistère,48.577,-4.022
+29211,Plouyé,53,Bretagne,29,Finistère,48.321,-3.734
+29212,Plouzané,53,Bretagne,29,Finistère,48.377,-4.599
+29213,Plouzévédé,53,Bretagne,29,Finistère,48.592,-4.096
+29214,Plovan,53,Bretagne,29,Finistère,47.933,-4.36
+29215,Plozévet,53,Bretagne,29,Finistère,47.983,-4.41
+29216,Pluguffan,53,Bretagne,29,Finistère,47.972,-4.187
+29217,Pont-Aven,53,Bretagne,29,Finistère,47.872,-3.766
+29218,Pont-Croix,53,Bretagne,29,Finistère,48.047,-4.496
+29220,Pont-l'Abbé,53,Bretagne,29,Finistère,47.866,-4.22
+29221,Porspoder,53,Bretagne,29,Finistère,48.499,-4.754
+29222,Port-Launay,53,Bretagne,29,Finistère,48.218,-4.083
+29224,Pouldergat,53,Bretagne,29,Finistère,48.041,-4.326
+29225,Pouldreuzic,53,Bretagne,29,Finistère,47.961,-4.364
+29226,Poullan-sur-Mer,53,Bretagne,29,Finistère,48.077,-4.397
+29227,Poullaouen,53,Bretagne,29,Finistère,48.346,-3.63
+29228,Primelin,53,Bretagne,29,Finistère,48.029,-4.606
+29229,Quéménéven,53,Bretagne,29,Finistère,48.118,-4.144
+29230,Querrien,53,Bretagne,29,Finistère,47.955,-3.548
+29232,Quimper,53,Bretagne,29,Finistère,47.997,-4.091
+29233,Quimperlé,53,Bretagne,29,Finistère,47.856,-3.556
+29234,Rédené,53,Bretagne,29,Finistère,47.856,-3.487
+29235,Le Relecq-Kerhuon,53,Bretagne,29,Finistère,48.403,-4.402
+29236,Riec-sur-Bélon,53,Bretagne,29,Finistère,47.849,-3.691
+29237,La Roche-Maurice,53,Bretagne,29,Finistère,48.473,-4.194
+29238,Roscanvel,53,Bretagne,29,Finistère,48.318,-4.559
+29239,Roscoff,53,Bretagne,29,Finistère,48.712,-3.99
+29240,Rosnoën,53,Bretagne,29,Finistère,48.272,-4.199
+29241,Rosporden,53,Bretagne,29,Finistère,47.958,-3.802
+29243,Saint-Coulitz,53,Bretagne,29,Finistère,48.182,-4.067
+29244,Saint-Derrien,53,Bretagne,29,Finistère,48.545,-4.186
+29245,Saint-Divy,53,Bretagne,29,Finistère,48.454,-4.331
+29246,Saint-Eloy,53,Bretagne,29,Finistère,48.363,-4.116
+29247,Saint-Évarzec,53,Bretagne,29,Finistère,47.954,-4.01
+29248,Saint-Frégant,53,Bretagne,29,Finistère,48.599,-4.374
+29249,Saint-Goazec,53,Bretagne,29,Finistère,48.151,-3.766
+29250,Saint-Hernin,53,Bretagne,29,Finistère,48.208,-3.611
+29251,Saint-Jean-du-Doigt,53,Bretagne,29,Finistère,48.67,-3.763
+29252,Saint-Jean-Trolimon,53,Bretagne,29,Finistère,47.868,-4.31
+29254,Saint-Martin-des-Champs,53,Bretagne,29,Finistère,48.576,-3.856
+29255,Saint-Méen,53,Bretagne,29,Finistère,48.555,-4.26
+29256,Saint-Nic,53,Bretagne,29,Finistère,48.21,-4.281
+29257,Saint-Pabu,53,Bretagne,29,Finistère,48.563,-4.62
+29259,Saint-Pol-de-Léon,53,Bretagne,29,Finistère,48.673,-3.989
+29260,Saint-Renan,53,Bretagne,29,Finistère,48.426,-4.624
+29261,Saint-Rivoal,53,Bretagne,29,Finistère,48.35,-3.988
+29262,Saint-Sauveur,53,Bretagne,29,Finistère,48.449,-4.0
+29263,Saint-Ségal,53,Bretagne,29,Finistère,48.236,-4.077
+29264,Saint-Servais,53,Bretagne,29,Finistère,48.515,-4.159
+29265,Sainte-Sève,53,Bretagne,29,Finistère,48.561,-3.889
+29266,Saint-Thégonnec Loc-Eguiner,53,Bretagne,29,Finistère,48.511,-3.938
+29267,Saint-Thois,53,Bretagne,29,Finistère,48.153,-3.906
+29268,Saint-Thonan,53,Bretagne,29,Finistère,48.477,-4.322
+29269,Saint-Thurien,53,Bretagne,29,Finistère,47.957,-3.62
+29270,Saint-Urbain,53,Bretagne,29,Finistère,48.397,-4.222
+29271,Saint-Vougay,53,Bretagne,29,Finistère,48.589,-4.146
+29272,Saint-Yvi,53,Bretagne,29,Finistère,47.96,-3.939
+29273,Santec,53,Bretagne,29,Finistère,48.7,-4.03
+29274,Scaër,53,Bretagne,29,Finistère,48.028,-3.731
+29275,Scrignac,53,Bretagne,29,Finistère,48.426,-3.669
+29276,Sibiril,53,Bretagne,29,Finistère,48.664,-4.072
+29277,Sizun,53,Bretagne,29,Finistère,48.395,-4.045
+29278,Spézet,53,Bretagne,29,Finistère,48.186,-3.691
+29279,Taulé,53,Bretagne,29,Finistère,48.604,-3.899
+29280,Telgruc-sur-Mer,53,Bretagne,29,Finistère,48.234,-4.357
+29281,Tourch,53,Bretagne,29,Finistère,48.027,-3.824
+29282,Trébabu,53,Bretagne,29,Finistère,48.37,-4.733
+29284,Treffiagat,53,Bretagne,29,Finistère,47.805,-4.26
+29285,Tréflaouénan,53,Bretagne,29,Finistère,48.627,-4.1
+29286,Tréflévénez,53,Bretagne,29,Finistère,48.415,-4.176
+29287,Tréflez,53,Bretagne,29,Finistère,48.627,-4.257
+29288,Trégarantec,53,Bretagne,29,Finistère,48.549,-4.29
+29289,Trégarvan,53,Bretagne,29,Finistère,48.237,-4.232
+29290,Tréglonou,53,Bretagne,29,Finistère,48.547,-4.548
+29291,Trégourez,53,Bretagne,29,Finistère,48.106,-3.871
+29292,Tréguennec,53,Bretagne,29,Finistère,47.884,-4.339
+29293,Trégunc,53,Bretagne,29,Finistère,47.838,-3.841
+29294,Le Tréhou,53,Bretagne,29,Finistère,48.394,-4.129
+29295,Trémaouézan,53,Bretagne,29,Finistère,48.509,-4.256
+29296,Tréméoc,53,Bretagne,29,Finistère,47.907,-4.22
+29297,Tréméven,53,Bretagne,29,Finistère,47.902,-3.525
+29298,Tréogat,53,Bretagne,29,Finistère,47.91,-4.34
+29299,Tréouergat,53,Bretagne,29,Finistère,48.495,-4.603
+29300,Le Trévoux,53,Bretagne,29,Finistère,47.889,-3.657
+29301,Trézilidé,53,Bretagne,29,Finistère,48.61,-4.084
+29302,Pont-de-Buis-lès-Quimerch,53,Bretagne,29,Finistère,48.276,-4.107
+35001,Acigné,53,Bretagne,35,Ille-et-Vilaine,48.146,-1.519
+35002,Amanlis,53,Bretagne,35,Ille-et-Vilaine,48.0,-1.496
+35003,Andouillé-Neuville,53,Bretagne,35,Ille-et-Vilaine,48.298,-1.596
+35004,Val-Couesnon,53,Bretagne,35,Ille-et-Vilaine,48.462,-1.479
+35005,Arbrissel,53,Bretagne,35,Ille-et-Vilaine,47.927,-1.295
+35006,Argentré-du-Plessis,53,Bretagne,35,Ille-et-Vilaine,48.048,-1.138
+35007,Aubigné,53,Bretagne,35,Ille-et-Vilaine,48.299,-1.63
+35008,Availles-sur-Seiche,53,Bretagne,35,Ille-et-Vilaine,47.958,-1.185
+35009,Baguer-Morvan,53,Bretagne,35,Ille-et-Vilaine,48.505,-1.772
+35010,Baguer-Pican,53,Bretagne,35,Ille-et-Vilaine,48.55,-1.691
+35012,Bain-de-Bretagne,53,Bretagne,35,Ille-et-Vilaine,47.83,-1.676
+35013,Bains-sur-Oust,53,Bretagne,35,Ille-et-Vilaine,47.712,-2.075
+35014,Bais,53,Bretagne,35,Ille-et-Vilaine,48.011,-1.306
+35015,Balazé,53,Bretagne,35,Ille-et-Vilaine,48.178,-1.183
+35016,Baulon,53,Bretagne,35,Ille-et-Vilaine,47.995,-1.928
+35017,La Baussaine,53,Bretagne,35,Ille-et-Vilaine,48.313,-1.897
+35018,La Bazouge-du-Désert,53,Bretagne,35,Ille-et-Vilaine,48.444,-1.11
+35019,Bazouges-la-Pérouse,53,Bretagne,35,Ille-et-Vilaine,48.441,-1.564
+35021,Beaucé,53,Bretagne,35,Ille-et-Vilaine,48.347,-1.156
+35022,Bécherel,53,Bretagne,35,Ille-et-Vilaine,48.296,-1.943
+35023,Bédée,53,Bretagne,35,Ille-et-Vilaine,48.187,-1.95
+35024,Betton,53,Bretagne,35,Ille-et-Vilaine,48.181,-1.646
+35025,Billé,53,Bretagne,35,Ille-et-Vilaine,48.294,-1.252
+35026,Bléruais,53,Bretagne,35,Ille-et-Vilaine,48.116,-2.116
+35027,Boisgervilly,53,Bretagne,35,Ille-et-Vilaine,48.166,-2.084
+35028,Boistrudan,53,Bretagne,35,Ille-et-Vilaine,47.976,-1.397
+35029,Bonnemain,53,Bretagne,35,Ille-et-Vilaine,48.471,-1.761
+35030,La Bosse-de-Bretagne,53,Bretagne,35,Ille-et-Vilaine,47.868,-1.588
+35031,La Bouëxière,53,Bretagne,35,Ille-et-Vilaine,48.174,-1.436
+35032,Bourgbarré,53,Bretagne,35,Ille-et-Vilaine,47.989,-1.622
+35033,Bourg-des-Comptes,53,Bretagne,35,Ille-et-Vilaine,47.921,-1.722
+35034,La Boussac,53,Bretagne,35,Ille-et-Vilaine,48.517,-1.649
+35035,Bovel,53,Bretagne,35,Ille-et-Vilaine,47.956,-1.96
+35037,Bréal-sous-Montfort,53,Bretagne,35,Ille-et-Vilaine,48.045,-1.866
+35038,Bréal-sous-Vitré,53,Bretagne,35,Ille-et-Vilaine,48.092,-1.061
+35039,Brécé,53,Bretagne,35,Ille-et-Vilaine,48.111,-1.49
+35040,Breteil,53,Bretagne,35,Ille-et-Vilaine,48.138,-1.91
+35041,Brie,53,Bretagne,35,Ille-et-Vilaine,47.951,-1.551
+35042,Brielles,53,Bretagne,35,Ille-et-Vilaine,48.011,-1.098
+35044,Broualan,53,Bretagne,35,Ille-et-Vilaine,48.476,-1.661
+35045,Bruc-sur-Aff,53,Bretagne,35,Ille-et-Vilaine,47.814,-2.006
+35046,Les Brulais,53,Bretagne,35,Ille-et-Vilaine,47.891,-2.057
+35047,Bruz,53,Bretagne,35,Ille-et-Vilaine,48.026,-1.748
+35049,Cancale,53,Bretagne,35,Ille-et-Vilaine,48.684,-1.865
+35050,Cardroc,53,Bretagne,35,Ille-et-Vilaine,48.285,-1.894
+35051,Cesson-Sévigné,53,Bretagne,35,Ille-et-Vilaine,48.12,-1.597
+35052,Champeaux,53,Bretagne,35,Ille-et-Vilaine,48.139,-1.302
+35054,Chanteloup,53,Bretagne,35,Ille-et-Vilaine,47.954,-1.625
+35055,Chantepie,53,Bretagne,35,Ille-et-Vilaine,48.082,-1.604
+35056,La Chapelle-aux-Filtzméens,53,Bretagne,35,Ille-et-Vilaine,48.382,-1.818
+35057,La Chapelle-Bouëxic,53,Bretagne,35,Ille-et-Vilaine,47.937,-1.923
+35058,La Chapelle-Chaussée,53,Bretagne,35,Ille-et-Vilaine,48.266,-1.864
+35059,La Chapelle-des-Fougeretz,53,Bretagne,35,Ille-et-Vilaine,48.177,-1.741
+35060,La Chapelle du Lou du Lac,53,Bretagne,35,Ille-et-Vilaine,48.222,-1.993
+35061,La Chapelle-Erbrée,53,Bretagne,35,Ille-et-Vilaine,48.14,-1.09
+35062,La Chapelle-Fleurigné,53,Bretagne,35,Ille-et-Vilaine,48.335,-1.085
+35063,La Chapelle-Saint-Aubert,53,Bretagne,35,Ille-et-Vilaine,48.31,-1.314
+35064,La Chapelle-de-Brain,53,Bretagne,35,Ille-et-Vilaine,47.697,-1.934
+35065,La Chapelle-Thouarault,53,Bretagne,35,Ille-et-Vilaine,48.125,-1.858
+35066,Chartres-de-Bretagne,53,Bretagne,35,Ille-et-Vilaine,48.045,-1.706
+35067,Chasné-sur-Illet,53,Bretagne,35,Ille-et-Vilaine,48.235,-1.572
+35068,Châteaubourg,53,Bretagne,35,Ille-et-Vilaine,48.12,-1.404
+35069,Châteaugiron,53,Bretagne,35,Ille-et-Vilaine,48.044,-1.5
+35070,Châteauneuf-d'Ille-et-Vilaine,53,Bretagne,35,Ille-et-Vilaine,48.558,-1.929
+35071,Le Châtellier,53,Bretagne,35,Ille-et-Vilaine,48.426,-1.246
+35072,Châtillon-en-Vendelais,53,Bretagne,35,Ille-et-Vilaine,48.229,-1.166
+35075,Chauvigné,53,Bretagne,35,Ille-et-Vilaine,48.377,-1.452
+35076,Chavagne,53,Bretagne,35,Ille-et-Vilaine,48.056,-1.786
+35077,Chelun,53,Bretagne,35,Ille-et-Vilaine,47.855,-1.244
+35078,Cherrueix,53,Bretagne,35,Ille-et-Vilaine,48.595,-1.715
+35079,Chevaigné,53,Bretagne,35,Ille-et-Vilaine,48.225,-1.637
+35080,Cintré,53,Bretagne,35,Ille-et-Vilaine,48.109,-1.887
+35081,Clayes,53,Bretagne,35,Ille-et-Vilaine,48.179,-1.854
+35082,Coësmes,53,Bretagne,35,Ille-et-Vilaine,47.872,-1.416
+35084,Comblessac,53,Bretagne,35,Ille-et-Vilaine,47.872,-2.088
+35085,Combourg,53,Bretagne,35,Ille-et-Vilaine,48.408,-1.745
+35086,Combourtillé,53,Bretagne,35,Ille-et-Vilaine,48.266,-1.265
+35087,Cornillé,53,Bretagne,35,Ille-et-Vilaine,48.082,-1.314
+35088,Corps-Nuds,53,Bretagne,35,Ille-et-Vilaine,47.982,-1.57
+35089,La Couyère,53,Bretagne,35,Ille-et-Vilaine,47.894,-1.502
+35090,Crevin,53,Bretagne,35,Ille-et-Vilaine,47.93,-1.657
+35091,Le Crouais,53,Bretagne,35,Ille-et-Vilaine,48.21,-2.15
+35092,Cuguen,53,Bretagne,35,Ille-et-Vilaine,48.441,-1.656
+35093,Dinard,53,Bretagne,35,Ille-et-Vilaine,48.624,-2.062
+35094,Dingé,53,Bretagne,35,Ille-et-Vilaine,48.347,-1.711
+35095,Dol-de-Bretagne,53,Bretagne,35,Ille-et-Vilaine,48.536,-1.741
+35096,Domagné,53,Bretagne,35,Ille-et-Vilaine,48.068,-1.406
+35097,Domalain,53,Bretagne,35,Ille-et-Vilaine,47.999,-1.239
+35098,La Dominelais,53,Bretagne,35,Ille-et-Vilaine,47.763,-1.673
+35099,Domloup,53,Bretagne,35,Ille-et-Vilaine,48.067,-1.543
+35101,Dourdain,53,Bretagne,35,Ille-et-Vilaine,48.193,-1.379
+35102,Drouges,53,Bretagne,35,Ille-et-Vilaine,47.902,-1.261
+35103,Eancé,53,Bretagne,35,Ille-et-Vilaine,47.824,-1.252
+35104,Epiniac,53,Bretagne,35,Ille-et-Vilaine,48.5,-1.703
+35105,Erbrée,53,Bretagne,35,Ille-et-Vilaine,48.109,-1.117
+35106,Ercé-en-Lamée,53,Bretagne,35,Ille-et-Vilaine,47.818,-1.583
+35107,Ercé-près-Liffré,53,Bretagne,35,Ille-et-Vilaine,48.254,-1.517
+35108,Essé,53,Bretagne,35,Ille-et-Vilaine,47.948,-1.43
+35109,Étrelles,53,Bretagne,35,Ille-et-Vilaine,48.07,-1.216
+35110,Feins,53,Bretagne,35,Ille-et-Vilaine,48.328,-1.626
+35111,Le Ferré,53,Bretagne,35,Ille-et-Vilaine,48.486,-1.295
+35114,Forges-la-Forêt,53,Bretagne,35,Ille-et-Vilaine,47.862,-1.294
+35115,Fougères,53,Bretagne,35,Ille-et-Vilaine,48.352,-1.194
+35116,La Fresnais,53,Bretagne,35,Ille-et-Vilaine,48.587,-1.835
+35117,Gaël,53,Bretagne,35,Ille-et-Vilaine,48.118,-2.228
+35118,Gahard,53,Bretagne,35,Ille-et-Vilaine,48.288,-1.528
+35119,Gennes-sur-Seiche,53,Bretagne,35,Ille-et-Vilaine,47.998,-1.133
+35120,Gévezé,53,Bretagne,35,Ille-et-Vilaine,48.213,-1.799
+35121,Gosné,53,Bretagne,35,Ille-et-Vilaine,48.25,-1.459
+35122,La Gouesnière,53,Bretagne,35,Ille-et-Vilaine,48.603,-1.887
+35123,Goven,53,Bretagne,35,Ille-et-Vilaine,48.009,-1.838
+35124,Grand-Fougeray,53,Bretagne,35,Ille-et-Vilaine,47.734,-1.728
+35125,La Guerche-de-Bretagne,53,Bretagne,35,Ille-et-Vilaine,47.944,-1.244
+35126,Guichen,53,Bretagne,35,Ille-et-Vilaine,47.965,-1.79
+35127,Guignen,53,Bretagne,35,Ille-et-Vilaine,47.924,-1.862
+35128,Guipel,53,Bretagne,35,Ille-et-Vilaine,48.292,-1.724
+35130,Hédé-Bazouges,53,Bretagne,35,Ille-et-Vilaine,48.302,-1.778
+35131,L'Hermitage,53,Bretagne,35,Ille-et-Vilaine,48.122,-1.817
+35132,Hirel,53,Bretagne,35,Ille-et-Vilaine,48.595,-1.809
+35133,Iffendic,53,Bretagne,35,Ille-et-Vilaine,48.114,-2.024
+35134,Les Iffs,53,Bretagne,35,Ille-et-Vilaine,48.294,-1.867
+35135,Irodouër,53,Bretagne,35,Ille-et-Vilaine,48.246,-1.95
+35136,Janzé,53,Bretagne,35,Ille-et-Vilaine,47.943,-1.5
+35137,Javené,53,Bretagne,35,Ille-et-Vilaine,48.317,-1.206
+35138,Laignelet,53,Bretagne,35,Ille-et-Vilaine,48.38,-1.152
+35139,Laillé,53,Bretagne,35,Ille-et-Vilaine,47.967,-1.714
+35140,Lalleu,53,Bretagne,35,Ille-et-Vilaine,47.856,-1.522
+35141,Landavran,53,Bretagne,35,Ille-et-Vilaine,48.161,-1.285
+35142,Landéan,53,Bretagne,35,Ille-et-Vilaine,48.413,-1.148
+35143,Landujan,53,Bretagne,35,Ille-et-Vilaine,48.248,-2.009
+35144,Langan,53,Bretagne,35,Ille-et-Vilaine,48.236,-1.846
+35145,Langon,53,Bretagne,35,Ille-et-Vilaine,47.734,-1.872
+35146,Langouet,53,Bretagne,35,Ille-et-Vilaine,48.255,-1.809
+35148,Lanrigan,53,Bretagne,35,Ille-et-Vilaine,48.391,-1.691
+35149,Lassy,53,Bretagne,35,Ille-et-Vilaine,47.972,-1.864
+35150,Lécousse,53,Bretagne,35,Ille-et-Vilaine,48.36,-1.221
+35151,Lieuron,53,Bretagne,35,Ille-et-Vilaine,47.852,-1.929
+35152,Liffré,53,Bretagne,35,Ille-et-Vilaine,48.204,-1.514
+35153,Lillemer,53,Bretagne,35,Ille-et-Vilaine,48.571,-1.856
+35154,Livré-sur-Changeon,53,Bretagne,35,Ille-et-Vilaine,48.227,-1.349
+35155,Lohéac,53,Bretagne,35,Ille-et-Vilaine,47.873,-1.888
+35156,Longaulnay,53,Bretagne,35,Ille-et-Vilaine,48.309,-1.942
+35157,Le Loroux,53,Bretagne,35,Ille-et-Vilaine,48.395,-1.083
+35159,Lourmais,53,Bretagne,35,Ille-et-Vilaine,48.441,-1.733
+35160,Loutehel,53,Bretagne,35,Ille-et-Vilaine,47.937,-2.08
+35161,Louvigné-de-Bais,53,Bretagne,35,Ille-et-Vilaine,48.052,-1.339
+35162,Louvigné-du-Désert,53,Bretagne,35,Ille-et-Vilaine,48.487,-1.124
+35163,Luitré-Dompierre,53,Bretagne,35,Ille-et-Vilaine,48.293,-1.13
+35164,Marcillé-Raoul,53,Bretagne,35,Ille-et-Vilaine,48.374,-1.614
+35165,Marcillé-Robert,53,Bretagne,35,Ille-et-Vilaine,47.958,-1.354
+35166,Marpiré,53,Bretagne,35,Ille-et-Vilaine,48.147,-1.353
+35167,Martigné-Ferchaud,53,Bretagne,35,Ille-et-Vilaine,47.828,-1.328
+35168,Val d'Anast,53,Bretagne,35,Ille-et-Vilaine,47.897,-1.999
+35169,Maxent,53,Bretagne,35,Ille-et-Vilaine,47.979,-2.015
+35170,Mecé,53,Bretagne,35,Ille-et-Vilaine,48.241,-1.286
+35171,Médréac,53,Bretagne,35,Ille-et-Vilaine,48.261,-2.061
+35172,Meillac,53,Bretagne,35,Ille-et-Vilaine,48.421,-1.822
+35173,Melesse,53,Bretagne,35,Ille-et-Vilaine,48.219,-1.69
+35174,Mellé,53,Bretagne,35,Ille-et-Vilaine,48.485,-1.191
+35175,Mernel,53,Bretagne,35,Ille-et-Vilaine,47.898,-1.951
+35176,Guipry-Messac,53,Bretagne,35,Ille-et-Vilaine,47.805,-1.8
+35177,La Mézière,53,Bretagne,35,Ille-et-Vilaine,48.213,-1.751
+35178,Mézières-sur-Couesnon,53,Bretagne,35,Ille-et-Vilaine,48.297,-1.438
+35179,Miniac-Morvan,53,Bretagne,35,Ille-et-Vilaine,48.525,-1.895
+35180,Miniac-sous-Bécherel,53,Bretagne,35,Ille-et-Vilaine,48.281,-1.927
+35181,Le Minihic-sur-Rance,53,Bretagne,35,Ille-et-Vilaine,48.576,-2.013
+35183,Mondevert,53,Bretagne,35,Ille-et-Vilaine,48.084,-1.091
+35184,Montauban-de-Bretagne,53,Bretagne,35,Ille-et-Vilaine,48.203,-2.065
+35185,Montautour,53,Bretagne,35,Ille-et-Vilaine,48.204,-1.121
+35186,Mont-Dol,53,Bretagne,35,Ille-et-Vilaine,48.571,-1.758
+35187,Monterfil,53,Bretagne,35,Ille-et-Vilaine,48.06,-1.99
+35188,Montfort-sur-Meu,53,Bretagne,35,Ille-et-Vilaine,48.126,-1.963
+35189,Montgermont,53,Bretagne,35,Ille-et-Vilaine,48.154,-1.717
+35190,Monthault,53,Bretagne,35,Ille-et-Vilaine,48.512,-1.176
+35191,Les Portes du Coglais,53,Bretagne,35,Ille-et-Vilaine,48.448,-1.303
+35192,Montreuil-des-Landes,53,Bretagne,35,Ille-et-Vilaine,48.251,-1.229
+35193,Montreuil-le-Gast,53,Bretagne,35,Ille-et-Vilaine,48.244,-1.721
+35194,Montreuil-sous-Pérouse,53,Bretagne,35,Ille-et-Vilaine,48.151,-1.242
+35195,Montreuil-sur-Ille,53,Bretagne,35,Ille-et-Vilaine,48.305,-1.669
+35196,Mordelles,53,Bretagne,35,Ille-et-Vilaine,48.086,-1.842
+35197,Mouazé,53,Bretagne,35,Ille-et-Vilaine,48.218,-1.608
+35198,Moulins,53,Bretagne,35,Ille-et-Vilaine,48.009,-1.363
+35199,Moussé,53,Bretagne,35,Ille-et-Vilaine,47.918,-1.279
+35200,Moutiers,53,Bretagne,35,Ille-et-Vilaine,47.976,-1.205
+35201,Muel,53,Bretagne,35,Ille-et-Vilaine,48.12,-2.162
+35202,La Noë-Blanche,53,Bretagne,35,Ille-et-Vilaine,47.795,-1.745
+35203,La Nouaye,53,Bretagne,35,Ille-et-Vilaine,48.166,-1.975
+35204,Nouvoitou,53,Bretagne,35,Ille-et-Vilaine,48.03,-1.552
+35205,Noyal-sous-Bazouges,53,Bretagne,35,Ille-et-Vilaine,48.417,-1.624
+35206,Noyal-Châtillon-sur-Seiche,53,Bretagne,35,Ille-et-Vilaine,48.052,-1.663
+35207,Noyal-sur-Vilaine,53,Bretagne,35,Ille-et-Vilaine,48.091,-1.506
+35208,Orgères,53,Bretagne,35,Ille-et-Vilaine,47.985,-1.666
+35210,Pacé,53,Bretagne,35,Ille-et-Vilaine,48.152,-1.777
+35211,Paimpont,53,Bretagne,35,Ille-et-Vilaine,48.03,-2.173
+35212,Pancé,53,Bretagne,35,Ille-et-Vilaine,47.889,-1.643
+35214,Parcé,53,Bretagne,35,Ille-et-Vilaine,48.271,-1.195
+35215,Parigné,53,Bretagne,35,Ille-et-Vilaine,48.426,-1.198
+35216,Parthenay-de-Bretagne,53,Bretagne,35,Ille-et-Vilaine,48.188,-1.83
+35217,Le Pertre,53,Bretagne,35,Ille-et-Vilaine,48.034,-1.056
+35218,Le Petit-Fougeray,53,Bretagne,35,Ille-et-Vilaine,47.928,-1.616
+35219,Pipriac,53,Bretagne,35,Ille-et-Vilaine,47.812,-1.938
+35220,Piré-Chancé,53,Bretagne,35,Ille-et-Vilaine,48.011,-1.428
+35221,Pléchâtel,53,Bretagne,35,Ille-et-Vilaine,47.875,-1.734
+35222,Pleine-Fougères,53,Bretagne,35,Ille-et-Vilaine,48.531,-1.574
+35223,Plélan-le-Grand,53,Bretagne,35,Ille-et-Vilaine,47.997,-2.08
+35224,Plerguer,53,Bretagne,35,Ille-et-Vilaine,48.528,-1.846
+35225,Plesder,53,Bretagne,35,Ille-et-Vilaine,48.418,-1.93
+35226,Pleugueneuc,53,Bretagne,35,Ille-et-Vilaine,48.404,-1.886
+35227,Pleumeleuc,53,Bretagne,35,Ille-et-Vilaine,48.183,-1.893
+35228,Pleurtuit,53,Bretagne,35,Ille-et-Vilaine,48.583,-2.06
+35229,Pocé-les-Bois,53,Bretagne,35,Ille-et-Vilaine,48.115,-1.26
+35230,Poilley,53,Bretagne,35,Ille-et-Vilaine,48.466,-1.257
+35231,Poligné,53,Bretagne,35,Ille-et-Vilaine,47.899,-1.685
+35232,Princé,53,Bretagne,35,Ille-et-Vilaine,48.237,-1.106
+35233,Québriac,53,Bretagne,35,Ille-et-Vilaine,48.356,-1.813
+35234,Quédillac,53,Bretagne,35,Ille-et-Vilaine,48.238,-2.144
+35235,Rannée,53,Bretagne,35,Ille-et-Vilaine,47.901,-1.226
+35236,Redon,53,Bretagne,35,Ille-et-Vilaine,47.661,-2.08
+35237,Renac,53,Bretagne,35,Ille-et-Vilaine,47.728,-1.966
+35238,Rennes,53,Bretagne,35,Ille-et-Vilaine,48.112,-1.682
+35239,Retiers,53,Bretagne,35,Ille-et-Vilaine,47.906,-1.344
+35240,Le Rheu,53,Bretagne,35,Ille-et-Vilaine,48.097,-1.782
+35241,La Richardais,53,Bretagne,35,Ille-et-Vilaine,48.61,-2.044
+35242,Rimou,53,Bretagne,35,Ille-et-Vilaine,48.388,-1.528
+35243,Romagné,53,Bretagne,35,Ille-et-Vilaine,48.344,-1.262
+35244,Romazy,53,Bretagne,35,Ille-et-Vilaine,48.38,-1.493
+35245,Romillé,53,Bretagne,35,Ille-et-Vilaine,48.222,-1.879
+35246,Roz-Landrieux,53,Bretagne,35,Ille-et-Vilaine,48.546,-1.817
+35247,Roz-sur-Couesnon,53,Bretagne,35,Ille-et-Vilaine,48.596,-1.593
+35248,Sains,53,Bretagne,35,Ille-et-Vilaine,48.556,-1.603
+35249,Sainte-Anne-sur-Vilaine,53,Bretagne,35,Ille-et-Vilaine,47.734,-1.805
+35250,Saint-Armel,53,Bretagne,35,Ille-et-Vilaine,48.013,-1.581
+35251,Saint-Aubin-d'Aubigné,53,Bretagne,35,Ille-et-Vilaine,48.262,-1.6
+35252,Saint-Aubin-des-Landes,53,Bretagne,35,Ille-et-Vilaine,48.1,-1.292
+35253,Saint-Aubin-du-Cormier,53,Bretagne,35,Ille-et-Vilaine,48.258,-1.421
+35255,Saint-Benoît-des-Ondes,53,Bretagne,35,Ille-et-Vilaine,48.614,-1.86
+35256,Saint-Briac-sur-Mer,53,Bretagne,35,Ille-et-Vilaine,48.616,-2.124
+35257,Maen Roch,53,Bretagne,35,Ille-et-Vilaine,48.413,-1.368
+35258,Saint-Brieuc-des-Iffs,53,Bretagne,35,Ille-et-Vilaine,48.303,-1.844
+35259,Saint-Broladre,53,Bretagne,35,Ille-et-Vilaine,48.58,-1.661
+35260,Saint-Christophe-des-Bois,53,Bretagne,35,Ille-et-Vilaine,48.226,-1.236
+35261,Saint-Christophe-de-Valains,53,Bretagne,35,Ille-et-Vilaine,48.342,-1.452
+35262,Sainte-Colombe,53,Bretagne,35,Ille-et-Vilaine,47.896,-1.458
+35263,Saint-Coulomb,53,Bretagne,35,Ille-et-Vilaine,48.677,-1.921
+35264,Saint-Didier,53,Bretagne,35,Ille-et-Vilaine,48.093,-1.358
+35265,Saint-Domineuc,53,Bretagne,35,Ille-et-Vilaine,48.36,-1.869
+35266,Saint-Erblon,53,Bretagne,35,Ille-et-Vilaine,48.019,-1.642
+35268,Saint-Ganton,53,Bretagne,35,Ille-et-Vilaine,47.769,-1.891
+35270,Saint-Georges-de-Gréhaigne,53,Bretagne,35,Ille-et-Vilaine,48.579,-1.549
+35271,Saint-Georges-de-Reintembault,53,Bretagne,35,Ille-et-Vilaine,48.513,-1.235
+35272,Saint-Germain-du-Pinel,53,Bretagne,35,Ille-et-Vilaine,48.005,-1.173
+35273,Saint-Germain-en-Coglès,53,Bretagne,35,Ille-et-Vilaine,48.397,-1.264
+35274,Saint-Germain-sur-Ille,53,Bretagne,35,Ille-et-Vilaine,48.251,-1.653
+35275,Saint-Gilles,53,Bretagne,35,Ille-et-Vilaine,48.152,-1.854
+35276,Saint-Gondran,53,Bretagne,35,Ille-et-Vilaine,48.268,-1.825
+35277,Saint-Gonlay,53,Bretagne,35,Ille-et-Vilaine,48.113,-2.077
+35278,Saint-Grégoire,53,Bretagne,35,Ille-et-Vilaine,48.159,-1.686
+35279,Saint-Guinoux,53,Bretagne,35,Ille-et-Vilaine,48.579,-1.888
+35280,Saint-Hilaire-des-Landes,53,Bretagne,35,Ille-et-Vilaine,48.338,-1.367
+35281,Saint-Jacques-de-la-Lande,53,Bretagne,35,Ille-et-Vilaine,48.076,-1.724
+35282,Rives-du-Couesnon,53,Bretagne,35,Ille-et-Vilaine,48.277,-1.368
+35283,Saint-Jean-sur-Vilaine,53,Bretagne,35,Ille-et-Vilaine,48.121,-1.34
+35284,Saint-Jouan-des-Guérets,53,Bretagne,35,Ille-et-Vilaine,48.604,-1.965
+35285,Saint-Just,53,Bretagne,35,Ille-et-Vilaine,47.764,-1.969
+35286,Saint-Léger-des-Prés,53,Bretagne,35,Ille-et-Vilaine,48.388,-1.658
+35287,Saint-Lunaire,53,Bretagne,35,Ille-et-Vilaine,48.62,-2.097
+35288,Saint-Malo,53,Bretagne,35,Ille-et-Vilaine,48.64,-1.981
+35289,Saint-Malo-de-Phily,53,Bretagne,35,Ille-et-Vilaine,47.868,-1.805
+35290,Saint-Malon-sur-Mel,53,Bretagne,35,Ille-et-Vilaine,48.094,-2.112
+35291,Saint-Marcan,53,Bretagne,35,Ille-et-Vilaine,48.585,-1.628
+35292,Saint-Marc-le-Blanc,53,Bretagne,35,Ille-et-Vilaine,48.375,-1.405
+35294,Sainte-Marie,53,Bretagne,35,Ille-et-Vilaine,47.694,-2.013
+35295,Saint-Maugan,53,Bretagne,35,Ille-et-Vilaine,48.137,-2.102
+35296,Saint-Médard-sur-Ille,53,Bretagne,35,Ille-et-Vilaine,48.273,-1.67
+35297,Saint-Méen-le-Grand,53,Bretagne,35,Ille-et-Vilaine,48.193,-2.195
+35299,Saint-Méloir-des-Ondes,53,Bretagne,35,Ille-et-Vilaine,48.639,-1.905
+35300,Saint-M'Hervé,53,Bretagne,35,Ille-et-Vilaine,48.172,-1.111
+35302,Saint-Onen-la-Chapelle,53,Bretagne,35,Ille-et-Vilaine,48.17,-2.156
+35304,Saint-Ouen-des-Alleux,53,Bretagne,35,Ille-et-Vilaine,48.327,-1.428
+35305,Saint-Péran,53,Bretagne,35,Ille-et-Vilaine,48.057,-2.065
+35306,Saint-Père-Marc-en-Poulet,53,Bretagne,35,Ille-et-Vilaine,48.584,-1.929
+35307,Saint-Pern,53,Bretagne,35,Ille-et-Vilaine,48.281,-1.983
+35308,Mesnil-Roc'h,53,Bretagne,35,Ille-et-Vilaine,48.455,-1.889
+35309,Saint-Rémy-du-Plain,53,Bretagne,35,Ille-et-Vilaine,48.376,-1.567
+35310,Saint-Sauveur-des-Landes,53,Bretagne,35,Ille-et-Vilaine,48.347,-1.314
+35311,Saint-Séglin,53,Bretagne,35,Ille-et-Vilaine,47.851,-2.026
+35312,Saint-Senoux,53,Bretagne,35,Ille-et-Vilaine,47.91,-1.79
+35314,Saint-Suliac,53,Bretagne,35,Ille-et-Vilaine,48.57,-1.967
+35315,Saint-Sulpice-la-Forêt,53,Bretagne,35,Ille-et-Vilaine,48.212,-1.577
+35316,Saint-Sulpice-des-Landes,53,Bretagne,35,Ille-et-Vilaine,47.777,-1.626
+35317,Saint-Symphorien,53,Bretagne,35,Ille-et-Vilaine,48.281,-1.803
+35318,Saint-Thual,53,Bretagne,35,Ille-et-Vilaine,48.336,-1.932
+35319,Saint-Thurial,53,Bretagne,35,Ille-et-Vilaine,48.034,-1.94
+35320,Saint-Uniac,53,Bretagne,35,Ille-et-Vilaine,48.167,-2.034
+35321,Saulnières,53,Bretagne,35,Ille-et-Vilaine,47.92,-1.578
+35322,Le Sel-de-Bretagne,53,Bretagne,35,Ille-et-Vilaine,47.898,-1.606
+35324,La Selle-en-Luitré,53,Bretagne,35,Ille-et-Vilaine,48.321,-1.151
+35325,La Selle-Guerchaise,53,Bretagne,35,Ille-et-Vilaine,47.943,-1.17
+35326,Sens-de-Bretagne,53,Bretagne,35,Ille-et-Vilaine,48.337,-1.554
+35327,Servon-sur-Vilaine,53,Bretagne,35,Ille-et-Vilaine,48.121,-1.458
+35328,Sixt-sur-Aff,53,Bretagne,35,Ille-et-Vilaine,47.775,-2.049
+35329,Sougeal,53,Bretagne,35,Ille-et-Vilaine,48.503,-1.515
+35330,Taillis,53,Bretagne,35,Ille-et-Vilaine,48.185,-1.24
+35331,Talensac,53,Bretagne,35,Ille-et-Vilaine,48.091,-1.926
+35332,Teillay,53,Bretagne,35,Ille-et-Vilaine,47.808,-1.522
+35333,Le Theil-de-Bretagne,53,Bretagne,35,Ille-et-Vilaine,47.918,-1.422
+35334,Thorigné-Fouillard,53,Bretagne,35,Ille-et-Vilaine,48.157,-1.584
+35335,Thourie,53,Bretagne,35,Ille-et-Vilaine,47.849,-1.458
+35336,Le Tiercent,53,Bretagne,35,Ille-et-Vilaine,48.35,-1.423
+35337,Tinténiac,53,Bretagne,35,Ille-et-Vilaine,48.323,-1.83
+35338,Torcé,53,Bretagne,35,Ille-et-Vilaine,48.061,-1.272
+35339,Trans-la-Forêt,53,Bretagne,35,Ille-et-Vilaine,48.488,-1.604
+35340,Treffendel,53,Bretagne,35,Ille-et-Vilaine,48.031,-2.008
+35342,Trémeheuc,53,Bretagne,35,Ille-et-Vilaine,48.439,-1.698
+35343,Tresbœuf,53,Bretagne,35,Ille-et-Vilaine,47.881,-1.553
+35345,Trévérien,53,Bretagne,35,Ille-et-Vilaine,48.371,-1.92
+35346,Trimer,53,Bretagne,35,Ille-et-Vilaine,48.344,-1.897
+35347,Val-d'Izé,53,Bretagne,35,Ille-et-Vilaine,48.19,-1.305
+35350,Vergéal,53,Bretagne,35,Ille-et-Vilaine,48.036,-1.256
+35351,Le Verger,53,Bretagne,35,Ille-et-Vilaine,48.066,-1.937
+35352,Vern-sur-Seiche,53,Bretagne,35,Ille-et-Vilaine,48.052,-1.605
+35353,Vezin-le-Coquet,53,Bretagne,35,Ille-et-Vilaine,48.117,-1.75
+35354,Vieux-Viel,53,Bretagne,35,Ille-et-Vilaine,48.501,-1.553
+35355,Vieux-Vy-sur-Couesnon,53,Bretagne,35,Ille-et-Vilaine,48.334,-1.499
+35356,Vignoc,53,Bretagne,35,Ille-et-Vilaine,48.257,-1.763
+35357,Villamée,53,Bretagne,35,Ille-et-Vilaine,48.456,-1.218
+35358,La Ville-ès-Nonais,53,Bretagne,35,Ille-et-Vilaine,48.549,-1.952
+35359,Visseiche,53,Bretagne,35,Ille-et-Vilaine,47.96,-1.299
+35360,Vitré,53,Bretagne,35,Ille-et-Vilaine,48.114,-1.194
+35361,Le Vivier-sur-Mer,53,Bretagne,35,Ille-et-Vilaine,48.598,-1.78
+35362,Le Tronchet,53,Bretagne,35,Ille-et-Vilaine,48.493,-1.841
+35363,Pont-Péan,53,Bretagne,35,Ille-et-Vilaine,48.011,-1.696
+44001,Abbaretz,52,Pays de la Loire,44,Loire-Atlantique,47.556,-1.493
+44002,Aigrefeuille-sur-Maine,52,Pays de la Loire,44,Loire-Atlantique,47.072,-1.416
+44003,Ancenis-Saint-Géréon,52,Pays de la Loire,44,Loire-Atlantique,47.383,-1.182
+44005,Chaumes-en-Retz,52,Pays de la Loire,44,Loire-Atlantique,47.159,-1.954
+44006,Assérac,52,Pays de la Loire,44,Loire-Atlantique,47.438,-2.413
+44007,Avessac,52,Pays de la Loire,44,Loire-Atlantique,47.635,-1.97
+44009,Basse-Goulaine,52,Pays de la Loire,44,Loire-Atlantique,47.212,-1.462
+44010,Batz-sur-Mer,52,Pays de la Loire,44,Loire-Atlantique,47.284,-2.474
+44012,La Bernerie-en-Retz,52,Pays de la Loire,44,Loire-Atlantique,47.086,-2.032
+44013,Besné,52,Pays de la Loire,44,Loire-Atlantique,47.38,-2.074
+44014,Le Bignon,52,Pays de la Loire,44,Loire-Atlantique,47.1,-1.509
+44015,Blain,52,Pays de la Loire,44,Loire-Atlantique,47.463,-1.768
+44016,La Boissière-du-Doré,52,Pays de la Loire,44,Loire-Atlantique,47.235,-1.204
+44018,Bouaye,52,Pays de la Loire,44,Loire-Atlantique,47.147,-1.672
+44019,Bouée,52,Pays de la Loire,44,Loire-Atlantique,47.305,-1.913
+44020,Bouguenais,52,Pays de la Loire,44,Loire-Atlantique,47.171,-1.617
+44021,Villeneuve-en-Retz,52,Pays de la Loire,44,Loire-Atlantique,47.038,-1.926
+44022,Boussay,52,Pays de la Loire,44,Loire-Atlantique,47.054,-1.163
+44023,Bouvron,52,Pays de la Loire,44,Loire-Atlantique,47.417,-1.877
+44024,Brains,52,Pays de la Loire,44,Loire-Atlantique,47.17,-1.726
+44025,Campbon,52,Pays de la Loire,44,Loire-Atlantique,47.416,-1.968
+44026,Carquefou,52,Pays de la Loire,44,Loire-Atlantique,47.302,-1.473
+44027,Casson,52,Pays de la Loire,44,Loire-Atlantique,47.392,-1.556
+44028,Le Cellier,52,Pays de la Loire,44,Loire-Atlantique,47.338,-1.36
+44029,Divatte-sur-Loire,52,Pays de la Loire,44,Loire-Atlantique,47.281,-1.35
+44030,La Chapelle-des-Marais,52,Pays de la Loire,44,Loire-Atlantique,47.437,-2.246
+44031,La Chapelle-Glain,52,Pays de la Loire,44,Loire-Atlantique,47.62,-1.195
+44032,La Chapelle-Heulin,52,Pays de la Loire,44,Loire-Atlantique,47.172,-1.35
+44033,La Chapelle-Launay,52,Pays de la Loire,44,Loire-Atlantique,47.353,-1.982
+44035,La Chapelle-sur-Erdre,52,Pays de la Loire,44,Loire-Atlantique,47.304,-1.561
+44036,Châteaubriant,52,Pays de la Loire,44,Loire-Atlantique,47.722,-1.387
+44037,Château-Thébaud,52,Pays de la Loire,44,Loire-Atlantique,47.116,-1.438
+44038,Chauvé,52,Pays de la Loire,44,Loire-Atlantique,47.159,-2.012
+44039,Cheix-en-Retz,52,Pays de la Loire,44,Loire-Atlantique,47.181,-1.798
+44041,La Chevrolière,52,Pays de la Loire,44,Loire-Atlantique,47.089,-1.596
+44043,Clisson,52,Pays de la Loire,44,Loire-Atlantique,47.098,-1.27
+44044,Conquereuil,52,Pays de la Loire,44,Loire-Atlantique,47.649,-1.762
+44045,Cordemais,52,Pays de la Loire,44,Loire-Atlantique,47.297,-1.836
+44046,Corsept,52,Pays de la Loire,44,Loire-Atlantique,47.26,-2.094
+44047,Couëron,52,Pays de la Loire,44,Loire-Atlantique,47.231,-1.729
+44048,Couffé,52,Pays de la Loire,44,Loire-Atlantique,47.389,-1.293
+44049,Le Croisic,52,Pays de la Loire,44,Loire-Atlantique,47.292,-2.523
+44050,Crossac,52,Pays de la Loire,44,Loire-Atlantique,47.404,-2.153
+44051,Derval,52,Pays de la Loire,44,Loire-Atlantique,47.658,-1.678
+44052,Donges,52,Pays de la Loire,44,Loire-Atlantique,47.339,-2.074
+44053,Drefféac,52,Pays de la Loire,44,Loire-Atlantique,47.468,-2.059
+44054,Erbray,52,Pays de la Loire,44,Loire-Atlantique,47.669,-1.322
+44055,La Baule-Escoublac,52,Pays de la Loire,44,Loire-Atlantique,47.291,-2.354
+44056,Fay-de-Bretagne,52,Pays de la Loire,44,Loire-Atlantique,47.391,-1.795
+44057,Fégréac,52,Pays de la Loire,44,Loire-Atlantique,47.581,-2.025
+44058,Fercé,52,Pays de la Loire,44,Loire-Atlantique,47.8,-1.388
+44061,Frossay,52,Pays de la Loire,44,Loire-Atlantique,47.246,-1.934
+44062,Le Gâvre,52,Pays de la Loire,44,Loire-Atlantique,47.528,-1.794
+44063,Gétigné,52,Pays de la Loire,44,Loire-Atlantique,47.081,-1.218
+44064,Gorges,52,Pays de la Loire,44,Loire-Atlantique,47.104,-1.311
+44065,Grand-Auverné,52,Pays de la Loire,44,Loire-Atlantique,47.576,-1.312
+44066,Grandchamp-des-Fontaines,52,Pays de la Loire,44,Loire-Atlantique,47.361,-1.618
+44067,Guémené-Penfao,52,Pays de la Loire,44,Loire-Atlantique,47.628,-1.831
+44068,Guenrouet,52,Pays de la Loire,44,Loire-Atlantique,47.503,-1.956
+44069,Guérande,52,Pays de la Loire,44,Loire-Atlantique,47.331,-2.417
+44070,La Haie-Fouassière,52,Pays de la Loire,44,Loire-Atlantique,47.161,-1.4
+44071,Haute-Goulaine,52,Pays de la Loire,44,Loire-Atlantique,47.196,-1.41
+44072,Herbignac,52,Pays de la Loire,44,Loire-Atlantique,47.447,-2.313
+44073,Héric,52,Pays de la Loire,44,Loire-Atlantique,47.421,-1.637
+44074,Indre,52,Pays de la Loire,44,Loire-Atlantique,47.198,-1.672
+44075,Issé,52,Pays de la Loire,44,Loire-Atlantique,47.617,-1.456
+44076,Jans,52,Pays de la Loire,44,Loire-Atlantique,47.624,-1.604
+44077,Joué-sur-Erdre,52,Pays de la Loire,44,Loire-Atlantique,47.509,-1.429
+44078,Juigné-des-Moutiers,52,Pays de la Loire,44,Loire-Atlantique,47.689,-1.212
+44079,Le Landreau,52,Pays de la Loire,44,Loire-Atlantique,47.208,-1.298
+44080,Lavau-sur-Loire,52,Pays de la Loire,44,Loire-Atlantique,47.321,-1.958
+44081,Legé,52,Pays de la Loire,44,Loire-Atlantique,46.9,-1.579
+44082,Ligné,52,Pays de la Loire,44,Loire-Atlantique,47.401,-1.381
+44083,La Limouzinière,52,Pays de la Loire,44,Loire-Atlantique,46.987,-1.642
+44084,Le Loroux-Bottereau,52,Pays de la Loire,44,Loire-Atlantique,47.233,-1.332
+44085,Louisfert,52,Pays de la Loire,44,Loire-Atlantique,47.671,-1.426
+44086,Lusanger,52,Pays de la Loire,44,Loire-Atlantique,47.676,-1.582
+44087,Machecoul-Saint-Même,52,Pays de la Loire,44,Loire-Atlantique,46.991,-1.824
+44088,Maisdon-sur-Sèvre,52,Pays de la Loire,44,Loire-Atlantique,47.116,-1.389
+44089,Malville,52,Pays de la Loire,44,Loire-Atlantique,47.343,-1.854
+44090,La Marne,52,Pays de la Loire,44,Loire-Atlantique,46.991,-1.719
+44091,Marsac-sur-Don,52,Pays de la Loire,44,Loire-Atlantique,47.592,-1.696
+44092,Massérac,52,Pays de la Loire,44,Loire-Atlantique,47.676,-1.905
+44094,Mauves-sur-Loire,52,Pays de la Loire,44,Loire-Atlantique,47.316,-1.403
+44095,La Meilleraye-de-Bretagne,52,Pays de la Loire,44,Loire-Atlantique,47.564,-1.394
+44096,Mésanger,52,Pays de la Loire,44,Loire-Atlantique,47.429,-1.226
+44097,Mesquer,52,Pays de la Loire,44,Loire-Atlantique,47.396,-2.471
+44098,Missillac,52,Pays de la Loire,44,Loire-Atlantique,47.488,-2.178
+44099,Moisdon-la-Rivière,52,Pays de la Loire,44,Loire-Atlantique,47.622,-1.375
+44100,Monnières,52,Pays de la Loire,44,Loire-Atlantique,47.12,-1.349
+44101,La Montagne,52,Pays de la Loire,44,Loire-Atlantique,47.185,-1.685
+44102,Montbert,52,Pays de la Loire,44,Loire-Atlantique,47.068,-1.47
+44103,Montoir-de-Bretagne,52,Pays de la Loire,44,Loire-Atlantique,47.323,-2.147
+44104,Montrelais,52,Pays de la Loire,44,Loire-Atlantique,47.403,-0.972
+44105,Mouais,52,Pays de la Loire,44,Loire-Atlantique,47.705,-1.665
+44106,Les Moutiers-en-Retz,52,Pays de la Loire,44,Loire-Atlantique,47.062,-1.99
+44107,Mouzeil,52,Pays de la Loire,44,Loire-Atlantique,47.438,-1.331
+44108,Mouzillon,52,Pays de la Loire,44,Loire-Atlantique,47.129,-1.274
+44109,Nantes,52,Pays de la Loire,44,Loire-Atlantique,47.232,-1.548
+44110,Nort-sur-Erdre,52,Pays de la Loire,44,Loire-Atlantique,47.447,-1.518
+44111,Notre-Dame-des-Landes,52,Pays de la Loire,44,Loire-Atlantique,47.375,-1.716
+44112,Noyal-sur-Brutz,52,Pays de la Loire,44,Loire-Atlantique,47.771,-1.343
+44113,Nozay,52,Pays de la Loire,44,Loire-Atlantique,47.573,-1.601
+44114,Orvault,52,Pays de la Loire,44,Loire-Atlantique,47.274,-1.623
+44115,Oudon,52,Pays de la Loire,44,Loire-Atlantique,47.355,-1.271
+44116,Paimbœuf,52,Pays de la Loire,44,Loire-Atlantique,47.286,-2.028
+44117,Le Pallet,52,Pays de la Loire,44,Loire-Atlantique,47.144,-1.345
+44118,Pannecé,52,Pays de la Loire,44,Loire-Atlantique,47.488,-1.216
+44119,Paulx,52,Pays de la Loire,44,Loire-Atlantique,46.958,-1.778
+44120,Le Pellerin,52,Pays de la Loire,44,Loire-Atlantique,47.223,-1.825
+44121,Petit-Auverné,52,Pays de la Loire,44,Loire-Atlantique,47.611,-1.278
+44122,Petit-Mars,52,Pays de la Loire,44,Loire-Atlantique,47.405,-1.457
+44123,Pierric,52,Pays de la Loire,44,Loire-Atlantique,47.689,-1.775
+44124,Le Pin,52,Pays de la Loire,44,Loire-Atlantique,47.592,-1.147
+44125,Piriac-sur-Mer,52,Pays de la Loire,44,Loire-Atlantique,47.378,-2.517
+44126,La Plaine-sur-Mer,52,Pays de la Loire,44,Loire-Atlantique,47.144,-2.184
+44127,La Planche,52,Pays de la Loire,44,Loire-Atlantique,47.02,-1.44
+44128,Plessé,52,Pays de la Loire,44,Loire-Atlantique,47.556,-1.89
+44129,Pontchâteau,52,Pays de la Loire,44,Loire-Atlantique,47.434,-2.096
+44130,Pont-Saint-Martin,52,Pays de la Loire,44,Loire-Atlantique,47.127,-1.566
+44131,Pornic,52,Pays de la Loire,44,Loire-Atlantique,47.122,-2.052
+44132,Pornichet,52,Pays de la Loire,44,Loire-Atlantique,47.262,-2.314
+44133,Port-Saint-Père,52,Pays de la Loire,44,Loire-Atlantique,47.141,-1.768
+44134,Pouillé-les-Côteaux,52,Pays de la Loire,44,Loire-Atlantique,47.468,-1.175
+44135,Le Pouliguen,52,Pays de la Loire,44,Loire-Atlantique,47.272,-2.432
+44136,Préfailles,52,Pays de la Loire,44,Loire-Atlantique,47.132,-2.214
+44137,Prinquiau,52,Pays de la Loire,44,Loire-Atlantique,47.374,-2.019
+44138,Puceul,52,Pays de la Loire,44,Loire-Atlantique,47.519,-1.62
+44139,Quilly,52,Pays de la Loire,44,Loire-Atlantique,47.462,-1.941
+44140,La Regrippière,52,Pays de la Loire,44,Loire-Atlantique,47.185,-1.194
+44141,La Remaudière,52,Pays de la Loire,44,Loire-Atlantique,47.226,-1.232
+44142,Remouillé,52,Pays de la Loire,44,Loire-Atlantique,47.039,-1.388
+44143,Rezé,52,Pays de la Loire,44,Loire-Atlantique,47.176,-1.55
+44144,Riaillé,52,Pays de la Loire,44,Loire-Atlantique,47.521,-1.312
+44145,Rouans,52,Pays de la Loire,44,Loire-Atlantique,47.176,-1.843
+44146,Rougé,52,Pays de la Loire,44,Loire-Atlantique,47.77,-1.434
+44148,Ruffigné,52,Pays de la Loire,44,Loire-Atlantique,47.764,-1.521
+44149,Saffré,52,Pays de la Loire,44,Loire-Atlantique,47.491,-1.579
+44150,Saint-Aignan-Grandlieu,52,Pays de la Loire,44,Loire-Atlantique,47.133,-1.623
+44151,Saint-André-des-Eaux,52,Pays de la Loire,44,Loire-Atlantique,47.323,-2.313
+44152,Sainte-Anne-sur-Brivet,52,Pays de la Loire,44,Loire-Atlantique,47.452,-2.019
+44153,Saint-Aubin-des-Châteaux,52,Pays de la Loire,44,Loire-Atlantique,47.706,-1.479
+44154,Saint-Brevin-les-Pins,52,Pays de la Loire,44,Loire-Atlantique,47.238,-2.152
+44155,Saint-Colomban,52,Pays de la Loire,44,Loire-Atlantique,47.025,-1.559
+44156,Corcoué-sur-Logne,52,Pays de la Loire,44,Loire-Atlantique,46.953,-1.601
+44157,Saint-Étienne-de-Mer-Morte,52,Pays de la Loire,44,Loire-Atlantique,46.945,-1.718
+44158,Saint-Étienne-de-Montluc,52,Pays de la Loire,44,Loire-Atlantique,47.265,-1.784
+44159,Saint-Fiacre-sur-Maine,52,Pays de la Loire,44,Loire-Atlantique,47.143,-1.416
+44161,Saint-Gildas-des-Bois,52,Pays de la Loire,44,Loire-Atlantique,47.509,-2.06
+44162,Saint-Herblain,52,Pays de la Loire,44,Loire-Atlantique,47.224,-1.634
+44163,Vair-sur-Loire,52,Pays de la Loire,44,Loire-Atlantique,47.406,-1.115
+44164,Saint-Hilaire-de-Chaléons,52,Pays de la Loire,44,Loire-Atlantique,47.096,-1.88
+44165,Saint-Hilaire-de-Clisson,52,Pays de la Loire,44,Loire-Atlantique,47.06,-1.317
+44166,Saint-Jean-de-Boiseau,52,Pays de la Loire,44,Loire-Atlantique,47.194,-1.72
+44168,Saint-Joachim,52,Pays de la Loire,44,Loire-Atlantique,47.372,-2.243
+44169,Saint-Julien-de-Concelles,52,Pays de la Loire,44,Loire-Atlantique,47.246,-1.406
+44170,Saint-Julien-de-Vouvantes,52,Pays de la Loire,44,Loire-Atlantique,47.653,-1.229
+44171,Saint-Léger-les-Vignes,52,Pays de la Loire,44,Loire-Atlantique,47.143,-1.714
+44172,Sainte-Luce-sur-Loire,52,Pays de la Loire,44,Loire-Atlantique,47.254,-1.473
+44173,Saint-Lumine-de-Clisson,52,Pays de la Loire,44,Loire-Atlantique,47.08,-1.363
+44174,Saint-Lumine-de-Coutais,52,Pays de la Loire,44,Loire-Atlantique,47.052,-1.724
+44175,Saint-Lyphard,52,Pays de la Loire,44,Loire-Atlantique,47.378,-2.335
+44176,Saint-Malo-de-Guersac,52,Pays de la Loire,44,Loire-Atlantique,47.356,-2.172
+44178,Saint-Mars-de-Coutais,52,Pays de la Loire,44,Loire-Atlantique,47.08,-1.752
+44179,Saint-Mars-du-Désert,52,Pays de la Loire,44,Loire-Atlantique,47.357,-1.445
+44180,Vallons-de-l'Erdre,52,Pays de la Loire,44,Loire-Atlantique,47.531,-1.194
+44182,Saint-Michel-Chef-Chef,52,Pays de la Loire,44,Loire-Atlantique,47.176,-2.127
+44183,Saint-Molf,52,Pays de la Loire,44,Loire-Atlantique,47.388,-2.415
+44184,Saint-Nazaire,52,Pays de la Loire,44,Loire-Atlantique,47.28,-2.254
+44185,Saint-Nicolas-de-Redon,52,Pays de la Loire,44,Loire-Atlantique,47.636,-2.057
+44186,Sainte-Pazanne,52,Pays de la Loire,44,Loire-Atlantique,47.084,-1.818
+44187,Saint-Père-en-Retz,52,Pays de la Loire,44,Loire-Atlantique,47.225,-2.066
+44188,Saint-Philbert-de-Grand-Lieu,52,Pays de la Loire,44,Loire-Atlantique,47.06,-1.657
+44189,Sainte-Reine-de-Bretagne,52,Pays de la Loire,44,Loire-Atlantique,47.444,-2.181
+44190,Saint-Sébastien-sur-Loire,52,Pays de la Loire,44,Loire-Atlantique,47.203,-1.499
+44192,Saint-Viaud,52,Pays de la Loire,44,Loire-Atlantique,47.248,-1.993
+44193,Saint-Vincent-des-Landes,52,Pays de la Loire,44,Loire-Atlantique,47.656,-1.505
+44194,Sautron,52,Pays de la Loire,44,Loire-Atlantique,47.273,-1.68
+44195,Savenay,52,Pays de la Loire,44,Loire-Atlantique,47.357,-1.918
+44196,Sévérac,52,Pays de la Loire,44,Loire-Atlantique,47.554,-2.067
+44197,Sion-les-Mines,52,Pays de la Loire,44,Loire-Atlantique,47.729,-1.581
+44198,Les Sorinières,52,Pays de la Loire,44,Loire-Atlantique,47.142,-1.52
+44199,Soudan,52,Pays de la Loire,44,Loire-Atlantique,47.726,-1.29
+44200,Soulvache,52,Pays de la Loire,44,Loire-Atlantique,47.821,-1.448
+44201,Sucé-sur-Erdre,52,Pays de la Loire,44,Loire-Atlantique,47.354,-1.52
+44202,Teillé,52,Pays de la Loire,44,Loire-Atlantique,47.464,-1.287
+44203,Le Temple-de-Bretagne,52,Pays de la Loire,44,Loire-Atlantique,47.328,-1.79
+44204,Thouaré-sur-Loire,52,Pays de la Loire,44,Loire-Atlantique,47.276,-1.432
+44205,Les Touches,52,Pays de la Loire,44,Loire-Atlantique,47.452,-1.428
+44206,Touvois,52,Pays de la Loire,44,Loire-Atlantique,46.906,-1.68
+44207,Trans-sur-Erdre,52,Pays de la Loire,44,Loire-Atlantique,47.479,-1.364
+44208,Treffieux,52,Pays de la Loire,44,Loire-Atlantique,47.613,-1.528
+44209,Treillières,52,Pays de la Loire,44,Loire-Atlantique,47.318,-1.626
+44210,Trignac,52,Pays de la Loire,44,Loire-Atlantique,47.312,-2.207
+44211,La Turballe,52,Pays de la Loire,44,Loire-Atlantique,47.351,-2.488
+44212,Vallet,52,Pays de la Loire,44,Loire-Atlantique,47.172,-1.262
+44213,Loireauxence,52,Pays de la Loire,44,Loire-Atlantique,47.402,-1.024
+44214,Vay,52,Pays de la Loire,44,Loire-Atlantique,47.545,-1.708
+44215,Vertou,52,Pays de la Loire,44,Loire-Atlantique,47.16,-1.47
+44216,Vieillevigne,52,Pays de la Loire,44,Loire-Atlantique,46.971,-1.419
+44217,Vigneux-de-Bretagne,52,Pays de la Loire,44,Loire-Atlantique,47.32,-1.72
+44218,Villepot,52,Pays de la Loire,44,Loire-Atlantique,47.77,-1.285
+44220,Vue,52,Pays de la Loire,44,Loire-Atlantique,47.194,-1.901
+44221,La Chevallerais,52,Pays de la Loire,44,Loire-Atlantique,47.477,-1.665
+44222,La Roche-Blanche,52,Pays de la Loire,44,Loire-Atlantique,47.438,-1.144
+44223,Geneston,52,Pays de la Loire,44,Loire-Atlantique,47.06,-1.526
+44224,La Grigonnais,52,Pays de la Loire,44,Loire-Atlantique,47.518,-1.68
+49002,Allonnes,52,Pays de la Loire,49,Maine-et-Loire,47.304,0.011
+49003,Tuffalun,52,Pays de la Loire,49,Maine-et-Loire,47.257,-0.337
+49007,Angers,52,Pays de la Loire,49,Maine-et-Loire,47.477,-0.556
+49008,Angrie,52,Pays de la Loire,49,Maine-et-Loire,47.578,-0.968
+49009,Antoigné,52,Pays de la Loire,49,Maine-et-Loire,47.078,-0.132
+49010,Armaillé,52,Pays de la Loire,49,Maine-et-Loire,47.714,-1.138
+49011,Artannes-sur-Thouet,52,Pays de la Loire,49,Maine-et-Loire,47.202,-0.097
+49012,Aubigné-sur-Layon,52,Pays de la Loire,49,Maine-et-Loire,47.212,-0.473
+49015,Avrillé,52,Pays de la Loire,49,Maine-et-Loire,47.506,-0.601
+49017,Baracé,52,Pays de la Loire,49,Maine-et-Loire,47.643,-0.358
+49018,Baugé-en-Anjou,52,Pays de la Loire,49,Maine-et-Loire,47.547,-0.109
+49020,Beaucouzé,52,Pays de la Loire,49,Maine-et-Loire,47.474,-0.634
+49021,Beaufort-en-Anjou,52,Pays de la Loire,49,Maine-et-Loire,47.436,-0.207
+49022,Beaulieu-sur-Layon,52,Pays de la Loire,49,Maine-et-Loire,47.319,-0.6
+49023,Beaupréau-en-Mauges,52,Pays de la Loire,49,Maine-et-Loire,47.213,-0.984
+49026,Bécon-les-Granits,52,Pays de la Loire,49,Maine-et-Loire,47.5,-0.799
+49027,Bégrolles-en-Mauges,52,Pays de la Loire,49,Maine-et-Loire,47.133,-0.932
+49028,Béhuard,52,Pays de la Loire,49,Maine-et-Loire,47.377,-0.654
+49029,Blaison-Saint-Sulpice,52,Pays de la Loire,49,Maine-et-Loire,47.391,-0.38
+49030,Blou,52,Pays de la Loire,49,Maine-et-Loire,47.363,-0.054
+49035,Bouchemaine,52,Pays de la Loire,49,Maine-et-Loire,47.431,-0.627
+49036,Bouillé-Ménard,52,Pays de la Loire,49,Maine-et-Loire,47.738,-0.969
+49038,Bourg-l'Évêque,52,Pays de la Loire,49,Maine-et-Loire,47.733,-1.015
+49041,Brain-sur-Allonnes,52,Pays de la Loire,49,Maine-et-Loire,47.306,0.071
+49045,La Breille-les-Pins,52,Pays de la Loire,49,Maine-et-Loire,47.351,0.084
+49048,Briollay,52,Pays de la Loire,49,Maine-et-Loire,47.576,-0.498
+49050,Brissac Loire Aubance,52,Pays de la Loire,49,Maine-et-Loire,47.342,-0.441
+49053,Brossay,52,Pays de la Loire,49,Maine-et-Loire,47.168,-0.216
+49054,Candé,52,Pays de la Loire,49,Maine-et-Loire,47.558,-1.035
+49055,Cantenay-Épinard,52,Pays de la Loire,49,Maine-et-Loire,47.538,-0.566
+49056,Carbay,52,Pays de la Loire,49,Maine-et-Loire,47.732,-1.226
+49057,Cernusson,52,Pays de la Loire,49,Maine-et-Loire,47.168,-0.482
+49058,Les Cerqueux,52,Pays de la Loire,49,Maine-et-Loire,47.006,-0.641
+49060,Bellevigne-les-Châteaux,52,Pays de la Loire,49,Maine-et-Loire,47.207,-0.071
+49061,Challain-la-Potherie,52,Pays de la Loire,49,Maine-et-Loire,47.632,-1.072
+49063,Chalonnes-sur-Loire,52,Pays de la Loire,49,Maine-et-Loire,47.35,-0.773
+49064,Chambellay,52,Pays de la Loire,49,Maine-et-Loire,47.689,-0.694
+49067,Chenillé-Champteussé,52,Pays de la Loire,49,Maine-et-Loire,47.67,-0.654
+49068,Champtocé-sur-Loire,52,Pays de la Loire,49,Maine-et-Loire,47.43,-0.875
+49069,Orée d'Anjou,52,Pays de la Loire,49,Maine-et-Loire,47.322,-1.26
+49070,Chanteloup-les-Bois,52,Pays de la Loire,49,Maine-et-Loire,47.085,-0.692
+49076,La Chapelle-Saint-Laud,52,Pays de la Loire,49,Maine-et-Loire,47.614,-0.298
+49080,Les Hauts-d'Anjou,52,Pays de la Loire,49,Maine-et-Loire,47.684,-0.496
+49082,Chaudefonds-sur-Layon,52,Pays de la Loire,49,Maine-et-Loire,47.325,-0.722
+49086,Terranjou,52,Pays de la Loire,49,Maine-et-Loire,47.274,-0.44
+49089,Chazé-sur-Argos,52,Pays de la Loire,49,Maine-et-Loire,47.615,-0.898
+49090,Cheffes,52,Pays de la Loire,49,Maine-et-Loire,47.625,-0.52
+49092,Chemillé-en-Anjou,52,Pays de la Loire,49,Maine-et-Loire,47.227,-0.73
+49099,Cholet,52,Pays de la Loire,49,Maine-et-Loire,47.045,-0.878
+49100,Cizay-la-Madeleine,52,Pays de la Loire,49,Maine-et-Loire,47.183,-0.185
+49102,Cléré-sur-Layon,52,Pays de la Loire,49,Maine-et-Loire,47.086,-0.43
+49107,Cornillé-les-Caves,52,Pays de la Loire,49,Maine-et-Loire,47.492,-0.304
+49109,Coron,52,Pays de la Loire,49,Maine-et-Loire,47.12,-0.636
+49110,Corzé,52,Pays de la Loire,49,Maine-et-Loire,47.542,-0.369
+49112,Le Coudray-Macouard,52,Pays de la Loire,49,Maine-et-Loire,47.183,-0.129
+49113,Courchamps,52,Pays de la Loire,49,Maine-et-Loire,47.198,-0.157
+49114,Courléon,52,Pays de la Loire,49,Maine-et-Loire,47.381,0.147
+49120,Denée,52,Pays de la Loire,49,Maine-et-Loire,47.378,-0.61
+49121,Dénezé-sous-Doué,52,Pays de la Loire,49,Maine-et-Loire,47.253,-0.26
+49123,Distré,52,Pays de la Loire,49,Maine-et-Loire,47.223,-0.124
+49125,Doué-en-Anjou,52,Pays de la Loire,49,Maine-et-Loire,47.192,-0.278
+49127,Durtal,52,Pays de la Loire,49,Maine-et-Loire,47.678,-0.255
+49129,Écouflant,52,Pays de la Loire,49,Maine-et-Loire,47.529,-0.518
+49130,Écuillé,52,Pays de la Loire,49,Maine-et-Loire,47.615,-0.561
+49131,Épieds,52,Pays de la Loire,49,Maine-et-Loire,47.135,-0.039
+49132,Étriché,52,Pays de la Loire,49,Maine-et-Loire,47.66,-0.452
+49135,Feneu,52,Pays de la Loire,49,Maine-et-Loire,47.584,-0.601
+49138,Les Bois d'Anjou,52,Pays de la Loire,49,Maine-et-Loire,47.483,-0.174
+49140,Fontevraud-l'Abbaye,52,Pays de la Loire,49,Maine-et-Loire,47.184,0.034
+49155,Grez-Neuville,52,Pays de la Loire,49,Maine-et-Loire,47.595,-0.696
+49160,Ingrandes-le-Fresne-sur-Loire,52,Pays de la Loire,49,Maine-et-Loire,47.416,-0.92
+49161,La Jaille-Yvon,52,Pays de la Loire,49,Maine-et-Loire,47.727,-0.688
+49163,Jarzé Villages,52,Pays de la Loire,49,Maine-et-Loire,47.558,-0.24
+49167,Les Garennes sur Loire,52,Pays de la Loire,49,Maine-et-Loire,47.4,-0.485
+49170,Juvardeil,52,Pays de la Loire,49,Maine-et-Loire,47.659,-0.514
+49171,La Lande-Chasles,52,Pays de la Loire,49,Maine-et-Loire,47.461,-0.068
+49174,Huillé-Lézigné,52,Pays de la Loire,49,Maine-et-Loire,47.637,-0.293
+49176,Le Lion-d'Angers,52,Pays de la Loire,49,Maine-et-Loire,47.631,-0.75
+49178,Loiré,52,Pays de la Loire,49,Maine-et-Loire,47.626,-0.965
+49180,Longué-Jumelles,52,Pays de la Loire,49,Maine-et-Loire,47.398,-0.108
+49182,Louresse-Rochemenier,52,Pays de la Loire,49,Maine-et-Loire,47.242,-0.307
+49183,Val d'Erdre-Auxence,52,Pays de la Loire,49,Maine-et-Loire,47.519,-0.901
+49188,Marcé,52,Pays de la Loire,49,Maine-et-Loire,47.582,-0.3
+49192,Maulévrier,52,Pays de la Loire,49,Maine-et-Loire,47.019,-0.768
+49193,Le May-sur-Èvre,52,Pays de la Loire,49,Maine-et-Loire,47.133,-0.875
+49194,Mazé-Milon,52,Pays de la Loire,49,Maine-et-Loire,47.46,-0.284
+49195,Mazières-en-Mauges,52,Pays de la Loire,49,Maine-et-Loire,47.06,-0.796
+49200,Longuenée-en-Anjou,52,Pays de la Loire,49,Maine-et-Loire,47.561,-0.684
+49201,La Ménitré,52,Pays de la Loire,49,Maine-et-Loire,47.407,-0.257
+49205,Miré,52,Pays de la Loire,49,Maine-et-Loire,47.762,-0.495
+49209,Montigné-lès-Rairies,52,Pays de la Loire,49,Maine-et-Loire,47.626,-0.214
+49211,Montilliers,52,Pays de la Loire,49,Maine-et-Loire,47.187,-0.516
+49214,Montreuil-Juigné,52,Pays de la Loire,49,Maine-et-Loire,47.541,-0.616
+49215,Montreuil-Bellay,52,Pays de la Loire,49,Maine-et-Loire,47.129,-0.125
+49216,Montreuil-sur-Loir,52,Pays de la Loire,49,Maine-et-Loire,47.594,-0.392
+49217,Montreuil-sur-Maine,52,Pays de la Loire,49,Maine-et-Loire,47.66,-0.711
+49218,Montrevault-sur-Èvre,52,Pays de la Loire,49,Maine-et-Loire,47.255,-1.052
+49219,Montsoreau,52,Pays de la Loire,49,Maine-et-Loire,47.214,0.052
+49220,Morannes sur Sarthe-Daumeray,52,Pays de la Loire,49,Maine-et-Loire,47.726,-0.403
+49221,Mouliherne,52,Pays de la Loire,49,Maine-et-Loire,47.453,0.013
+49222,Mozé-sur-Louet,52,Pays de la Loire,49,Maine-et-Loire,47.359,-0.569
+49223,Mûrs-Erigné,52,Pays de la Loire,49,Maine-et-Loire,47.395,-0.554
+49224,Neuillé,52,Pays de la Loire,49,Maine-et-Loire,47.336,-0.018
+49228,Noyant-Villages,52,Pays de la Loire,49,Maine-et-Loire,47.507,0.11
+49231,Nuaillé,52,Pays de la Loire,49,Maine-et-Loire,47.086,-0.777
+49235,Parnay,52,Pays de la Loire,49,Maine-et-Loire,47.221,0.004
+49236,Passavant-sur-Layon,52,Pays de la Loire,49,Maine-et-Loire,47.101,-0.383
+49237,La Pellerine,52,Pays de la Loire,49,Maine-et-Loire,47.459,0.132
+49240,La Plaine,52,Pays de la Loire,49,Maine-et-Loire,47.067,-0.629
+49241,Le Plessis-Grammoire,52,Pays de la Loire,49,Maine-et-Loire,47.492,-0.436
+49244,Mauges-sur-Loire,52,Pays de la Loire,49,Maine-et-Loire,47.343,-0.869
+49246,Les Ponts-de-Cé,52,Pays de la Loire,49,Maine-et-Loire,47.427,-0.513
+49247,La Possonnière,52,Pays de la Loire,49,Maine-et-Loire,47.381,-0.709
+49248,Ombrée d'Anjou,52,Pays de la Loire,49,Maine-et-Loire,47.763,-1.193
+49253,Le Puy-Notre-Dame,52,Pays de la Loire,49,Maine-et-Loire,47.114,-0.229
+49257,Les Rairies,52,Pays de la Loire,49,Maine-et-Loire,47.652,-0.217
+49259,Rochefort-sur-Loire,52,Pays de la Loire,49,Maine-et-Loire,47.351,-0.65
+49260,La Romagne,52,Pays de la Loire,49,Maine-et-Loire,47.054,-1.01
+49261,Gennes-Val-de-Loire,52,Pays de la Loire,49,Maine-et-Loire,47.374,-0.223
+49262,Rou-Marson,52,Pays de la Loire,49,Maine-et-Loire,47.245,-0.152
+49266,Saint-Augustin-des-Bois,52,Pays de la Loire,49,Maine-et-Loire,47.454,-0.8
+49267,Saint-Barthélemy-d'Anjou,52,Pays de la Loire,49,Maine-et-Loire,47.474,-0.486
+49269,Saint-Christophe-du-Bois,52,Pays de la Loire,49,Maine-et-Loire,47.029,-0.966
+49271,Saint-Clément-de-la-Place,52,Pays de la Loire,49,Maine-et-Loire,47.526,-0.734
+49272,Saint-Clément-des-Levées,52,Pays de la Loire,49,Maine-et-Loire,47.344,-0.182
+49278,Sainte-Gemmes-sur-Loire,52,Pays de la Loire,49,Maine-et-Loire,47.428,-0.576
+49283,Saint-Georges-sur-Loire,52,Pays de la Loire,49,Maine-et-Loire,47.402,-0.756
+49284,Saint-Germain-des-Prés,52,Pays de la Loire,49,Maine-et-Loire,47.41,-0.812
+49288,Saint-Jean-de-la-Croix,52,Pays de la Loire,49,Maine-et-Loire,47.411,-0.588
+49291,Saint-Just-sur-Dive,52,Pays de la Loire,49,Maine-et-Loire,47.172,-0.1
+49292,Val-du-Layon,52,Pays de la Loire,49,Maine-et-Loire,47.3,-0.64
+49294,Saint-Lambert-la-Potherie,52,Pays de la Loire,49,Maine-et-Loire,47.486,-0.691
+49298,Saint-Léger-de-Linières,52,Pays de la Loire,49,Maine-et-Loire,47.462,-0.728
+49299,Saint-Léger-sous-Cholet,52,Pays de la Loire,49,Maine-et-Loire,47.102,-0.904
+49301,Sèvremoine,52,Pays de la Loire,49,Maine-et-Loire,47.126,-0.998
+49302,Saint-Macaire-du-Bois,52,Pays de la Loire,49,Maine-et-Loire,47.113,-0.29
+49306,Saint-Martin-du-Fouilloux,52,Pays de la Loire,49,Maine-et-Loire,47.437,-0.709
+49307,Loire-Authion,52,Pays de la Loire,49,Maine-et-Loire,47.422,-0.32
+49308,Saint-Melaine-sur-Aubance,52,Pays de la Loire,49,Maine-et-Loire,47.382,-0.502
+49310,Saint-Paul-du-Bois,52,Pays de la Loire,49,Maine-et-Loire,47.089,-0.542
+49311,Saint-Philbert-du-Peuple,52,Pays de la Loire,49,Maine-et-Loire,47.391,-0.044
+49323,Verrières-en-Anjou,52,Pays de la Loire,49,Maine-et-Loire,47.512,-0.476
+49326,Sarrigné,52,Pays de la Loire,49,Maine-et-Loire,47.502,-0.386
+49328,Saumur,52,Pays de la Loire,49,Maine-et-Loire,47.267,-0.083
+49329,Savennières,52,Pays de la Loire,49,Maine-et-Loire,47.406,-0.667
+49330,Sceaux-d'Anjou,52,Pays de la Loire,49,Maine-et-Loire,47.631,-0.61
+49331,Segré-en-Anjou Bleu,52,Pays de la Loire,49,Maine-et-Loire,47.702,-0.863
+49332,La Séguinière,52,Pays de la Loire,49,Maine-et-Loire,47.08,-0.958
+49333,Seiches-sur-le-Loir,52,Pays de la Loire,49,Maine-et-Loire,47.604,-0.359
+49334,Sermaise,52,Pays de la Loire,49,Maine-et-Loire,47.523,-0.216
+49336,Somloire,52,Pays de la Loire,49,Maine-et-Loire,47.035,-0.596
+49338,Soulaines-sur-Aubance,52,Pays de la Loire,49,Maine-et-Loire,47.359,-0.52
+49339,Soulaire-et-Bourg,52,Pays de la Loire,49,Maine-et-Loire,47.58,-0.543
+49341,Souzay-Champigny,52,Pays de la Loire,49,Maine-et-Loire,47.217,-0.021
+49343,La Tessoualle,52,Pays de la Loire,49,Maine-et-Loire,47.008,-0.837
+49344,Thorigné-d'Anjou,52,Pays de la Loire,49,Maine-et-Loire,47.635,-0.664
+49345,Bellevigne-en-Layon,52,Pays de la Loire,49,Maine-et-Loire,47.259,-0.518
+49347,Tiercé,52,Pays de la Loire,49,Maine-et-Loire,47.625,-0.443
+49352,Toutlemonde,52,Pays de la Loire,49,Maine-et-Loire,47.057,-0.758
+49353,Trélazé,52,Pays de la Loire,49,Maine-et-Loire,47.451,-0.474
+49355,Trémentines,52,Pays de la Loire,49,Maine-et-Loire,47.123,-0.802
+49358,Turquant,52,Pays de la Loire,49,Maine-et-Loire,47.211,0.022
+49359,Les Ulmes,52,Pays de la Loire,49,Maine-et-Loire,47.224,-0.182
+49361,Varennes-sur-Loire,52,Pays de la Loire,49,Maine-et-Loire,47.248,0.042
+49362,Varrains,52,Pays de la Loire,49,Maine-et-Loire,47.228,-0.066
+49364,Vaudelnay,52,Pays de la Loire,49,Maine-et-Loire,47.141,-0.213
+49367,Erdre-en-Anjou,52,Pays de la Loire,49,Maine-et-Loire,47.588,-0.85
+49368,Vernantes,52,Pays de la Loire,49,Maine-et-Loire,47.394,0.029
+49369,Vernoil-le-Fourrier,52,Pays de la Loire,49,Maine-et-Loire,47.396,0.097
+49370,Verrie,52,Pays de la Loire,49,Maine-et-Loire,47.268,-0.187
+49371,Vezins,52,Pays de la Loire,49,Maine-et-Loire,47.115,-0.721
+49373,Lys-Haut-Layon,52,Pays de la Loire,49,Maine-et-Loire,47.137,-0.56
+49374,Villebernier,52,Pays de la Loire,49,Maine-et-Loire,47.262,-0.021
+49377,Rives-du-Loir-en-Anjou,52,Pays de la Loire,49,Maine-et-Loire,47.549,-0.447
+49378,Vivy,52,Pays de la Loire,49,Maine-et-Loire,47.323,-0.067
+49381,Yzernay,52,Pays de la Loire,49,Maine-et-Loire,47.034,-0.697
+53001,Ahuillé,52,Pays de la Loire,53,Mayenne,48.024,-0.873
+53002,Alexain,52,Pays de la Loire,53,Mayenne,48.232,-0.736
+53003,Ambrières-les-Vallées,52,Pays de la Loire,53,Mayenne,48.423,-0.624
+53005,Andouillé,52,Pays de la Loire,53,Mayenne,48.177,-0.793
+53007,Argentré,52,Pays de la Loire,53,Mayenne,48.091,-0.632
+53008,Aron,52,Pays de la Loire,53,Mayenne,48.304,-0.55
+53009,Arquenay,52,Pays de la Loire,53,Mayenne,47.986,-0.588
+53010,Assé-le-Bérenger,52,Pays de la Loire,53,Mayenne,48.156,-0.319
+53011,Astillé,52,Pays de la Loire,53,Mayenne,47.962,-0.846
+53012,Athée,52,Pays de la Loire,53,Mayenne,47.882,-0.937
+53013,Averton,52,Pays de la Loire,53,Mayenne,48.355,-0.21
+53015,La Baconnière,52,Pays de la Loire,53,Mayenne,48.175,-0.9
+53016,Bais,52,Pays de la Loire,53,Mayenne,48.253,-0.357
+53017,Val-du-Maine,52,Pays de la Loire,53,Mayenne,47.937,-0.416
+53018,Ballots,52,Pays de la Loire,53,Mayenne,47.904,-1.059
+53019,Bannes,52,Pays de la Loire,53,Mayenne,47.985,-0.351
+53021,La Bazoge-Montpinçon,52,Pays de la Loire,53,Mayenne,48.271,-0.584
+53022,La Bazouge-de-Chemeré,52,Pays de la Loire,53,Mayenne,48.007,-0.505
+53023,La Bazouge-des-Alleux,52,Pays de la Loire,53,Mayenne,48.186,-0.601
+53025,Bazougers,52,Pays de la Loire,53,Mayenne,48.026,-0.593
+53026,Beaulieu-sur-Oudon,52,Pays de la Loire,53,Mayenne,47.992,-0.988
+53027,Beaumont-Pied-de-Bœuf,52,Pays de la Loire,53,Mayenne,47.908,-0.441
+53028,Belgeard,52,Pays de la Loire,53,Mayenne,48.252,-0.56
+53029,Bierné-les-Villages,52,Pays de la Loire,53,Mayenne,47.807,-0.533
+53030,Le Bignon-du-Maine,52,Pays de la Loire,53,Mayenne,47.951,-0.626
+53031,La Bigottière,52,Pays de la Loire,53,Mayenne,48.223,-0.796
+53033,La Boissière,52,Pays de la Loire,53,Mayenne,47.772,-0.979
+53034,Bonchamp-lès-Laval,52,Pays de la Loire,53,Mayenne,48.068,-0.698
+53035,Bouchamps-lès-Craon,52,Pays de la Loire,53,Mayenne,47.806,-0.985
+53036,Bouère,52,Pays de la Loire,53,Mayenne,47.861,-0.485
+53037,Bouessay,52,Pays de la Loire,53,Mayenne,47.872,-0.393
+53038,Boulay-les-Ifs,52,Pays de la Loire,53,Mayenne,48.426,-0.139
+53039,Le Bourgneuf-la-Forêt,52,Pays de la Loire,53,Mayenne,48.164,-0.978
+53040,Bourgon,52,Pays de la Loire,53,Mayenne,48.16,-1.045
+53041,Brains-sur-les-Marches,52,Pays de la Loire,53,Mayenne,47.884,-1.176
+53042,Brecé,52,Pays de la Loire,53,Mayenne,48.39,-0.771
+53043,Brée,52,Pays de la Loire,53,Mayenne,48.156,-0.518
+53045,La Brûlatte,52,Pays de la Loire,53,Mayenne,48.09,-0.973
+53046,Le Buret,52,Pays de la Loire,53,Mayenne,47.919,-0.501
+53047,Carelles,52,Pays de la Loire,53,Mayenne,48.389,-0.9
+53048,Chailland,52,Pays de la Loire,53,Mayenne,48.232,-0.869
+53049,Châlons-du-Maine,52,Pays de la Loire,53,Mayenne,48.16,-0.646
+53051,Champéon,52,Pays de la Loire,53,Mayenne,48.356,-0.513
+53052,Champfrémont,52,Pays de la Loire,53,Mayenne,48.433,-0.104
+53053,Champgenéteux,52,Pays de la Loire,53,Mayenne,48.294,-0.376
+53054,Changé,52,Pays de la Loire,53,Mayenne,48.108,-0.8
+53055,Chantrigné,52,Pays de la Loire,53,Mayenne,48.413,-0.56
+53056,La Chapelle-Anthenaise,52,Pays de la Loire,53,Mayenne,48.132,-0.66
+53057,La Chapelle-au-Riboul,52,Pays de la Loire,53,Mayenne,48.316,-0.433
+53058,La Chapelle-Craonnaise,52,Pays de la Loire,53,Mayenne,47.902,-0.908
+53059,La Chapelle-Rainsouin,52,Pays de la Loire,53,Mayenne,48.097,-0.528
+53061,Charchigné,52,Pays de la Loire,53,Mayenne,48.414,-0.407
+53062,Château-Gontier-sur-Mayenne,52,Pays de la Loire,53,Mayenne,47.829,-0.739
+53063,Châtelain,52,Pays de la Loire,53,Mayenne,47.807,-0.596
+53064,Châtillon-sur-Colmont,52,Pays de la Loire,53,Mayenne,48.336,-0.758
+53066,Chemazé,52,Pays de la Loire,53,Mayenne,47.778,-0.766
+53067,Chémeré-le-Roi,52,Pays de la Loire,53,Mayenne,47.974,-0.446
+53068,Chérancé,52,Pays de la Loire,53,Mayenne,47.801,-0.927
+53069,Chevaigné-du-Maine,52,Pays de la Loire,53,Mayenne,48.438,-0.401
+53071,Colombiers-du-Plessis,52,Pays de la Loire,53,Mayenne,48.388,-0.847
+53072,Commer,52,Pays de la Loire,53,Mayenne,48.235,-0.62
+53073,Congrier,52,Pays de la Loire,53,Mayenne,47.803,-1.125
+53074,Contest,52,Pays de la Loire,53,Mayenne,48.26,-0.69
+53075,Cosmes,52,Pays de la Loire,53,Mayenne,47.918,-0.87
+53076,Cossé-en-Champagne,52,Pays de la Loire,53,Mayenne,47.965,-0.324
+53077,Cossé-le-Vivien,52,Pays de la Loire,53,Mayenne,47.946,-0.935
+53078,Coudray,52,Pays de la Loire,53,Mayenne,47.791,-0.638
+53079,Couesmes-Vaucé,52,Pays de la Loire,53,Mayenne,48.448,-0.71
+53080,Couptrain,52,Pays de la Loire,53,Mayenne,48.482,-0.291
+53082,Courbeveille,52,Pays de la Loire,53,Mayenne,47.987,-0.888
+53083,Courcité,52,Pays de la Loire,53,Mayenne,48.304,-0.254
+53084,Craon,52,Pays de la Loire,53,Mayenne,47.845,-0.943
+53085,Crennes-sur-Fraubée,52,Pays de la Loire,53,Mayenne,48.383,-0.266
+53086,La Croixille,52,Pays de la Loire,53,Mayenne,48.197,-1.042
+53087,La Cropte,52,Pays de la Loire,53,Mayenne,47.954,-0.492
+53088,Cuillé,52,Pays de la Loire,53,Mayenne,47.966,-1.115
+53089,Daon,52,Pays de la Loire,53,Mayenne,47.758,-0.628
+53090,Denazé,52,Pays de la Loire,53,Mayenne,47.881,-0.883
+53091,Désertines,52,Pays de la Loire,53,Mayenne,48.474,-0.876
+53093,La Dorée,52,Pays de la Loire,53,Mayenne,48.448,-0.968
+53094,Entrammes,52,Pays de la Loire,53,Mayenne,47.993,-0.715
+53096,Ernée,52,Pays de la Loire,53,Mayenne,48.304,-0.936
+53097,Évron,52,Pays de la Loire,53,Mayenne,48.152,-0.389
+53098,Fontaine-Couverte,52,Pays de la Loire,53,Mayenne,47.914,-1.14
+53099,Forcé,52,Pays de la Loire,53,Mayenne,48.029,-0.704
+53100,Fougerolles-du-Plessis,52,Pays de la Loire,53,Mayenne,48.483,-0.946
+53101,Fromentières,52,Pays de la Loire,53,Mayenne,47.872,-0.668
+53102,Gastines,52,Pays de la Loire,53,Mayenne,47.94,-1.112
+53103,Le Genest-Saint-Isle,52,Pays de la Loire,53,Mayenne,48.104,-0.895
+53104,Gennes-Longuefuye,52,Pays de la Loire,53,Mayenne,47.844,-0.586
+53105,Gesnes,52,Pays de la Loire,53,Mayenne,48.15,-0.594
+53106,Gesvres,52,Pays de la Loire,53,Mayenne,48.376,-0.164
+53107,Gorron,52,Pays de la Loire,53,Mayenne,48.422,-0.802
+53108,La Gravelle,52,Pays de la Loire,53,Mayenne,48.081,-1.024
+53109,Grazay,52,Pays de la Loire,53,Mayenne,48.286,-0.476
+53110,Grez-en-Bouère,52,Pays de la Loire,53,Mayenne,47.87,-0.538
+53111,La Haie-Traversaine,52,Pays de la Loire,53,Mayenne,48.359,-0.614
+53112,Le Ham,52,Pays de la Loire,53,Mayenne,48.374,-0.353
+53113,Hambers,52,Pays de la Loire,53,Mayenne,48.254,-0.426
+53114,Hardanges,52,Pays de la Loire,53,Mayenne,48.341,-0.406
+53115,Hercé,52,Pays de la Loire,53,Mayenne,48.423,-0.861
+53116,Le Horps,52,Pays de la Loire,53,Mayenne,48.39,-0.463
+53117,Houssay,52,Pays de la Loire,53,Mayenne,47.911,-0.745
+53118,Le Housseau-Brétignolles,52,Pays de la Loire,53,Mayenne,48.471,-0.537
+53119,L'Huisserie,52,Pays de la Loire,53,Mayenne,48.017,-0.766
+53120,Izé,52,Pays de la Loire,53,Mayenne,48.225,-0.301
+53121,Javron-les-Chapelles,52,Pays de la Loire,53,Mayenne,48.421,-0.331
+53122,Jublains,52,Pays de la Loire,53,Mayenne,48.246,-0.498
+53123,Juvigné,52,Pays de la Loire,53,Mayenne,48.236,-1.022
+53124,Prée-d'Anjou,52,Pays de la Loire,53,Mayenne,47.845,-0.835
+53125,Landivy,52,Pays de la Loire,53,Mayenne,48.479,-1.039
+53126,Larchamp,52,Pays de la Loire,53,Mayenne,48.349,-1.003
+53127,Lassay-les-Châteaux,52,Pays de la Loire,53,Mayenne,48.442,-0.499
+53128,Laubrières,52,Pays de la Loire,53,Mayenne,47.948,-1.071
+53129,Launay-Villiers,52,Pays de la Loire,53,Mayenne,48.133,-1.012
+53130,Laval,52,Pays de la Loire,53,Mayenne,48.061,-0.766
+53131,Lesbois,52,Pays de la Loire,53,Mayenne,48.451,-0.794
+53132,Levaré,52,Pays de la Loire,53,Mayenne,48.419,-0.907
+53133,Lignières-Orgères,52,Pays de la Loire,53,Mayenne,48.529,-0.212
+53134,Livet,52,Pays de la Loire,53,Mayenne,48.112,-0.463
+53135,Livré-la-Touche,52,Pays de la Loire,53,Mayenne,47.889,-0.993
+53136,La Roche-Neuville,52,Pays de la Loire,53,Mayenne,47.868,-0.737
+53137,Loiron-Ruillé,52,Pays de la Loire,53,Mayenne,48.063,-0.919
+53139,Loupfougères,52,Pays de la Loire,53,Mayenne,48.332,-0.352
+53140,Louverné,52,Pays de la Loire,53,Mayenne,48.126,-0.712
+53141,Louvigné,52,Pays de la Loire,53,Mayenne,48.055,-0.635
+53142,Madré,52,Pays de la Loire,53,Mayenne,48.47,-0.376
+53143,Maisoncelles-du-Maine,52,Pays de la Loire,53,Mayenne,47.968,-0.66
+53144,Marcillé-la-Ville,52,Pays de la Loire,53,Mayenne,48.325,-0.481
+53145,Marigné-Peuton,52,Pays de la Loire,53,Mayenne,47.858,-0.799
+53146,Martigné-sur-Mayenne,52,Pays de la Loire,53,Mayenne,48.203,-0.661
+53147,Mayenne,52,Pays de la Loire,53,Mayenne,48.308,-0.615
+53148,Mée,52,Pays de la Loire,53,Mayenne,47.802,-0.866
+53150,Ménil,52,Pays de la Loire,53,Mayenne,47.764,-0.688
+53151,Méral,52,Pays de la Loire,53,Mayenne,47.952,-1.015
+53152,Meslay-du-Maine,52,Pays de la Loire,53,Mayenne,47.947,-0.559
+53153,Mézangers,52,Pays de la Loire,53,Mayenne,48.2,-0.45
+53154,Montaudin,52,Pays de la Loire,53,Mayenne,48.381,-0.98
+53155,Montenay,52,Pays de la Loire,53,Mayenne,48.279,-0.892
+53156,Montflours,52,Pays de la Loire,53,Mayenne,48.17,-0.726
+53157,Montigné-le-Brillant,52,Pays de la Loire,53,Mayenne,48.013,-0.817
+53158,Montjean,52,Pays de la Loire,53,Mayenne,48.008,-0.942
+53160,Montreuil-Poulay,52,Pays de la Loire,53,Mayenne,48.386,-0.536
+53161,Montsûrs,52,Pays de la Loire,53,Mayenne,48.134,-0.552
+53162,Moulay,52,Pays de la Loire,53,Mayenne,48.265,-0.621
+53163,Neau,52,Pays de la Loire,53,Mayenne,48.17,-0.475
+53164,Neuilly-le-Vendin,52,Pays de la Loire,53,Mayenne,48.49,-0.326
+53165,Niafles,52,Pays de la Loire,53,Mayenne,47.847,-1.0
+53168,Nuillé-sur-Vicoin,52,Pays de la Loire,53,Mayenne,47.98,-0.779
+53169,Olivet,52,Pays de la Loire,53,Mayenne,48.121,-0.935
+53170,Oisseau,52,Pays de la Loire,53,Mayenne,48.362,-0.667
+53172,Origné,52,Pays de la Loire,53,Mayenne,47.952,-0.735
+53173,La Pallu,52,Pays de la Loire,53,Mayenne,48.505,-0.297
+53174,Parigné-sur-Braye,52,Pays de la Loire,53,Mayenne,48.323,-0.647
+53175,Parné-sur-Roc,52,Pays de la Loire,53,Mayenne,48.01,-0.665
+53176,Le Pas,52,Pays de la Loire,53,Mayenne,48.422,-0.695
+53177,La Pellerine,52,Pays de la Loire,53,Mayenne,48.32,-1.034
+53178,Peuton,52,Pays de la Loire,53,Mayenne,47.889,-0.813
+53179,Placé,52,Pays de la Loire,53,Mayenne,48.264,-0.776
+53180,Pommerieux,52,Pays de la Loire,53,Mayenne,47.828,-0.9
+53181,Pontmain,52,Pays de la Loire,53,Mayenne,48.434,-1.065
+53182,Port-Brillet,52,Pays de la Loire,53,Mayenne,48.121,-0.964
+53184,Préaux,52,Pays de la Loire,53,Mayenne,47.937,-0.465
+53185,Pré-en-Pail-Saint-Samson,52,Pays de la Loire,53,Mayenne,48.447,-0.197
+53186,Quelaines-Saint-Gault,52,Pays de la Loire,53,Mayenne,47.928,-0.799
+53187,Ravigny,52,Pays de la Loire,53,Mayenne,48.442,-0.068
+53188,Renazé,52,Pays de la Loire,53,Mayenne,47.784,-1.04
+53189,Rennes-en-Grenouilles,52,Pays de la Loire,53,Mayenne,48.491,-0.507
+53190,Le Ribay,52,Pays de la Loire,53,Mayenne,48.378,-0.416
+53191,La Roë,52,Pays de la Loire,53,Mayenne,47.891,-1.103
+53192,La Rouaudière,52,Pays de la Loire,53,Mayenne,47.838,-1.186
+53193,Ruillé-Froid-Fonds,52,Pays de la Loire,53,Mayenne,47.906,-0.625
+53195,Sacé,52,Pays de la Loire,53,Mayenne,48.18,-0.699
+53196,Saint-Aignan-de-Couptrain,52,Pays de la Loire,53,Mayenne,48.46,-0.301
+53197,Saint-Aignan-sur-Roë,52,Pays de la Loire,53,Mayenne,47.85,-1.14
+53198,Saint-Aubin-du-Désert,52,Pays de la Loire,53,Mayenne,48.315,-0.185
+53199,Saint-Aubin-Fosse-Louvain,52,Pays de la Loire,53,Mayenne,48.449,-0.836
+53200,Saint-Baudelle,52,Pays de la Loire,53,Mayenne,48.287,-0.651
+53201,Saint-Berthevin,52,Pays de la Loire,53,Mayenne,48.07,-0.845
+53202,Saint-Berthevin-la-Tannière,52,Pays de la Loire,53,Mayenne,48.407,-0.948
+53203,Saint-Brice,52,Pays de la Loire,53,Mayenne,47.862,-0.44
+53204,Saint-Calais-du-Désert,52,Pays de la Loire,53,Mayenne,48.49,-0.251
+53206,Saint-Charles-la-Forêt,52,Pays de la Loire,53,Mayenne,47.92,-0.569
+53208,Saint-Cyr-en-Pail,52,Pays de la Loire,53,Mayenne,48.434,-0.254
+53209,Saint-Cyr-le-Gravelais,52,Pays de la Loire,53,Mayenne,48.039,-1.005
+53210,Saint-Denis-d'Anjou,52,Pays de la Loire,53,Mayenne,47.79,-0.444
+53211,Saint-Denis-de-Gastines,52,Pays de la Loire,53,Mayenne,48.347,-0.871
+53212,Saint-Denis-du-Maine,52,Pays de la Loire,53,Mayenne,47.981,-0.522
+53213,Saint-Ellier-du-Maine,52,Pays de la Loire,53,Mayenne,48.404,-1.04
+53214,Saint-Erblon,52,Pays de la Loire,53,Mayenne,47.787,-1.158
+53216,Saint-Fraimbault-de-Prières,52,Pays de la Loire,53,Mayenne,48.349,-0.574
+53218,Sainte-Gemmes-le-Robert,52,Pays de la Loire,53,Mayenne,48.205,-0.373
+53219,Saint-Georges-Buttavent,52,Pays de la Loire,53,Mayenne,48.301,-0.71
+53220,Saint-Georges-le-Fléchard,52,Pays de la Loire,53,Mayenne,48.036,-0.515
+53221,Saint-Georges-sur-Erve,52,Pays de la Loire,53,Mayenne,48.177,-0.292
+53222,Saint-Germain-d'Anxure,52,Pays de la Loire,53,Mayenne,48.218,-0.734
+53223,Saint-Germain-de-Coulamer,52,Pays de la Loire,53,Mayenne,48.268,-0.186
+53224,Saint-Germain-le-Fouilloux,52,Pays de la Loire,53,Mayenne,48.14,-0.812
+53225,Saint-Germain-le-Guillaume,52,Pays de la Loire,53,Mayenne,48.207,-0.827
+53226,Saint-Hilaire-du-Maine,52,Pays de la Loire,53,Mayenne,48.223,-0.931
+53228,Blandouet-Saint Jean,52,Pays de la Loire,53,Mayenne,48.04,-0.388
+53229,Saint-Jean-sur-Mayenne,52,Pays de la Loire,53,Mayenne,48.141,-0.752
+53230,Saint-Julien-du-Terroux,52,Pays de la Loire,53,Mayenne,48.484,-0.409
+53232,Saint-Léger,52,Pays de la Loire,53,Mayenne,48.086,-0.446
+53233,Saint-Loup-du-Dorat,52,Pays de la Loire,53,Mayenne,47.886,-0.424
+53234,Saint-Loup-du-Gast,52,Pays de la Loire,53,Mayenne,48.387,-0.584
+53235,Sainte-Marie-du-Bois,52,Pays de la Loire,53,Mayenne,48.469,-0.483
+53236,Saint-Mars-du-Désert,52,Pays de la Loire,53,Mayenne,48.295,-0.17
+53237,Saint-Mars-sur-Colmont,52,Pays de la Loire,53,Mayenne,48.383,-0.709
+53238,Saint-Mars-sur-la-Futaie,52,Pays de la Loire,53,Mayenne,48.431,-1.012
+53240,Saint-Martin-du-Limet,52,Pays de la Loire,53,Mayenne,47.815,-1.029
+53242,Saint-Michel-de-la-Roë,52,Pays de la Loire,53,Mayenne,47.872,-1.124
+53243,Saint-Ouën-des-Toits,52,Pays de la Loire,53,Mayenne,48.142,-0.893
+53245,Saint-Pierre-des-Landes,52,Pays de la Loire,53,Mayenne,48.288,-1.028
+53246,Saint-Pierre-des-Nids,52,Pays de la Loire,53,Mayenne,48.398,-0.109
+53247,Saint-Pierre-la-Cour,52,Pays de la Loire,53,Mayenne,48.108,-1.024
+53248,Saint-Pierre-sur-Erve,52,Pays de la Loire,53,Mayenne,48.012,-0.41
+53249,Vimartin-sur-Orthe,52,Pays de la Loire,53,Mayenne,48.228,-0.193
+53250,Saint-Poix,52,Pays de la Loire,53,Mayenne,47.966,-1.044
+53251,Saint-Quentin-les-Anges,52,Pays de la Loire,53,Mayenne,47.777,-0.875
+53253,Saint-Saturnin-du-Limet,52,Pays de la Loire,53,Mayenne,47.816,-1.089
+53255,Sainte-Suzanne-et-Chammes,52,Pays de la Loire,53,Mayenne,48.103,-0.355
+53256,Saint-Thomas-de-Courceriers,52,Pays de la Loire,53,Mayenne,48.264,-0.266
+53257,Saulges,52,Pays de la Loire,53,Mayenne,47.976,-0.406
+53258,La Selle-Craonnaise,52,Pays de la Loire,53,Mayenne,47.847,-1.058
+53259,Senonnes,52,Pays de la Loire,53,Mayenne,47.807,-1.196
+53260,Simplé,52,Pays de la Loire,53,Mayenne,47.883,-0.855
+53261,Soucé,52,Pays de la Loire,53,Mayenne,48.467,-0.67
+53262,Soulgé-sur-Ouette,52,Pays de la Loire,53,Mayenne,48.062,-0.558
+53263,Thubœuf,52,Pays de la Loire,53,Mayenne,48.496,-0.454
+53264,Thorigné-en-Charnie,52,Pays de la Loire,53,Mayenne,48.006,-0.36
+53265,Torcé-Viviers-en-Charnie,52,Pays de la Loire,53,Mayenne,48.097,-0.272
+53266,Trans,52,Pays de la Loire,53,Mayenne,48.283,-0.308
+53267,Vaiges,52,Pays de la Loire,53,Mayenne,48.051,-0.471
+53269,Vautorte,52,Pays de la Loire,53,Mayenne,48.298,-0.823
+53270,Vieuvy,52,Pays de la Loire,53,Mayenne,48.446,-0.878
+53271,Villaines-la-Juhel,52,Pays de la Loire,53,Mayenne,48.339,-0.292
+53272,Villepail,52,Pays de la Loire,53,Mayenne,48.403,-0.264
+53273,Villiers-Charlemagne,52,Pays de la Loire,53,Mayenne,47.925,-0.683
+53276,Voutré,52,Pays de la Loire,53,Mayenne,48.137,-0.292
+56001,Allaire,53,Bretagne,56,Morbihan,47.639,-2.177
+56002,Ambon,53,Bretagne,56,Morbihan,47.557,-2.541
+56003,Arradon,53,Bretagne,56,Morbihan,47.634,-2.822
+56004,Arzal,53,Bretagne,56,Morbihan,47.52,-2.405
+56005,Arzon,53,Bretagne,56,Morbihan,47.547,-2.888
+56006,Augan,53,Bretagne,56,Morbihan,47.912,-2.268
+56007,Auray,53,Bretagne,56,Morbihan,47.668,-2.99
+56008,Baden,53,Bretagne,56,Morbihan,47.615,-2.904
+56009,Bangor,53,Bretagne,56,Morbihan,47.313,-3.192
+56010,Baud,53,Bretagne,56,Morbihan,47.875,-3.031
+56011,Béganne,53,Bretagne,56,Morbihan,47.603,-2.244
+56012,Beignon,53,Bretagne,56,Morbihan,47.966,-2.18
+56013,Belz,53,Bretagne,56,Morbihan,47.672,-3.162
+56014,Berné,53,Bretagne,56,Morbihan,47.985,-3.374
+56015,Berric,53,Bretagne,56,Morbihan,47.638,-2.528
+56017,Bignan,53,Bretagne,56,Morbihan,47.877,-2.759
+56018,Billiers,53,Bretagne,56,Morbihan,47.524,-2.48
+56019,Billio,53,Bretagne,56,Morbihan,47.868,-2.648
+56020,Bohal,53,Bretagne,56,Morbihan,47.784,-2.447
+56021,Brandérion,53,Bretagne,56,Morbihan,47.792,-3.193
+56022,Brandivy,53,Bretagne,56,Morbihan,47.784,-2.922
+56023,Brech,53,Bretagne,56,Morbihan,47.709,-3.024
+56024,Bréhan,53,Bretagne,56,Morbihan,48.07,-2.687
+56025,Brignac,53,Bretagne,56,Morbihan,48.112,-2.395
+56026,Bubry,53,Bretagne,56,Morbihan,47.969,-3.176
+56027,Buléon,53,Bretagne,56,Morbihan,47.92,-2.675
+56028,Caden,53,Bretagne,56,Morbihan,47.64,-2.299
+56029,Calan,53,Bretagne,56,Morbihan,47.88,-3.312
+56030,Camoël,53,Bretagne,56,Morbihan,47.479,-2.399
+56031,Camors,53,Bretagne,56,Morbihan,47.83,-3.0
+56032,Campénéac,53,Bretagne,56,Morbihan,47.962,-2.278
+56033,Carentoir,53,Bretagne,56,Morbihan,47.82,-2.146
+56034,Carnac,53,Bretagne,56,Morbihan,47.608,-3.07
+56035,Caro,53,Bretagne,56,Morbihan,47.862,-2.328
+56036,Caudan,53,Bretagne,56,Morbihan,47.813,-3.341
+56039,La Chapelle-Neuve,53,Bretagne,56,Morbihan,47.855,-2.934
+56040,Cléguer,53,Bretagne,56,Morbihan,47.865,-3.365
+56041,Cléguérec,53,Bretagne,56,Morbihan,48.128,-3.063
+56042,Colpo,53,Bretagne,56,Morbihan,47.816,-2.807
+56043,Concoret,53,Bretagne,56,Morbihan,48.066,-2.208
+56044,Cournon,53,Bretagne,56,Morbihan,47.749,-2.098
+56045,Le Cours,53,Bretagne,56,Morbihan,47.75,-2.508
+56046,Crach,53,Bretagne,56,Morbihan,47.63,-3.001
+56047,Crédin,53,Bretagne,56,Morbihan,48.038,-2.765
+56048,Le Croisty,53,Bretagne,56,Morbihan,48.061,-3.373
+56050,La Croix-Helléan,53,Bretagne,56,Morbihan,47.964,-2.511
+56051,Cruguel,53,Bretagne,56,Morbihan,47.878,-2.591
+56052,Damgan,53,Bretagne,56,Morbihan,47.523,-2.586
+56053,Elven,53,Bretagne,56,Morbihan,47.733,-2.593
+56054,Erdeven,53,Bretagne,56,Morbihan,47.637,-3.156
+56055,Étel,53,Bretagne,56,Morbihan,47.657,-3.198
+56056,Évriguet,53,Bretagne,56,Morbihan,48.083,-2.405
+56057,Le Faouët,53,Bretagne,56,Morbihan,48.049,-3.509
+56058,Férel,53,Bretagne,56,Morbihan,47.487,-2.34
+56060,Les Fougerêts,53,Bretagne,56,Morbihan,47.748,-2.197
+56061,La Gacilly,53,Bretagne,56,Morbihan,47.773,-2.156
+56062,Gâvres,53,Bretagne,56,Morbihan,47.695,-3.334
+56063,Gestel,53,Bretagne,56,Morbihan,47.808,-3.438
+56065,Gourhel,53,Bretagne,56,Morbihan,47.939,-2.358
+56066,Gourin,53,Bretagne,56,Morbihan,48.136,-3.604
+56067,Grand-Champ,53,Bretagne,56,Morbihan,47.761,-2.848
+56068,La Grée-Saint-Laurent,53,Bretagne,56,Morbihan,48.002,-2.503
+56069,Groix,53,Bretagne,56,Morbihan,47.637,-3.464
+56070,Guégon,53,Bretagne,56,Morbihan,47.926,-2.586
+56071,Guéhenno,53,Bretagne,56,Morbihan,47.892,-2.651
+56072,Gueltas,53,Bretagne,56,Morbihan,48.092,-2.81
+56073,Guémené-sur-Scorff,53,Bretagne,56,Morbihan,48.066,-3.206
+56074,Guénin,53,Bretagne,56,Morbihan,47.906,-2.967
+56075,Guer,53,Bretagne,56,Morbihan,47.907,-2.129
+56076,Guern,53,Bretagne,56,Morbihan,48.035,-3.102
+56077,Le Guerno,53,Bretagne,56,Morbihan,47.591,-2.4
+56078,Guidel,53,Bretagne,56,Morbihan,47.794,-3.492
+56079,Guillac,53,Bretagne,56,Morbihan,47.924,-2.48
+56080,Guilliers,53,Bretagne,56,Morbihan,48.052,-2.414
+56081,Guiscriff,53,Bretagne,56,Morbihan,48.043,-3.624
+56082,Helléan,53,Bretagne,56,Morbihan,47.968,-2.481
+56083,Hennebont,53,Bretagne,56,Morbihan,47.808,-3.27
+56084,Le Hézo,53,Bretagne,56,Morbihan,47.581,-2.692
+56085,Hœdic,53,Bretagne,56,Morbihan,47.34,-2.876
+56086,Île-d'Houat,53,Bretagne,56,Morbihan,47.389,-2.967
+56087,Île-aux-Moines,53,Bretagne,56,Morbihan,47.586,-2.849
+56088,Île-d'Arz,53,Bretagne,56,Morbihan,47.592,-2.8
+56089,Inguiniel,53,Bretagne,56,Morbihan,47.956,-3.26
+56090,Inzinzac-Lochrist,53,Bretagne,56,Morbihan,47.856,-3.252
+56091,Josselin,53,Bretagne,56,Morbihan,47.954,-2.549
+56092,Kerfourn,53,Bretagne,56,Morbihan,48.043,-2.836
+56093,Kergrist,53,Bretagne,56,Morbihan,48.147,-2.928
+56094,Kervignac,53,Bretagne,56,Morbihan,47.769,-3.248
+56096,Landaul,53,Bretagne,56,Morbihan,47.742,-3.099
+56097,Landévant,53,Bretagne,56,Morbihan,47.771,-3.114
+56098,Lanester,53,Bretagne,56,Morbihan,47.769,-3.326
+56099,Langoëlan,53,Bretagne,56,Morbihan,48.121,-3.233
+56100,Langonnet,53,Bretagne,56,Morbihan,48.132,-3.481
+56101,Languidic,53,Bretagne,56,Morbihan,47.837,-3.148
+56102,Forges de Lanouée,53,Bretagne,56,Morbihan,47.987,-2.576
+56103,Lantillac,53,Bretagne,56,Morbihan,47.951,-2.661
+56104,Lanvaudan,53,Bretagne,56,Morbihan,47.893,-3.245
+56105,Lanvénégen,53,Bretagne,56,Morbihan,48.004,-3.532
+56106,Larmor-Baden,53,Bretagne,56,Morbihan,47.593,-2.899
+56107,Larmor-Plage,53,Bretagne,56,Morbihan,47.716,-3.391
+56108,Larré,53,Bretagne,56,Morbihan,47.716,-2.495
+56109,Lauzach,53,Bretagne,56,Morbihan,47.611,-2.556
+56110,Lignol,53,Bretagne,56,Morbihan,48.027,-3.272
+56111,Limerzel,53,Bretagne,56,Morbihan,47.636,-2.361
+56112,Lizio,53,Bretagne,56,Morbihan,47.864,-2.52
+56113,Locmalo,53,Bretagne,56,Morbihan,48.062,-3.183
+56114,Locmaria,53,Bretagne,56,Morbihan,47.302,-3.106
+56115,Locmaria-Grand-Champ,53,Bretagne,56,Morbihan,47.76,-2.79
+56116,Locmariaquer,53,Bretagne,56,Morbihan,47.578,-2.963
+56117,Locminé,53,Bretagne,56,Morbihan,47.88,-2.838
+56118,Locmiquélic,53,Bretagne,56,Morbihan,47.73,-3.328
+56119,Locoal-Mendon,53,Bretagne,56,Morbihan,47.702,-3.11
+56120,Locqueltas,53,Bretagne,56,Morbihan,47.764,-2.758
+56121,Lorient,53,Bretagne,56,Morbihan,47.75,-3.378
+56122,Loyat,53,Bretagne,56,Morbihan,47.992,-2.384
+56123,Malansac,53,Bretagne,56,Morbihan,47.686,-2.3
+56124,Malestroit,53,Bretagne,56,Morbihan,47.808,-2.387
+56125,Malguénac,53,Bretagne,56,Morbihan,48.069,-3.056
+56126,Marzan,53,Bretagne,56,Morbihan,47.542,-2.354
+56127,Mauron,53,Bretagne,56,Morbihan,48.082,-2.304
+56128,Melrand,53,Bretagne,56,Morbihan,47.975,-3.1
+56129,Ménéac,53,Bretagne,56,Morbihan,48.131,-2.454
+56130,Merlevenez,53,Bretagne,56,Morbihan,47.733,-3.243
+56131,Meslan,53,Bretagne,56,Morbihan,47.988,-3.448
+56132,Meucon,53,Bretagne,56,Morbihan,47.724,-2.774
+56133,Missiriac,53,Bretagne,56,Morbihan,47.824,-2.356
+56134,Mohon,53,Bretagne,56,Morbihan,48.063,-2.496
+56135,Molac,53,Bretagne,56,Morbihan,47.736,-2.44
+56136,Monteneuf,53,Bretagne,56,Morbihan,47.878,-2.193
+56137,Monterblanc,53,Bretagne,56,Morbihan,47.732,-2.696
+56139,Montertelot,53,Bretagne,56,Morbihan,47.886,-2.412
+56140,Moréac,53,Bretagne,56,Morbihan,47.933,-2.804
+56141,Moustoir-Ac,53,Bretagne,56,Morbihan,47.843,-2.858
+56143,Muzillac,53,Bretagne,56,Morbihan,47.555,-2.473
+56144,Évellys,53,Bretagne,56,Morbihan,47.997,-2.844
+56145,Néant-sur-Yvel,53,Bretagne,56,Morbihan,48.022,-2.333
+56146,Neulliac,53,Bretagne,56,Morbihan,48.122,-2.972
+56147,Nivillac,53,Bretagne,56,Morbihan,47.541,-2.249
+56148,Nostang,53,Bretagne,56,Morbihan,47.755,-3.175
+56149,Noyal-Muzillac,53,Bretagne,56,Morbihan,47.6,-2.46
+56151,Noyal-Pontivy,53,Bretagne,56,Morbihan,48.061,-2.891
+56152,Le Palais,53,Bretagne,56,Morbihan,47.343,-3.171
+56153,Péaule,53,Bretagne,56,Morbihan,47.583,-2.336
+56154,Peillac,53,Bretagne,56,Morbihan,47.715,-2.219
+56155,Pénestin,53,Bretagne,56,Morbihan,47.473,-2.465
+56156,Persquen,53,Bretagne,56,Morbihan,48.015,-3.219
+56157,Plaudren,53,Bretagne,56,Morbihan,47.779,-2.696
+56158,Plescop,53,Bretagne,56,Morbihan,47.697,-2.831
+56159,Pleucadeuc,53,Bretagne,56,Morbihan,47.77,-2.387
+56160,Pleugriffet,53,Bretagne,56,Morbihan,47.994,-2.692
+56161,Ploemel,53,Bretagne,56,Morbihan,47.66,-3.072
+56162,Ploemeur,53,Bretagne,56,Morbihan,47.733,-3.442
+56163,Ploërdut,53,Bretagne,56,Morbihan,48.092,-3.288
+56164,Ploeren,53,Bretagne,56,Morbihan,47.662,-2.843
+56165,Ploërmel,53,Bretagne,56,Morbihan,47.922,-2.383
+56166,Plouay,53,Bretagne,56,Morbihan,47.927,-3.337
+56167,Plougoumelen,53,Bretagne,56,Morbihan,47.661,-2.898
+56168,Plouharnel,53,Bretagne,56,Morbihan,47.6,-3.123
+56169,Plouhinec,53,Bretagne,56,Morbihan,47.693,-3.234
+56170,Plouray,53,Bretagne,56,Morbihan,48.134,-3.376
+56171,Pluherlin,53,Bretagne,56,Morbihan,47.715,-2.37
+56172,Plumelec,53,Bretagne,56,Morbihan,47.826,-2.623
+56173,Pluméliau-Bieuzy,53,Bretagne,56,Morbihan,47.965,-2.981
+56174,Plumelin,53,Bretagne,56,Morbihan,47.882,-2.888
+56175,Plumergat,53,Bretagne,56,Morbihan,47.728,-2.923
+56176,Pluneret,53,Bretagne,56,Morbihan,47.678,-2.946
+56177,Pluvigner,53,Bretagne,56,Morbihan,47.782,-3.016
+56178,Pontivy,53,Bretagne,56,Morbihan,48.073,-2.97
+56179,Pont-Scorff,53,Bretagne,56,Morbihan,47.839,-3.42
+56180,Porcaro,53,Bretagne,56,Morbihan,47.92,-2.194
+56181,Port-Louis,53,Bretagne,56,Morbihan,47.71,-3.348
+56182,Priziac,53,Bretagne,56,Morbihan,48.056,-3.435
+56184,Questembert,53,Bretagne,56,Morbihan,47.664,-2.437
+56185,Quéven,53,Bretagne,56,Morbihan,47.784,-3.42
+56186,Quiberon,53,Bretagne,56,Morbihan,47.488,-3.123
+56188,Quistinic,53,Bretagne,56,Morbihan,47.909,-3.128
+56189,Radenac,53,Bretagne,56,Morbihan,47.949,-2.713
+56190,Réguiny,53,Bretagne,56,Morbihan,47.986,-2.772
+56191,Réminiac,53,Bretagne,56,Morbihan,47.864,-2.253
+56193,Riantec,53,Bretagne,56,Morbihan,47.718,-3.302
+56194,Rieux,53,Bretagne,56,Morbihan,47.606,-2.126
+56195,La Roche-Bernard,53,Bretagne,56,Morbihan,47.519,-2.303
+56196,Rochefort-en-Terre,53,Bretagne,56,Morbihan,47.698,-2.344
+56197,Val d'Oust,53,Bretagne,56,Morbihan,47.869,-2.456
+56198,Rohan,53,Bretagne,56,Morbihan,48.09,-2.743
+56199,Roudouallec,53,Bretagne,56,Morbihan,48.12,-3.694
+56200,Ruffiac,53,Bretagne,56,Morbihan,47.814,-2.285
+56201,Le Saint,53,Bretagne,56,Morbihan,48.096,-3.565
+56202,Saint-Abraham,53,Bretagne,56,Morbihan,47.848,-2.406
+56203,Saint-Aignan,53,Bretagne,56,Morbihan,48.182,-3.049
+56204,Saint-Allouestre,53,Bretagne,56,Morbihan,47.908,-2.736
+56205,Saint-Armel,53,Bretagne,56,Morbihan,47.563,-2.711
+56206,Saint-Avé,53,Bretagne,56,Morbihan,47.699,-2.742
+56207,Saint-Barthélemy,53,Bretagne,56,Morbihan,47.926,-3.041
+56208,Saint-Brieuc-de-Mauron,53,Bretagne,56,Morbihan,48.09,-2.362
+56209,Sainte-Brigitte,53,Bretagne,56,Morbihan,48.177,-3.11
+56210,Saint-Caradec-Trégomel,53,Bretagne,56,Morbihan,48.032,-3.351
+56211,Saint-Congard,53,Bretagne,56,Morbihan,47.768,-2.329
+56212,Saint-Dolay,53,Bretagne,56,Morbihan,47.548,-2.172
+56213,Saint-Gérand-Croixanvec,53,Bretagne,56,Morbihan,48.108,-2.886
+56214,Saint-Gildas-de-Rhuys,53,Bretagne,56,Morbihan,47.513,-2.833
+56215,Saint-Gonnery,53,Bretagne,56,Morbihan,48.126,-2.822
+56216,Saint-Gorgon,53,Bretagne,56,Morbihan,47.642,-2.238
+56218,Saint-Gravé,53,Bretagne,56,Morbihan,47.723,-2.288
+56219,Saint-Guyomard,53,Bretagne,56,Morbihan,47.779,-2.502
+56220,Sainte-Hélène,53,Bretagne,56,Morbihan,47.717,-3.185
+56221,Saint-Jacut-les-Pins,53,Bretagne,56,Morbihan,47.678,-2.212
+56222,Saint-Jean-Brévelay,53,Bretagne,56,Morbihan,47.831,-2.728
+56223,Saint-Jean-la-Poterie,53,Bretagne,56,Morbihan,47.645,-2.123
+56224,Saint-Laurent-sur-Oust,53,Bretagne,56,Morbihan,47.792,-2.314
+56225,Saint-Léry,53,Bretagne,56,Morbihan,48.091,-2.263
+56226,Saint-Malo-de-Beignon,53,Bretagne,56,Morbihan,47.957,-2.144
+56227,Saint-Malo-des-Trois-Fontaines,53,Bretagne,56,Morbihan,48.017,-2.468
+56228,Saint-Marcel,53,Bretagne,56,Morbihan,47.811,-2.416
+56229,Saint-Martin-sur-Oust,53,Bretagne,56,Morbihan,47.763,-2.264
+56230,Saint-Nicolas-du-Tertre,53,Bretagne,56,Morbihan,47.796,-2.218
+56231,Saint-Nolff,53,Bretagne,56,Morbihan,47.698,-2.666
+56232,Saint-Perreux,53,Bretagne,56,Morbihan,47.672,-2.123
+56233,Saint-Philibert,53,Bretagne,56,Morbihan,47.588,-3.001
+56234,Saint-Pierre-Quiberon,53,Bretagne,56,Morbihan,47.523,-3.138
+56236,Saint-Servant,53,Bretagne,56,Morbihan,47.899,-2.512
+56237,Saint-Thuriau,53,Bretagne,56,Morbihan,48.016,-2.943
+56238,Saint-Tugdual,53,Bretagne,56,Morbihan,48.096,-3.367
+56239,Saint-Vincent-sur-Oust,53,Bretagne,56,Morbihan,47.702,-2.148
+56240,Sarzeau,53,Bretagne,56,Morbihan,47.524,-2.751
+56241,Sauzon,53,Bretagne,56,Morbihan,47.354,-3.23
+56242,Séglien,53,Bretagne,56,Morbihan,48.102,-3.152
+56243,Séné,53,Bretagne,56,Morbihan,47.623,-2.724
+56244,Sérent,53,Bretagne,56,Morbihan,47.824,-2.497
+56245,Silfiac,53,Bretagne,56,Morbihan,48.145,-3.172
+56246,Le Sourn,53,Bretagne,56,Morbihan,48.038,-2.995
+56247,Sulniac,53,Bretagne,56,Morbihan,47.66,-2.563
+56248,Surzur,53,Bretagne,56,Morbihan,47.569,-2.627
+56249,Taupont,53,Bretagne,56,Morbihan,47.962,-2.443
+56250,Théhillac,53,Bretagne,56,Morbihan,47.552,-2.118
+56251,Theix-Noyalo,53,Bretagne,56,Morbihan,47.636,-2.647
+56252,Le Tour-du-Parc,53,Bretagne,56,Morbihan,47.529,-2.654
+56253,Tréal,53,Bretagne,56,Morbihan,47.833,-2.23
+56254,Trédion,53,Bretagne,56,Morbihan,47.783,-2.584
+56255,Treffléan,53,Bretagne,56,Morbihan,47.678,-2.622
+56256,Tréhorenteuc,53,Bretagne,56,Morbihan,48.004,-2.295
+56257,La Trinité-Porhoët,53,Bretagne,56,Morbihan,48.098,-2.525
+56258,La Trinité-sur-Mer,53,Bretagne,56,Morbihan,47.591,-3.037
+56259,La Trinité-Surzur,53,Bretagne,56,Morbihan,47.605,-2.592
+56260,Vannes,53,Bretagne,56,Morbihan,47.66,-2.757
+56261,La Vraie-Croix,53,Bretagne,56,Morbihan,47.69,-2.519
+56262,Le Bono,53,Bretagne,56,Morbihan,47.637,-2.94
+56263,Sainte-Anne-d'Auray,53,Bretagne,56,Morbihan,47.701,-2.953
+56264,Kernascléden,53,Bretagne,56,Morbihan,48.008,-3.329
+72001,Aigné,52,Pays de la Loire,72,Sarthe,48.067,0.106
+72002,Aillières-Beauvoir,52,Pays de la Loire,72,Sarthe,48.4,0.321
+72003,Allonnes,52,Pays de la Loire,72,Sarthe,47.959,0.144
+72004,Amné,52,Pays de la Loire,72,Sarthe,48.04,-0.044
+72005,Ancinnes,52,Pays de la Loire,72,Sarthe,48.36,0.174
+72006,Arçonnay,52,Pays de la Loire,72,Sarthe,48.396,0.081
+72007,Ardenay-sur-Mérize,52,Pays de la Loire,72,Sarthe,47.994,0.428
+72008,Arnage,52,Pays de la Loire,72,Sarthe,47.929,0.191
+72009,Arthezé,52,Pays de la Loire,72,Sarthe,47.789,-0.111
+72010,Asnières-sur-Vègre,52,Pays de la Loire,72,Sarthe,47.886,-0.226
+72011,Assé-le-Boisne,52,Pays de la Loire,72,Sarthe,48.322,-0.003
+72012,Assé-le-Riboul,52,Pays de la Loire,72,Sarthe,48.203,0.079
+72013,Aubigné-Racan,52,Pays de la Loire,72,Sarthe,47.684,0.25
+72015,Les Aulneaux,52,Pays de la Loire,72,Sarthe,48.438,0.343
+72016,Auvers-le-Hamon,52,Pays de la Loire,72,Sarthe,47.904,-0.345
+72017,Auvers-sous-Montfaucon,52,Pays de la Loire,72,Sarthe,48.001,-0.075
+72018,Avesnes-en-Saosnois,52,Pays de la Loire,72,Sarthe,48.266,0.359
+72019,Avessé,52,Pays de la Loire,72,Sarthe,47.957,-0.267
+72020,Avezé,52,Pays de la Loire,72,Sarthe,48.234,0.672
+72021,Avoise,52,Pays de la Loire,72,Sarthe,47.86,-0.193
+72022,Le Bailleul,52,Pays de la Loire,72,Sarthe,47.772,-0.18
+72023,Ballon-Saint Mars,52,Pays de la Loire,72,Sarthe,48.172,0.226
+72024,La Bazoge,52,Pays de la Loire,72,Sarthe,48.103,0.144
+72025,Bazouges Cré sur Loir,52,Pays de la Loire,72,Sarthe,47.686,-0.172
+72026,Beaufay,52,Pays de la Loire,72,Sarthe,48.142,0.342
+72027,Beaumont-sur-Dême,52,Pays de la Loire,72,Sarthe,47.687,0.58
+72028,Beaumont-Pied-de-Bœuf,52,Pays de la Loire,72,Sarthe,47.757,0.384
+72029,Beaumont-sur-Sarthe,52,Pays de la Loire,72,Sarthe,48.225,0.112
+72031,Beillé,52,Pays de la Loire,72,Sarthe,48.083,0.509
+72032,Berfay,52,Pays de la Loire,72,Sarthe,48.002,0.75
+72034,Bérus,52,Pays de la Loire,72,Sarthe,48.375,0.068
+72035,Bessé-sur-Braye,52,Pays de la Loire,72,Sarthe,47.824,0.722
+72036,Béthon,52,Pays de la Loire,72,Sarthe,48.365,0.092
+72037,Blèves,52,Pays de la Loire,72,Sarthe,48.45,0.336
+72038,Boëssé-le-Sec,52,Pays de la Loire,72,Sarthe,48.135,0.558
+72039,Bonnétable,52,Pays de la Loire,72,Sarthe,48.185,0.452
+72040,La Bosse,52,Pays de la Loire,72,Sarthe,48.164,0.547
+72041,Bouër,52,Pays de la Loire,72,Sarthe,48.076,0.634
+72042,Bouloire,52,Pays de la Loire,72,Sarthe,47.968,0.551
+72043,Bourg-le-Roi,52,Pays de la Loire,72,Sarthe,48.346,0.132
+72044,Bousse,52,Pays de la Loire,72,Sarthe,47.761,-0.063
+72045,Brains-sur-Gée,52,Pays de la Loire,72,Sarthe,48.01,-0.027
+72046,Le Breil-sur-Mérize,52,Pays de la Loire,72,Sarthe,47.996,0.5
+72047,Brette-les-Pins,52,Pays de la Loire,72,Sarthe,47.911,0.327
+72048,Briosne-lès-Sables,52,Pays de la Loire,72,Sarthe,48.175,0.393
+72049,La Bruère-sur-Loir,52,Pays de la Loire,72,Sarthe,47.651,0.357
+72050,Brûlon,52,Pays de la Loire,72,Sarthe,47.981,-0.23
+72051,Cérans-Foulletourte,52,Pays de la Loire,72,Sarthe,47.834,0.07
+72052,Chahaignes,52,Pays de la Loire,72,Sarthe,47.752,0.514
+72053,Challes,52,Pays de la Loire,72,Sarthe,47.934,0.429
+72054,Champagné,52,Pays de la Loire,72,Sarthe,48.016,0.334
+72056,Champfleur,52,Pays de la Loire,72,Sarthe,48.384,0.125
+72057,Champrond,52,Pays de la Loire,72,Sarthe,48.083,0.747
+72058,Changé,52,Pays de la Loire,72,Sarthe,47.978,0.297
+72059,Chantenay-Villedieu,52,Pays de la Loire,72,Sarthe,47.92,-0.154
+72060,La Chapelle-aux-Choux,52,Pays de la Loire,72,Sarthe,47.628,0.23
+72061,La Chapelle-d'Aligné,52,Pays de la Loire,72,Sarthe,47.736,-0.239
+72062,La Chapelle-du-Bois,52,Pays de la Loire,72,Sarthe,48.227,0.584
+72064,La Chapelle-Huon,52,Pays de la Loire,72,Sarthe,47.856,0.719
+72065,La Chapelle-Saint-Aubin,52,Pays de la Loire,72,Sarthe,48.036,0.157
+72066,La Chapelle-Saint-Fray,52,Pays de la Loire,72,Sarthe,48.109,0.091
+72067,La Chapelle-Saint-Rémy,52,Pays de la Loire,72,Sarthe,48.104,0.465
+72068,La Chartre-sur-le-Loir,52,Pays de la Loire,72,Sarthe,47.73,0.582
+72070,Chassillé,52,Pays de la Loire,72,Sarthe,48.021,-0.127
+72071,Montval-sur-Loir,52,Pays de la Loire,72,Sarthe,47.702,0.431
+72072,Château-l'Hermitage,52,Pays de la Loire,72,Sarthe,47.802,0.199
+72073,Chaufour-Notre-Dame,52,Pays de la Loire,72,Sarthe,48.018,0.063
+72074,Chemiré-en-Charnie,52,Pays de la Loire,72,Sarthe,48.053,-0.203
+72075,Chemiré-le-Gaudin,52,Pays de la Loire,72,Sarthe,47.929,-0.012
+72076,Chenay,52,Pays de la Loire,72,Sarthe,48.448,0.16
+72077,Chenu,52,Pays de la Loire,72,Sarthe,47.604,0.355
+72078,Chérancé,52,Pays de la Loire,72,Sarthe,48.281,0.176
+72079,Chérisay,52,Pays de la Loire,72,Sarthe,48.35,0.114
+72080,Cherré-Au,52,Pays de la Loire,72,Sarthe,48.155,0.657
+72083,Chevillé,52,Pays de la Loire,72,Sarthe,47.942,-0.218
+72084,Clermont-Créans,52,Pays de la Loire,72,Sarthe,47.733,-0.024
+72085,Cogners,52,Pays de la Loire,72,Sarthe,47.862,0.654
+72086,Commerveil,52,Pays de la Loire,72,Sarthe,48.314,0.354
+72087,Conflans-sur-Anille,52,Pays de la Loire,72,Sarthe,47.972,0.727
+72088,Congé-sur-Orne,52,Pays de la Loire,72,Sarthe,48.21,0.255
+72089,Conlie,52,Pays de la Loire,72,Sarthe,48.122,-0.013
+72090,Connerré,52,Pays de la Loire,72,Sarthe,48.051,0.468
+72091,Contilly,52,Pays de la Loire,72,Sarthe,48.413,0.359
+72093,Cormes,52,Pays de la Loire,72,Sarthe,48.168,0.709
+72094,Coudrecieux,52,Pays de la Loire,72,Sarthe,47.985,0.626
+72095,Coulaines,52,Pays de la Loire,72,Sarthe,48.033,0.211
+72096,Coulans-sur-Gée,52,Pays de la Loire,72,Sarthe,48.022,0.017
+72098,Coulongé,52,Pays de la Loire,72,Sarthe,47.692,0.194
+72099,Courcebœufs,52,Pays de la Loire,72,Sarthe,48.127,0.282
+72100,Courcelles-la-Forêt,52,Pays de la Loire,72,Sarthe,47.794,-0.024
+72101,Courcemont,52,Pays de la Loire,72,Sarthe,48.177,0.344
+72102,Courcival,52,Pays de la Loire,72,Sarthe,48.236,0.392
+72103,Courdemanche,52,Pays de la Loire,72,Sarthe,47.816,0.555
+72104,Courgains,52,Pays de la Loire,72,Sarthe,48.291,0.277
+72105,Courgenard,52,Pays de la Loire,72,Sarthe,48.157,0.74
+72106,Courtillers,52,Pays de la Loire,72,Sarthe,47.806,-0.315
+72107,Crannes-en-Champagne,52,Pays de la Loire,72,Sarthe,47.979,-0.037
+72109,Crissé,52,Pays de la Loire,72,Sarthe,48.18,-0.064
+72110,Crosmières,52,Pays de la Loire,72,Sarthe,47.736,-0.155
+72111,Cures,52,Pays de la Loire,72,Sarthe,48.085,0.017
+72112,Dangeul,52,Pays de la Loire,72,Sarthe,48.249,0.261
+72113,Degré,52,Pays de la Loire,72,Sarthe,48.053,0.074
+72114,Dehault,52,Pays de la Loire,72,Sarthe,48.208,0.576
+72115,Dissay-sous-Courcillon,52,Pays de la Loire,72,Sarthe,47.666,0.484
+72118,Dollon,52,Pays de la Loire,72,Sarthe,48.036,0.594
+72119,Domfront-en-Champagne,52,Pays de la Loire,72,Sarthe,48.109,0.045
+72120,Doucelles,52,Pays de la Loire,72,Sarthe,48.256,0.184
+72121,Douillet,52,Pays de la Loire,72,Sarthe,48.276,-0.05
+72122,Duneau,52,Pays de la Loire,72,Sarthe,48.068,0.535
+72123,Dureil,52,Pays de la Loire,72,Sarthe,47.83,-0.134
+72124,Écommoy,52,Pays de la Loire,72,Sarthe,47.825,0.285
+72125,Écorpain,52,Pays de la Loire,72,Sarthe,47.938,0.637
+72126,Épineu-le-Chevreuil,52,Pays de la Loire,72,Sarthe,48.04,-0.132
+72127,Étival-lès-le-Mans,52,Pays de la Loire,72,Sarthe,47.963,0.077
+72128,Val-d'Étangson,52,Pays de la Loire,72,Sarthe,47.9,0.627
+72129,Fatines,52,Pays de la Loire,72,Sarthe,48.046,0.335
+72130,Fay,52,Pays de la Loire,72,Sarthe,48.001,0.072
+72131,Fercé-sur-Sarthe,52,Pays de la Loire,72,Sarthe,47.897,-0.036
+72132,La Ferté-Bernard,52,Pays de la Loire,72,Sarthe,48.184,0.635
+72133,Fillé,52,Pays de la Loire,72,Sarthe,47.902,0.115
+72134,Flée,52,Pays de la Loire,72,Sarthe,47.732,0.457
+72135,La Fontaine-Saint-Martin,52,Pays de la Loire,72,Sarthe,47.794,0.047
+72136,Fontenay-sur-Vègre,52,Pays de la Loire,72,Sarthe,47.907,-0.215
+72137,Villeneuve-en-Perseigne,52,Pays de la Loire,72,Sarthe,48.438,0.237
+72138,Fresnay-sur-Sarthe,52,Pays de la Loire,72,Sarthe,48.282,0.023
+72139,Fyé,52,Pays de la Loire,72,Sarthe,48.323,0.082
+72141,Gesnes-le-Gandelin,52,Pays de la Loire,72,Sarthe,48.358,0.03
+72142,Grandchamp,52,Pays de la Loire,72,Sarthe,48.307,0.181
+72143,Le Grand-Lucé,52,Pays de la Loire,72,Sarthe,47.867,0.463
+72144,Gréez-sur-Roc,52,Pays de la Loire,72,Sarthe,48.137,0.824
+72145,Le Grez,52,Pays de la Loire,72,Sarthe,48.189,-0.156
+72146,Guécélard,52,Pays de la Loire,72,Sarthe,47.884,0.142
+72147,La Guierche,52,Pays de la Loire,72,Sarthe,48.118,0.201
+72148,Jauzé,52,Pays de la Loire,72,Sarthe,48.211,0.382
+72149,Joué-en-Charnie,52,Pays de la Loire,72,Sarthe,48.016,-0.195
+72150,Joué-l'Abbé,52,Pays de la Loire,72,Sarthe,48.108,0.23
+72151,Juigné-sur-Sarthe,52,Pays de la Loire,72,Sarthe,47.868,-0.292
+72152,Juillé,52,Pays de la Loire,72,Sarthe,48.245,0.126
+72153,Jupilles,52,Pays de la Loire,72,Sarthe,47.792,0.41
+72154,La Flèche,52,Pays de la Loire,72,Sarthe,47.689,-0.065
+72155,Laigné-en-Belin,52,Pays de la Loire,72,Sarthe,47.868,0.234
+72156,Lamnay,52,Pays de la Loire,72,Sarthe,48.106,0.71
+72157,Lavardin,52,Pays de la Loire,72,Sarthe,48.084,0.063
+72158,Lavaré,52,Pays de la Loire,72,Sarthe,48.058,0.657
+72160,Lavernat,52,Pays de la Loire,72,Sarthe,47.719,0.346
+72161,Lhomme,52,Pays de la Loire,72,Sarthe,47.76,0.564
+72163,Ligron,52,Pays de la Loire,72,Sarthe,47.77,-0.013
+72164,Livet-en-Saosnois,52,Pays de la Loire,72,Sarthe,48.356,0.211
+72165,Lombron,52,Pays de la Loire,72,Sarthe,48.086,0.413
+72166,Longnes,52,Pays de la Loire,72,Sarthe,48.021,-0.085
+72167,Louailles,52,Pays de la Loire,72,Sarthe,47.783,-0.239
+72168,Loué,52,Pays de la Loire,72,Sarthe,47.998,-0.138
+72169,Louplande,52,Pays de la Loire,72,Sarthe,47.941,0.049
+72170,Louvigny,52,Pays de la Loire,72,Sarthe,48.336,0.201
+72171,Louzes,52,Pays de la Loire,72,Sarthe,48.428,0.294
+72172,Le Luart,52,Pays de la Loire,72,Sarthe,48.08,0.597
+72173,Luceau,52,Pays de la Loire,72,Sarthe,47.718,0.392
+72174,Lucé-sous-Ballon,52,Pays de la Loire,72,Sarthe,48.211,0.213
+72175,Luché-Pringé,52,Pays de la Loire,72,Sarthe,47.704,0.095
+72176,Le Lude,52,Pays de la Loire,72,Sarthe,47.654,0.15
+72177,Maigné,52,Pays de la Loire,72,Sarthe,47.939,-0.055
+72178,Maisoncelles,52,Pays de la Loire,72,Sarthe,47.938,0.577
+72179,Malicorne-sur-Sarthe,52,Pays de la Loire,72,Sarthe,47.813,-0.088
+72180,Mamers,52,Pays de la Loire,72,Sarthe,48.354,0.371
+72181,Le Mans,52,Pays de la Loire,72,Sarthe,47.988,0.2
+72182,Mansigné,52,Pays de la Loire,72,Sarthe,47.741,0.134
+72183,Marçon,52,Pays de la Loire,72,Sarthe,47.705,0.527
+72184,Mareil-en-Champagne,52,Pays de la Loire,72,Sarthe,47.981,-0.179
+72185,Mareil-sur-Loir,52,Pays de la Loire,72,Sarthe,47.72,0.008
+72186,Maresché,52,Pays de la Loire,72,Sarthe,48.206,0.149
+72187,Marigné-Laillé,52,Pays de la Loire,72,Sarthe,47.818,0.352
+72188,Marollette,52,Pays de la Loire,72,Sarthe,48.376,0.363
+72189,Marolles-les-Braults,52,Pays de la Loire,72,Sarthe,48.254,0.32
+72190,Marolles-lès-Saint-Calais,52,Pays de la Loire,72,Sarthe,47.918,0.793
+72191,Mayet,52,Pays de la Loire,72,Sarthe,47.764,0.28
+72192,Les Mées,52,Pays de la Loire,72,Sarthe,48.314,0.234
+72193,Melleray,52,Pays de la Loire,72,Sarthe,48.095,0.814
+72194,Meurcé,52,Pays de la Loire,72,Sarthe,48.237,0.202
+72195,Mézeray,52,Pays de la Loire,72,Sarthe,47.83,-0.016
+72196,Mézières-sur-Ponthouin,52,Pays de la Loire,72,Sarthe,48.202,0.298
+72197,Mézières-sous-Lavardin,52,Pays de la Loire,72,Sarthe,48.156,0.048
+72198,La Milesse,52,Pays de la Loire,72,Sarthe,48.067,0.136
+72199,Moitron-sur-Sarthe,52,Pays de la Loire,72,Sarthe,48.247,0.06
+72200,Moncé-en-Belin,52,Pays de la Loire,72,Sarthe,47.898,0.196
+72201,Moncé-en-Saosnois,52,Pays de la Loire,72,Sarthe,48.273,0.389
+72202,Monhoudou,52,Pays de la Loire,72,Sarthe,48.287,0.326
+72204,Montaillé,52,Pays de la Loire,72,Sarthe,47.955,0.686
+72205,Montbizot,52,Pays de la Loire,72,Sarthe,48.153,0.182
+72208,Montmirail,52,Pays de la Loire,72,Sarthe,48.107,0.771
+72209,Montreuil-le-Chétif,52,Pays de la Loire,72,Sarthe,48.241,-0.038
+72210,Montreuil-le-Henri,52,Pays de la Loire,72,Sarthe,47.862,0.572
+72211,Mont-Saint-Jean,52,Pays de la Loire,72,Sarthe,48.244,-0.113
+72212,Moulins-le-Carbonnel,52,Pays de la Loire,72,Sarthe,48.374,-0.013
+72213,Mulsanne,52,Pays de la Loire,72,Sarthe,47.919,0.244
+72214,Nauvay,52,Pays de la Loire,72,Sarthe,48.254,0.393
+72215,Neufchâtel-en-Saosnois,52,Pays de la Loire,72,Sarthe,48.388,0.245
+72216,Neuvillalais,52,Pays de la Loire,72,Sarthe,48.154,-0.007
+72217,Neuville-sur-Sarthe,52,Pays de la Loire,72,Sarthe,48.076,0.214
+72218,Neuvillette-en-Charnie,52,Pays de la Loire,72,Sarthe,48.088,-0.207
+72219,Bernay-Neuvy-en-Champagne,52,Pays de la Loire,72,Sarthe,48.079,-0.022
+72220,Nogent-le-Bernard,52,Pays de la Loire,72,Sarthe,48.24,0.504
+72221,Nogent-sur-Loir,52,Pays de la Loire,72,Sarthe,47.656,0.398
+72222,Nouans,52,Pays de la Loire,72,Sarthe,48.238,0.228
+72223,Noyen-sur-Sarthe,52,Pays de la Loire,72,Sarthe,47.859,-0.1
+72224,Nuillé-le-Jalais,52,Pays de la Loire,72,Sarthe,48.02,0.486
+72225,Oisseau-le-Petit,52,Pays de la Loire,72,Sarthe,48.349,0.074
+72226,Oizé,52,Pays de la Loire,72,Sarthe,47.802,0.11
+72227,Panon,52,Pays de la Loire,72,Sarthe,48.339,0.3
+72228,Parcé-sur-Sarthe,52,Pays de la Loire,72,Sarthe,47.821,-0.193
+72229,Parennes,52,Pays de la Loire,72,Sarthe,48.117,-0.186
+72230,Parigné-le-Pôlin,52,Pays de la Loire,72,Sarthe,47.856,0.124
+72231,Parigné-l'Évêque,52,Pays de la Loire,72,Sarthe,47.932,0.372
+72232,Notre-Dame-du-Pé,52,Pays de la Loire,72,Sarthe,47.726,-0.337
+72233,Peray,52,Pays de la Loire,72,Sarthe,48.25,0.371
+72234,Pezé-le-Robert,52,Pays de la Loire,72,Sarthe,48.202,-0.042
+72235,Piacé,52,Pays de la Loire,72,Sarthe,48.266,0.114
+72236,Pincé,52,Pays de la Loire,72,Sarthe,47.798,-0.367
+72237,Pirmil,52,Pays de la Loire,72,Sarthe,47.91,-0.09
+72238,Pizieux,52,Pays de la Loire,72,Sarthe,48.323,0.334
+72239,Poillé-sur-Vègre,52,Pays de la Loire,72,Sarthe,47.916,-0.272
+72241,Montfort-le-Gesnois,52,Pays de la Loire,72,Sarthe,48.058,0.402
+72243,Pontvallain,52,Pays de la Loire,72,Sarthe,47.759,0.199
+72244,Précigné,52,Pays de la Loire,72,Sarthe,47.764,-0.318
+72245,Préval,52,Pays de la Loire,72,Sarthe,48.227,0.62
+72246,Prévelles,52,Pays de la Loire,72,Sarthe,48.154,0.475
+72247,Pruillé-le-Chétif,52,Pays de la Loire,72,Sarthe,47.993,0.106
+72248,Pruillé-l'Éguillé,52,Pays de la Loire,72,Sarthe,47.839,0.422
+72249,La Quinte,52,Pays de la Loire,72,Sarthe,48.051,0.042
+72250,Rahay,52,Pays de la Loire,72,Sarthe,47.958,0.811
+72251,René,52,Pays de la Loire,72,Sarthe,48.277,0.217
+72252,Requeil,52,Pays de la Loire,72,Sarthe,47.787,0.158
+72253,Roëzé-sur-Sarthe,52,Pays de la Loire,72,Sarthe,47.894,0.072
+72254,Rouessé-Fontaine,52,Pays de la Loire,72,Sarthe,48.319,0.148
+72255,Rouessé-Vassé,52,Pays de la Loire,72,Sarthe,48.155,-0.2
+72256,Rouez,52,Pays de la Loire,72,Sarthe,48.138,-0.12
+72257,Rouillon,52,Pays de la Loire,72,Sarthe,48.0,0.142
+72259,Rouperroux-le-Coquet,52,Pays de la Loire,72,Sarthe,48.229,0.439
+72260,Ruaudin,52,Pays de la Loire,72,Sarthe,47.943,0.266
+72261,Ruillé-en-Champagne,52,Pays de la Loire,72,Sarthe,48.057,-0.115
+72262,Loir en Vallée,52,Pays de la Loire,72,Sarthe,47.785,0.618
+72264,Sablé-sur-Sarthe,52,Pays de la Loire,72,Sarthe,47.838,-0.355
+72265,Saint-Aignan,52,Pays de la Loire,72,Sarthe,48.218,0.346
+72266,Saint-Aubin-de-Locquenay,52,Pays de la Loire,72,Sarthe,48.258,0.009
+72267,Saint-Aubin-des-Coudrais,52,Pays de la Loire,72,Sarthe,48.179,0.579
+72268,Saint-Biez-en-Belin,52,Pays de la Loire,72,Sarthe,47.818,0.237
+72269,Saint-Calais,52,Pays de la Loire,72,Sarthe,47.925,0.748
+72270,Saint-Calez-en-Saosnois,52,Pays de la Loire,72,Sarthe,48.308,0.311
+72271,Saint-Célerin,52,Pays de la Loire,72,Sarthe,48.126,0.434
+72272,Sainte-Cérotte,52,Pays de la Loire,72,Sarthe,47.901,0.683
+72273,Saint-Christophe-du-Jambet,52,Pays de la Loire,72,Sarthe,48.234,0.061
+72274,Saint-Christophe-en-Champagne,52,Pays de la Loire,72,Sarthe,47.964,-0.138
+72275,Saint-Corneille,52,Pays de la Loire,72,Sarthe,48.077,0.342
+72276,Saint-Cosme-en-Vairais,52,Pays de la Loire,72,Sarthe,48.274,0.458
+72277,Saint-Denis-des-Coudrais,52,Pays de la Loire,72,Sarthe,48.162,0.507
+72278,Saint-Denis-d'Orques,52,Pays de la Loire,72,Sarthe,48.031,-0.276
+72279,Saint-Georges-de-la-Couée,52,Pays de la Loire,72,Sarthe,47.826,0.591
+72280,Saint-Georges-du-Bois,52,Pays de la Loire,72,Sarthe,47.972,0.101
+72281,Saint-Georges-du-Rosay,52,Pays de la Loire,72,Sarthe,48.2,0.523
+72282,Saint-Georges-le-Gaultier,52,Pays de la Loire,72,Sarthe,48.295,-0.11
+72283,Saint-Germain-d'Arcé,52,Pays de la Loire,72,Sarthe,47.628,0.286
+72286,Saint-Gervais-de-Vic,52,Pays de la Loire,72,Sarthe,47.882,0.733
+72287,Saint-Gervais-en-Belin,52,Pays de la Loire,72,Sarthe,47.87,0.2
+72289,Sainte-Jamme-sur-Sarthe,52,Pays de la Loire,72,Sarthe,48.138,0.158
+72290,Saint-Jean-d'Assé,52,Pays de la Loire,72,Sarthe,48.158,0.122
+72291,Saint-Jean-de-la-Motte,52,Pays de la Loire,72,Sarthe,47.758,0.055
+72292,Saint-Jean-des-Échelles,52,Pays de la Loire,72,Sarthe,48.131,0.733
+72293,Saint-Jean-du-Bois,52,Pays de la Loire,72,Sarthe,47.865,-0.034
+72294,Saint-Léonard-des-Bois,52,Pays de la Loire,72,Sarthe,48.354,-0.087
+72295,Saint-Longis,52,Pays de la Loire,72,Sarthe,48.353,0.337
+72296,Saint-Maixent,52,Pays de la Loire,72,Sarthe,48.109,0.652
+72297,Saint-Marceau,52,Pays de la Loire,72,Sarthe,48.183,0.122
+72298,Saint-Mars-de-Locquenay,52,Pays de la Loire,72,Sarthe,47.932,0.506
+72299,Saint-Mars-d'Outillé,52,Pays de la Loire,72,Sarthe,47.87,0.343
+72300,Saint-Mars-la-Brière,52,Pays de la Loire,72,Sarthe,48.018,0.379
+72302,Saint-Martin-des-Monts,52,Pays de la Loire,72,Sarthe,48.151,0.598
+72303,Saint-Michel-de-Chavaignes,52,Pays de la Loire,72,Sarthe,48.009,0.573
+72305,Saint-Ouen-de-Mimbré,52,Pays de la Loire,72,Sarthe,48.291,0.051
+72306,Saint-Ouen-en-Belin,52,Pays de la Loire,72,Sarthe,47.836,0.212
+72307,Saint-Ouen-en-Champagne,52,Pays de la Loire,72,Sarthe,47.958,-0.179
+72308,Saint-Paterne - Le Chevain,52,Pays de la Loire,72,Sarthe,48.414,0.115
+72309,Saint-Paul-le-Gaultier,52,Pays de la Loire,72,Sarthe,48.326,-0.117
+72310,Saint-Pavace,52,Pays de la Loire,72,Sarthe,48.041,0.195
+72311,Saint-Pierre-de-Chevillé,52,Pays de la Loire,72,Sarthe,47.636,0.434
+72312,Saint-Pierre-des-Bois,52,Pays de la Loire,72,Sarthe,47.942,-0.136
+72313,Saint-Pierre-des-Ormes,52,Pays de la Loire,72,Sarthe,48.293,0.42
+72314,Saint-Pierre-du-Lorouër,52,Pays de la Loire,72,Sarthe,47.796,0.508
+72315,Saint-Rémy-de-Sillé,52,Pays de la Loire,72,Sarthe,48.182,-0.103
+72316,Saint-Rémy-des-Monts,52,Pays de la Loire,72,Sarthe,48.322,0.383
+72317,Saint-Rémy-du-Val,52,Pays de la Loire,72,Sarthe,48.349,0.251
+72319,Sainte-Sabine-sur-Longève,52,Pays de la Loire,72,Sarthe,48.136,0.09
+72320,Saint-Saturnin,52,Pays de la Loire,72,Sarthe,48.059,0.173
+72321,Saint-Symphorien,52,Pays de la Loire,72,Sarthe,48.079,-0.141
+72322,Saint-Ulphace,52,Pays de la Loire,72,Sarthe,48.157,0.84
+72323,Saint-Victeur,52,Pays de la Loire,72,Sarthe,48.317,0.038
+72324,Saint-Vincent-des-Prés,52,Pays de la Loire,72,Sarthe,48.296,0.373
+72325,Saint-Vincent-du-Lorouër,52,Pays de la Loire,72,Sarthe,47.821,0.481
+72326,Saosnes,52,Pays de la Loire,72,Sarthe,48.326,0.288
+72327,Sarcé,52,Pays de la Loire,72,Sarthe,47.722,0.229
+72328,Sargé-lès-le-Mans,52,Pays de la Loire,72,Sarthe,48.042,0.247
+72329,Savigné-l'Évêque,52,Pays de la Loire,72,Sarthe,48.083,0.288
+72330,Savigné-sous-le-Lude,52,Pays de la Loire,72,Sarthe,47.63,0.072
+72331,Sceaux-sur-Huisne,52,Pays de la Loire,72,Sarthe,48.101,0.581
+72332,Ségrie,52,Pays de la Loire,72,Sarthe,48.212,0.017
+72333,Semur-en-Vallon,52,Pays de la Loire,72,Sarthe,48.021,0.672
+72334,Sillé-le-Guillaume,52,Pays de la Loire,72,Sarthe,48.186,-0.133
+72335,Sillé-le-Philippe,52,Pays de la Loire,72,Sarthe,48.106,0.349
+72336,Solesmes,52,Pays de la Loire,72,Sarthe,47.844,-0.281
+72337,Sougé-le-Ganelon,52,Pays de la Loire,72,Sarthe,48.315,-0.044
+72338,Souillé,52,Pays de la Loire,72,Sarthe,48.12,0.173
+72339,Souligné-Flacé,52,Pays de la Loire,72,Sarthe,47.967,0.014
+72340,Souligné-sous-Ballon,52,Pays de la Loire,72,Sarthe,48.137,0.238
+72341,Soulitré,52,Pays de la Loire,72,Sarthe,48.022,0.441
+72342,Souvigné-sur-Même,52,Pays de la Loire,72,Sarthe,48.217,0.649
+72343,Souvigné-sur-Sarthe,52,Pays de la Loire,72,Sarthe,47.825,-0.412
+72344,Spay,52,Pays de la Loire,72,Sarthe,47.925,0.151
+72345,Surfonds,52,Pays de la Loire,72,Sarthe,47.979,0.462
+72346,La Suze-sur-Sarthe,52,Pays de la Loire,72,Sarthe,47.877,0.025
+72347,Tassé,52,Pays de la Loire,72,Sarthe,47.888,-0.149
+72348,Tassillé,52,Pays de la Loire,72,Sarthe,47.988,-0.095
+72349,Teillé,52,Pays de la Loire,72,Sarthe,48.185,0.188
+72350,Teloché,52,Pays de la Loire,72,Sarthe,47.89,0.278
+72351,Tennie,52,Pays de la Loire,72,Sarthe,48.11,-0.086
+72352,Terrehault,52,Pays de la Loire,72,Sarthe,48.204,0.406
+72353,Théligny,52,Pays de la Loire,72,Sarthe,48.172,0.786
+72354,Thoigné,52,Pays de la Loire,72,Sarthe,48.285,0.25
+72355,Thoiré-sous-Contensor,52,Pays de la Loire,72,Sarthe,48.312,0.205
+72356,Thoiré-sur-Dinan,52,Pays de la Loire,72,Sarthe,47.765,0.462
+72357,Thorée-les-Pins,52,Pays de la Loire,72,Sarthe,47.666,0.034
+72358,Thorigné-sur-Dué,52,Pays de la Loire,72,Sarthe,48.03,0.52
+72359,Torcé-en-Vallée,52,Pays de la Loire,72,Sarthe,48.132,0.392
+72360,Trangé,52,Pays de la Loire,72,Sarthe,48.029,0.116
+72361,Tresson,52,Pays de la Loire,72,Sarthe,47.903,0.556
+72362,Le Tronchet,52,Pays de la Loire,72,Sarthe,48.18,0.082
+72363,Tuffé Val de la Chéronne,52,Pays de la Loire,72,Sarthe,48.121,0.508
+72364,Vaas,52,Pays de la Loire,72,Sarthe,47.672,0.315
+72366,Valennes,52,Pays de la Loire,72,Sarthe,48.006,0.805
+72367,Vallon-sur-Gée,52,Pays de la Loire,72,Sarthe,47.96,-0.084
+72368,Vancé,52,Pays de la Loire,72,Sarthe,47.835,0.66
+72369,Verneil-le-Chétif,52,Pays de la Loire,72,Sarthe,47.72,0.299
+72370,Vernie,52,Pays de la Loire,72,Sarthe,48.182,0.018
+72372,Vezot,52,Pays de la Loire,72,Sarthe,48.354,0.295
+72373,Vibraye,52,Pays de la Loire,72,Sarthe,48.048,0.74
+72374,Villaines-la-Carelle,52,Pays de la Loire,72,Sarthe,48.387,0.295
+72375,Villaines-la-Gonais,52,Pays de la Loire,72,Sarthe,48.134,0.608
+72376,Villaines-sous-Lucé,52,Pays de la Loire,72,Sarthe,47.88,0.502
+72377,Villaines-sous-Malicorne,52,Pays de la Loire,72,Sarthe,47.757,-0.105
+72378,Vion,52,Pays de la Loire,72,Sarthe,47.815,-0.264
+72379,Viré-en-Champagne,52,Pays de la Loire,72,Sarthe,47.988,-0.291
+72380,Vivoin,52,Pays de la Loire,72,Sarthe,48.24,0.162
+72381,Voivres-lès-le-Mans,52,Pays de la Loire,72,Sarthe,47.928,0.084
+72382,Volnay,52,Pays de la Loire,72,Sarthe,47.952,0.47
+72383,Vouvray-sur-Huisne,52,Pays de la Loire,72,Sarthe,48.086,0.554
+72385,Yvré-le-Pôlin,52,Pays de la Loire,72,Sarthe,47.834,0.16
+72386,Yvré-l'Évêque,52,Pays de la Loire,72,Sarthe,48.023,0.282
+85001,L'Aiguillon-la-Presqu'île,52,Pays de la Loire,85,Vendée,46.304,-1.262
+85002,L'Aiguillon-sur-Vie,52,Pays de la Loire,85,Vendée,46.671,-1.826
+85003,Aizenay,52,Pays de la Loire,85,Vendée,46.738,-1.627
+85004,Angles,52,Pays de la Loire,85,Vendée,46.387,-1.4
+85005,Antigny,52,Pays de la Loire,85,Vendée,46.619,-0.767
+85006,Apremont,52,Pays de la Loire,85,Vendée,46.757,-1.748
+85008,Aubigny-Les Clouzeaux,52,Pays de la Loire,85,Vendée,46.603,-1.467
+85009,Auchay-sur-Vendée,52,Pays de la Loire,85,Vendée,46.447,-0.877
+85010,Avrillé,52,Pays de la Loire,85,Vendée,46.474,-1.495
+85011,Barbâtre,52,Pays de la Loire,85,Vendée,46.934,-2.167
+85012,La Barre-de-Monts,52,Pays de la Loire,85,Vendée,46.872,-2.1
+85013,Bazoges-en-Paillers,52,Pays de la Loire,85,Vendée,46.921,-1.144
+85014,Bazoges-en-Pareds,52,Pays de la Loire,85,Vendée,46.66,-0.914
+85015,Beaufou,52,Pays de la Loire,85,Vendée,46.819,-1.525
+85016,Beaulieu-sous-la-Roche,52,Pays de la Loire,85,Vendée,46.687,-1.624
+85017,Beaurepaire,52,Pays de la Loire,85,Vendée,46.905,-1.101
+85018,Beauvoir-sur-Mer,52,Pays de la Loire,85,Vendée,46.909,-2.064
+85019,Bellevigny,52,Pays de la Loire,85,Vendée,46.776,-1.433
+85020,Benet,52,Pays de la Loire,85,Vendée,46.369,-0.614
+85021,La Bernardière,52,Pays de la Loire,85,Vendée,47.036,-1.274
+85022,Le Bernard,52,Pays de la Loire,85,Vendée,46.448,-1.44
+85023,Bessay,52,Pays de la Loire,85,Vendée,46.54,-1.17
+85024,Bois-de-Céné,52,Pays de la Loire,85,Vendée,46.948,-1.897
+85025,La Boissière-de-Montaigu,52,Pays de la Loire,85,Vendée,46.945,-1.192
+85026,La Boissière-des-Landes,52,Pays de la Loire,85,Vendée,46.558,-1.444
+85028,Bouillé-Courdault,52,Pays de la Loire,85,Vendée,46.385,-0.685
+85029,Bouin,52,Pays de la Loire,85,Vendée,46.982,-2.004
+85031,Le Boupère,52,Pays de la Loire,85,Vendée,46.788,-0.931
+85033,Bourneau,52,Pays de la Loire,85,Vendée,46.548,-0.814
+85034,Bournezeau,52,Pays de la Loire,85,Vendée,46.63,-1.141
+85035,Bretignolles-sur-Mer,52,Pays de la Loire,85,Vendée,46.638,-1.863
+85036,La Bretonnière-la-Claye,52,Pays de la Loire,85,Vendée,46.488,-1.268
+85038,Les Brouzils,52,Pays de la Loire,85,Vendée,46.885,-1.332
+85039,La Bruffière,52,Pays de la Loire,85,Vendée,47.015,-1.183
+85040,La Caillère-Saint-Hilaire,52,Pays de la Loire,85,Vendée,46.629,-0.933
+85042,Chaillé-les-Marais,52,Pays de la Loire,85,Vendée,46.385,-1.01
+85045,La Chaize-Giraud,52,Pays de la Loire,85,Vendée,46.648,-1.819
+85046,La Chaize-le-Vicomte,52,Pays de la Loire,85,Vendée,46.673,-1.292
+85047,Challans,52,Pays de la Loire,85,Vendée,46.835,-1.84
+85049,Champagné-les-Marais,52,Pays de la Loire,85,Vendée,46.374,-1.134
+85050,Le Champ-Saint-Père,52,Pays de la Loire,85,Vendée,46.516,-1.34
+85051,Chantonnay,52,Pays de la Loire,85,Vendée,46.669,-1.044
+85054,La Chapelle-Hermier,52,Pays de la Loire,85,Vendée,46.683,-1.721
+85055,La Chapelle-Palluau,52,Pays de la Loire,85,Vendée,46.787,-1.625
+85056,La Chapelle-Thémer,52,Pays de la Loire,85,Vendée,46.564,-0.96
+85058,Chasnais,52,Pays de la Loire,85,Vendée,46.446,-1.239
+85059,La Châtaigneraie,52,Pays de la Loire,85,Vendée,46.642,-0.74
+85061,Château-Guibert,52,Pays de la Loire,85,Vendée,46.574,-1.255
+85062,Châteauneuf,52,Pays de la Loire,85,Vendée,46.917,-1.926
+85064,Chauché,52,Pays de la Loire,85,Vendée,46.828,-1.271
+85065,Chavagnes-en-Paillers,52,Pays de la Loire,85,Vendée,46.895,-1.24
+85066,Chavagnes-les-Redoux,52,Pays de la Loire,85,Vendée,46.71,-0.916
+85067,Cheffois,52,Pays de la Loire,85,Vendée,46.679,-0.783
+85070,Coëx,52,Pays de la Loire,85,Vendée,46.708,-1.758
+85071,Commequiers,52,Pays de la Loire,85,Vendée,46.768,-1.825
+85072,La Copechagnière,52,Pays de la Loire,85,Vendée,46.852,-1.344
+85073,Corpe,52,Pays de la Loire,85,Vendée,46.505,-1.17
+85074,La Couture,52,Pays de la Loire,85,Vendée,46.524,-1.265
+85076,Cugand,52,Pays de la Loire,85,Vendée,47.06,-1.253
+85077,Curzon,52,Pays de la Loire,85,Vendée,46.451,-1.301
+85078,Damvix,52,Pays de la Loire,85,Vendée,46.321,-0.744
+85080,Doix lès Fontaines,52,Pays de la Loire,85,Vendée,46.385,-0.807
+85081,Dompierre-sur-Yon,52,Pays de la Loire,85,Vendée,46.76,-1.373
+85082,Les Epesses,52,Pays de la Loire,85,Vendée,46.892,-0.903
+85083,L'Épine,52,Pays de la Loire,85,Vendée,46.984,-2.264
+85084,Essarts-en-Bocage,52,Pays de la Loire,85,Vendée,46.781,-1.229
+85086,Falleron,52,Pays de la Loire,85,Vendée,46.862,-1.701
+85087,Faymoreau,52,Pays de la Loire,85,Vendée,46.543,-0.624
+85088,Le Fenouiller,52,Pays de la Loire,85,Vendée,46.716,-1.892
+85089,La Ferrière,52,Pays de la Loire,85,Vendée,46.722,-1.335
+85090,Sèvremont,52,Pays de la Loire,85,Vendée,46.821,-0.855
+85092,Fontenay-le-Comte,52,Pays de la Loire,85,Vendée,46.456,-0.793
+85093,Fougeré,52,Pays de la Loire,85,Vendée,46.662,-1.236
+85094,Foussais-Payré,52,Pays de la Loire,85,Vendée,46.523,-0.687
+85095,Froidfond,52,Pays de la Loire,85,Vendée,46.879,-1.755
+85096,La Garnache,52,Pays de la Loire,85,Vendée,46.898,-1.824
+85097,La Gaubretière,52,Pays de la Loire,85,Vendée,46.934,-1.056
+85098,La Genétouze,52,Pays de la Loire,85,Vendée,46.724,-1.504
+85099,Le Girouard,52,Pays de la Loire,85,Vendée,46.573,-1.589
+85100,Givrand,52,Pays de la Loire,85,Vendée,46.682,-1.879
+85101,Le Givre,52,Pays de la Loire,85,Vendée,46.473,-1.403
+85102,Grand'Landes,52,Pays de la Loire,85,Vendée,46.848,-1.644
+85103,Grosbreuil,52,Pays de la Loire,85,Vendée,46.539,-1.607
+85104,Grues,52,Pays de la Loire,85,Vendée,46.381,-1.324
+85105,Le Gué-de-Velluire,52,Pays de la Loire,85,Vendée,46.368,-0.905
+85106,La Guérinière,52,Pays de la Loire,85,Vendée,46.967,-2.23
+85108,L'Herbergement,52,Pays de la Loire,85,Vendée,46.917,-1.37
+85109,Les Herbiers,52,Pays de la Loire,85,Vendée,46.867,-1.022
+85110,L'Hermenault,52,Pays de la Loire,85,Vendée,46.516,-0.898
+85111,L'Île-d'Elle,52,Pays de la Loire,85,Vendée,46.333,-0.919
+85112,L'Île-d'Olonne,52,Pays de la Loire,85,Vendée,46.57,-1.774
+85113,L'Île-d'Yeu,52,Pays de la Loire,85,Vendée,46.709,-2.347
+85114,Jard-sur-Mer,52,Pays de la Loire,85,Vendée,46.425,-1.6
+85115,La Jaudonnière,52,Pays de la Loire,85,Vendée,46.649,-0.962
+85116,La Jonchère,52,Pays de la Loire,85,Vendée,46.436,-1.385
+85117,Lairoux,52,Pays de la Loire,85,Vendée,46.45,-1.271
+85118,Landeronde,52,Pays de la Loire,85,Vendée,46.655,-1.574
+85119,Les Landes-Genusson,52,Pays de la Loire,85,Vendée,46.966,-1.129
+85120,Landevieille,52,Pays de la Loire,85,Vendée,46.644,-1.785
+85121,Le Langon,52,Pays de la Loire,85,Vendée,46.439,-0.947
+85123,Liez,52,Pays de la Loire,85,Vendée,46.37,-0.705
+85125,Loge-Fougereuse,52,Pays de la Loire,85,Vendée,46.618,-0.69
+85126,Longèves,52,Pays de la Loire,85,Vendée,46.472,-0.859
+85127,Longeville-sur-Mer,52,Pays de la Loire,85,Vendée,46.409,-1.477
+85128,Luçon,52,Pays de la Loire,85,Vendée,46.451,-1.164
+85129,Les Lucs-sur-Boulogne,52,Pays de la Loire,85,Vendée,46.853,-1.484
+85130,Maché,52,Pays de la Loire,85,Vendée,46.771,-1.695
+85131,Les Magnils-Reigniers,52,Pays de la Loire,85,Vendée,46.464,-1.211
+85132,Maillé,52,Pays de la Loire,85,Vendée,46.342,-0.788
+85133,Maillezais,52,Pays de la Loire,85,Vendée,46.364,-0.75
+85134,Mallièvre,52,Pays de la Loire,85,Vendée,46.911,-0.865
+85135,Mareuil-sur-Lay-Dissais,52,Pays de la Loire,85,Vendée,46.534,-1.227
+85136,Marillet,52,Pays de la Loire,85,Vendée,46.567,-0.634
+85137,Marsais-Sainte-Radégonde,52,Pays de la Loire,85,Vendée,46.538,-0.869
+85138,Martinet,52,Pays de la Loire,85,Vendée,46.662,-1.677
+85139,Le Mazeau,52,Pays de la Loire,85,Vendée,46.33,-0.673
+85140,La Meilleraie-Tillay,52,Pays de la Loire,85,Vendée,46.743,-0.855
+85141,Menomblet,52,Pays de la Loire,85,Vendée,46.73,-0.729
+85142,La Merlatière,52,Pays de la Loire,85,Vendée,46.756,-1.298
+85143,Mervent,52,Pays de la Loire,85,Vendée,46.532,-0.748
+85144,Mesnard-la-Barotière,52,Pays de la Loire,85,Vendée,46.852,-1.11
+85145,Monsireigne,52,Pays de la Loire,85,Vendée,46.738,-0.932
+85146,Montaigu-Vendée,52,Pays de la Loire,85,Vendée,46.976,-1.314
+85147,Montournais,52,Pays de la Loire,85,Vendée,46.75,-0.77
+85148,Montreuil,52,Pays de la Loire,85,Vendée,46.397,-0.841
+85149,Moreilles,52,Pays de la Loire,85,Vendée,46.422,-1.094
+85151,Mortagne-sur-Sèvre,52,Pays de la Loire,85,Vendée,46.991,-0.946
+85152,Les Achards,52,Pays de la Loire,85,Vendée,46.616,-1.65
+85153,Mouchamps,52,Pays de la Loire,85,Vendée,46.787,-1.054
+85154,Mouilleron-Saint-Germain,52,Pays de la Loire,85,Vendée,46.661,-0.847
+85155,Mouilleron-le-Captif,52,Pays de la Loire,85,Vendée,46.71,-1.461
+85156,Moutiers-les-Mauxfaits,52,Pays de la Loire,85,Vendée,46.489,-1.436
+85157,Moutiers-sur-le-Lay,52,Pays de la Loire,85,Vendée,46.565,-1.168
+85158,Mouzeuil-Saint-Martin,52,Pays de la Loire,85,Vendée,46.459,-0.984
+85159,Nalliers,52,Pays de la Loire,85,Vendée,46.466,-1.04
+85160,Nesmy,52,Pays de la Loire,85,Vendée,46.592,-1.41
+85161,Nieul-le-Dolent,52,Pays de la Loire,85,Vendée,46.568,-1.516
+85162,Rives-d'Autise,52,Pays de la Loire,85,Vendée,46.425,-0.666
+85163,Noirmoutier-en-l'Île,52,Pays de la Loire,85,Vendée,47.009,-2.262
+85164,Notre-Dame-de-Monts,52,Pays de la Loire,85,Vendée,46.842,-2.109
+85165,L'Oie,52,Pays de la Loire,85,Vendée,,
+85167,L'Orbrie,52,Pays de la Loire,85,Vendée,46.5,-0.774
+85169,Palluau,52,Pays de la Loire,85,Vendée,46.806,-1.602
+85171,Péault,52,Pays de la Loire,85,Vendée,46.502,-1.227
+85172,Le Perrier,52,Pays de la Loire,85,Vendée,46.82,-1.979
+85174,Petosse,52,Pays de la Loire,85,Vendée,46.48,-0.912
+85175,Les Pineaux,52,Pays de la Loire,85,Vendée,46.599,-1.179
+85176,Pissotte,52,Pays de la Loire,85,Vendée,46.501,-0.808
+85177,Les Velluire-sur-Vendée,52,Pays de la Loire,85,Vendée,46.419,-0.91
+85178,Le Poiré-sur-Vie,52,Pays de la Loire,85,Vendée,46.77,-1.505
+85179,Poiroux,52,Pays de la Loire,85,Vendée,46.511,-1.539
+85181,Pouillé,52,Pays de la Loire,85,Vendée,46.502,-0.955
+85182,Pouzauges,52,Pays de la Loire,85,Vendée,46.781,-0.829
+85184,Puy-de-Serre,52,Pays de la Loire,85,Vendée,46.565,-0.68
+85185,Puyravault,52,Pays de la Loire,85,Vendée,46.365,-1.091
+85186,La Rabatelière,52,Pays de la Loire,85,Vendée,46.858,-1.257
+85187,Réaumur,52,Pays de la Loire,85,Vendée,46.714,-0.817
+85188,La Réorthe,52,Pays de la Loire,85,Vendée,46.611,-1.049
+85189,Notre-Dame-de-Riez,52,Pays de la Loire,85,Vendée,46.753,-1.894
+85190,Rocheservière,52,Pays de la Loire,85,Vendée,46.927,-1.501
+85191,La Roche-sur-Yon,52,Pays de la Loire,85,Vendée,46.668,-1.408
+85192,Rochetrejoux,52,Pays de la Loire,85,Vendée,46.785,-0.997
+85193,Rosnay,52,Pays de la Loire,85,Vendée,46.532,-1.301
+85194,Les Sables-d'Olonne,52,Pays de la Loire,85,Vendée,46.501,-1.793
+85196,Saint-André-Goule-d'Oie,52,Pays de la Loire,85,Vendée,46.841,-1.196
+85197,Montréverd,52,Pays de la Loire,85,Vendée,46.928,-1.413
+85198,Saint-Aubin-des-Ormeaux,52,Pays de la Loire,85,Vendée,46.996,-1.042
+85199,Saint-Aubin-la-Plaine,52,Pays de la Loire,85,Vendée,46.504,-1.065
+85200,Saint-Avaugourd-des-Landes,52,Pays de la Loire,85,Vendée,46.514,-1.475
+85201,Saint-Benoist-sur-Mer,52,Pays de la Loire,85,Vendée,46.427,-1.34
+85202,Sainte-Cécile,52,Pays de la Loire,85,Vendée,46.731,-1.121
+85204,Saint-Christophe-du-Ligneron,52,Pays de la Loire,85,Vendée,46.815,-1.74
+85205,Saint-Cyr-des-Gâts,52,Pays de la Loire,85,Vendée,46.572,-0.863
+85206,Saint-Cyr-en-Talmondais,52,Pays de la Loire,85,Vendée,46.46,-1.337
+85207,Saint-Denis-du-Payré,52,Pays de la Loire,85,Vendée,46.412,-1.272
+85208,Saint-Denis-la-Chevasse,52,Pays de la Loire,85,Vendée,46.833,-1.383
+85209,Saint-Étienne-de-Brillouet,52,Pays de la Loire,85,Vendée,46.514,-1.012
+85210,Saint-Étienne-du-Bois,52,Pays de la Loire,85,Vendée,46.842,-1.596
+85211,Sainte-Flaive-des-Loups,52,Pays de la Loire,85,Vendée,46.611,-1.58
+85212,Sainte-Florence,52,Pays de la Loire,85,Vendée,,
+85213,Rives de l'Yon,52,Pays de la Loire,85,Vendée,46.606,-1.335
+85214,Sainte-Foy,52,Pays de la Loire,85,Vendée,46.533,-1.692
+85215,Saint-Fulgent,52,Pays de la Loire,85,Vendée,46.871,-1.162
+85216,Sainte-Gemme-la-Plaine,52,Pays de la Loire,85,Vendée,46.473,-1.111
+85218,Saint-Georges-de-Pointindoux,52,Pays de la Loire,85,Vendée,46.642,-1.629
+85220,Saint-Germain-de-Prinçay,52,Pays de la Loire,85,Vendée,46.736,-1.043
+85221,Saint-Gervais,52,Pays de la Loire,85,Vendée,46.929,-1.981
+85222,Saint-Gilles-Croix-de-Vie,52,Pays de la Loire,85,Vendée,46.69,-1.92
+85223,Sainte-Hermine,52,Pays de la Loire,85,Vendée,46.557,-1.072
+85226,Saint-Hilaire-de-Riez,52,Pays de la Loire,85,Vendée,46.743,-1.964
+85227,Saint-Hilaire-des-Loges,52,Pays de la Loire,85,Vendée,46.475,-0.651
+85229,Saint-Hilaire-de-Voust,52,Pays de la Loire,85,Vendée,46.592,-0.652
+85231,Saint-Hilaire-la-Forêt,52,Pays de la Loire,85,Vendée,46.455,-1.53
+85232,Saint-Hilaire-le-Vouhis,52,Pays de la Loire,85,Vendée,46.686,-1.152
+85233,Saint-Jean-de-Beugné,52,Pays de la Loire,85,Vendée,46.52,-1.108
+85234,Saint-Jean-de-Monts,52,Pays de la Loire,85,Vendée,46.802,-2.048
+85235,Saint-Juire-Champgillon,52,Pays de la Loire,85,Vendée,46.588,-1.01
+85236,Saint-Julien-des-Landes,52,Pays de la Loire,85,Vendée,46.64,-1.716
+85237,Saint-Laurent-de-la-Salle,52,Pays de la Loire,85,Vendée,46.585,-0.922
+85238,Saint-Laurent-sur-Sèvre,52,Pays de la Loire,85,Vendée,46.951,-0.901
+85239,Saint-Maixent-sur-Vie,52,Pays de la Loire,85,Vendée,46.733,-1.826
+85240,Saint-Malô-du-Bois,52,Pays de la Loire,85,Vendée,46.925,-0.914
+85242,Saint-Mars-la-Réorthe,52,Pays de la Loire,85,Vendée,46.86,-0.926
+85243,Brem-sur-Mer,52,Pays de la Loire,85,Vendée,46.612,-1.81
+85244,Saint-Martin-de-Fraigneau,52,Pays de la Loire,85,Vendée,46.429,-0.759
+85245,Saint-Martin-des-Fontaines,52,Pays de la Loire,85,Vendée,46.546,-0.907
+85246,Saint-Martin-des-Noyers,52,Pays de la Loire,85,Vendée,46.724,-1.204
+85247,Saint-Martin-des-Tilleuls,52,Pays de la Loire,85,Vendée,46.971,-1.063
+85248,Saint-Martin-Lars-en-Sainte-Hermine,52,Pays de la Loire,85,Vendée,46.597,-0.976
+85250,Saint-Mathurin,52,Pays de la Loire,85,Vendée,46.569,-1.708
+85251,Saint-Maurice-des-Noues,52,Pays de la Loire,85,Vendée,46.596,-0.724
+85252,Saint-Maurice-le-Girard,52,Pays de la Loire,85,Vendée,46.64,-0.811
+85254,Saint-Mesmin,52,Pays de la Loire,85,Vendée,46.801,-0.749
+85255,Saint-Michel-en-l'Herm,52,Pays de la Loire,85,Vendée,46.337,-1.248
+85256,Saint-Michel-le-Cloucq,52,Pays de la Loire,85,Vendée,46.486,-0.743
+85259,Saint-Paul-en-Pareds,52,Pays de la Loire,85,Vendée,46.83,-0.964
+85260,Saint-Paul-Mont-Penit,52,Pays de la Loire,85,Vendée,46.807,-1.67
+85261,Sainte-Pexine,52,Pays de la Loire,85,Vendée,46.56,-1.124
+85262,Saint-Philbert-de-Bouaine,52,Pays de la Loire,85,Vendée,46.993,-1.507
+85264,Saint-Pierre-du-Chemin,52,Pays de la Loire,85,Vendée,46.696,-0.702
+85265,Saint-Pierre-le-Vieux,52,Pays de la Loire,85,Vendée,46.401,-0.743
+85266,Saint-Prouant,52,Pays de la Loire,85,Vendée,46.75,-0.974
+85267,Sainte-Radégonde-des-Noyers,52,Pays de la Loire,85,Vendée,46.369,-1.067
+85268,Saint-Révérend,52,Pays de la Loire,85,Vendée,46.706,-1.832
+85269,Saint-Sigismond,52,Pays de la Loire,85,Vendée,46.337,-0.707
+85273,Saint-Urbain,52,Pays de la Loire,85,Vendée,46.882,-2.016
+85274,Saint-Valérien,52,Pays de la Loire,85,Vendée,46.535,-0.944
+85276,Saint-Vincent-Sterlanges,52,Pays de la Loire,85,Vendée,46.74,-1.084
+85277,Saint-Vincent-sur-Graon,52,Pays de la Loire,85,Vendée,46.504,-1.383
+85278,Saint-Vincent-sur-Jard,52,Pays de la Loire,85,Vendée,46.43,-1.55
+85280,Sallertaine,52,Pays de la Loire,85,Vendée,46.866,-1.949
+85281,Sérigné,52,Pays de la Loire,85,Vendée,46.505,-0.849
+85282,Sigournais,52,Pays de la Loire,85,Vendée,46.714,-0.988
+85284,Soullans,52,Pays de la Loire,85,Vendée,46.795,-1.914
+85285,Le Tablier,52,Pays de la Loire,85,Vendée,46.56,-1.328
+85286,La Taillée,52,Pays de la Loire,85,Vendée,46.385,-0.941
+85287,Tallud-Sainte-Gemme,52,Pays de la Loire,85,Vendée,46.695,-0.886
+85288,Talmont-Saint-Hilaire,52,Pays de la Loire,85,Vendée,46.476,-1.628
+85289,Terval,52,Pays de la Loire,85,Vendée,46.664,-0.728
+85290,Thiré,52,Pays de la Loire,85,Vendée,46.543,-1.007
+85291,Thorigny,52,Pays de la Loire,85,Vendée,46.618,-1.249
+85292,Rives-du-Fougerais,52,Pays de la Loire,85,Vendée,46.606,-0.874
+85293,Tiffauges,52,Pays de la Loire,85,Vendée,47.002,-1.099
+85294,La Tranche-sur-Mer,52,Pays de la Loire,85,Vendée,46.356,-1.431
+85295,Treize-Septiers,52,Pays de la Loire,85,Vendée,46.998,-1.232
+85296,Treize-Vents,52,Pays de la Loire,85,Vendée,46.917,-0.846
+85297,Triaize,52,Pays de la Loire,85,Vendée,46.379,-1.199
+85298,Vairé,52,Pays de la Loire,85,Vendée,46.606,-1.749
+85300,Venansault,52,Pays de la Loire,85,Vendée,46.686,-1.541
+85301,Vendrennes,52,Pays de la Loire,85,Vendée,46.823,-1.116
+85302,Chanverrie,52,Pays de la Loire,85,Vendée,46.964,-0.985
+85303,Vix,52,Pays de la Loire,85,Vendée,46.354,-0.857
+85304,Vouillé-les-Marais,52,Pays de la Loire,85,Vendée,46.389,-0.968
+85305,Vouvant,52,Pays de la Loire,85,Vendée,46.563,-0.764
+85306,Xanton-Chassenon,52,Pays de la Loire,85,Vendée,46.452,-0.706
