@@ -48,7 +48,8 @@ def afficher_top5_plantes(df,selection):
                 photo = get_inaturalist_image(plante)
                 st.image(photo, width=200)
             except:
-                    st.write("📷 Photo non disponible")
+                    # st.write("📷 Photo non disponible")
+                st.image("plante_image.png", width=200)
         
         with col2:
             # Afficher le nom de la plante
