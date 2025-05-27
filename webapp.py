@@ -3,7 +3,7 @@ import pandas as pd
 import requests
 
 st.set_page_config(
-    page_title="Nature & Design - Paysagiste",  # ✅ Titre de l'onglet
+    page_title="Nature & Design - Paysagiste", 
     page_icon="🌿"
 )
 
@@ -69,7 +69,7 @@ def afficher_top5_plantes(df,selection):
 
 villes_df = pd.read_csv("villes_bretagne.csv")
 villes = villes_df["nom_standard"].sort_values()
-dep_plants_csv = ["Côtes-d’Armor (22)_plantes.csv","Finistère (29)_plantes.csv","Ille-et-Vilaine (35)_plantes.csv"]
+dep_plants_csv = ["Côtes-d’Armor (22)_plantes.csv","Finistère (29)_plantes.csv","Ille-et-Vilaine (35)_plantes.csv","Loire-Atlantique (44)_plantes.csv","Morbihan (56)_plantes.csv"]
 
 st.title("Quelles sont les meilleures plantes d'intérieur à planter dans mon jardin ?")
 selection = st.selectbox(label = "Entrez votre ville", options = villes, index = None )
